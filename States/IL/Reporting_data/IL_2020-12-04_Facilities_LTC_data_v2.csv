@@ -1,0 +1,1380 @@
+County,FacilityName,CMS_ProvNum,ReportingDate,confirmed_cases,deaths,CFR,outbreaks,Closed_Outbreaks,Open_Outbreaks,facilities
+Kankakee,Samuel H. Shapiro Developmental Center,No Match,2020-12-04,312,1,0.003205128205128205,2,1,1,1
+Cook,Ludeman Developmental Center,No Match,2020-12-04,263,9,0.034220532319391636,1,1,0,1
+Cook,City View Multi Care Center,145850,2020-12-04,249,15,0.060240963855421686,1,1,0,1
+Lake,Avantara Long Grove,145868,2020-12-04,228,32,0.14035087719298245,1,1,0,1
+Cook,Peterson Park Health Care,145838,2020-12-04,225,36,0.16,2,1,1,1
+Cook,Niles Nursing and Rehab Center,145696,2020-12-04,225,54,0.24,2,1,1,1
+Cook,Symphony at Midway,145995,2020-12-04,222,27,0.12162162162162163,3,2,1,1
+Cook,Symphony of South Shore,145977,2020-12-04,219,29,0.1324200913242009,2,0,2,1
+Cook,Woodbridge Nursing Pavilion,145792,2020-12-04,219,40,0.182648401826484,1,1,0,1
+LaSalle,Illinois Veterans Home - LaSalle,No Match,2020-12-04,211,30,0.14218009478672985,2,1,1,1
+Cook,Symphony of Lincoln Park,145510,2020-12-04,211,31,0.14691943127962084,2,1,1,1
+Cook,Aperion Care International of Chicago,146001,2020-12-04,207,28,0.13526570048309178,1,0,1,1
+Cook,Symphony of Morgan Park,145764,2020-12-04,205,26,0.12682926829268293,2,0,2,1
+Cook,Bria River Oaks,145735,2020-12-04,201,2,0.009950248756218905,1,0,1,1
+Will,Meadowbrook Manor of Bolingbrook,No Match,2020-12-04,196,41,0.20918367346938777,2,1,1,1
+DuPage,Manorcare Hinsdale,145246,2020-12-04,194,38,0.1958762886597938,2,1,1,1
+Cook,Glenview Terrace,145268,2020-12-04,190,33,0.1736842105263158,1,1,0,1
+Cook,Elevate Care Chicago North,145484,2020-12-04,189,34,0.17989417989417988,2,1,1,1
+Cook,Symphony at 87th,145983,2020-12-04,184,34,0.18478260869565216,1,0,1,1
+Kane,River View Rehab ,No Match,2020-12-04,182,7,0.038461538461538464,1,0,1,1
+Lake,Hillcrest Retirement Village,146130,2020-12-04,178,19,0.10674157303370786,1,0,1,1
+Kane,Tower Hill Healthcare Center,145795,2020-12-04,176,30,0.17045454545454544,2,1,1,1
+Cook,Bria Forest Edge,145864,2020-12-04,170,2,0.011764705882352941,1,0,1,1
+Cook,Norridge Gardens,145329,2020-12-04,169,46,0.27218934911242604,1,0,1,1
+Kankakee,Riverside Miller Rehabilitation,No Match,2020-12-04,166,22,0.13253012048192772,2,1,1,1
+Cook,Villa at Windsor Park,145970,2020-12-04,162,44,0.2716049382716049,2,2,0,1
+Cook,Mayfield Care Center,145885,2020-12-04,159,23,0.14465408805031446,2,1,1,1
+Cook,California Gardens Nursing and Rehabilitation Cent,145625,2020-12-04,157,6,0.03821656050955414,1,1,0,1
+DuPage,Bria of Westmont,145405,2020-12-04,152,29,0.19078947368421054,1,0,1,1
+Cook,Fairmont Care,145867,2020-12-04,151,32,0.2119205298013245,1,1,0,1
+Cook,Harmony Healthcare and Rehab,145775,2020-12-04,150,29,0.19333333333333333,2,1,1,1
+Cook,Clark Manor,145507,2020-12-04,149,16,0.10738255033557047,2,1,1,1
+Will,Sunny Hill Nursing Home,145892,2020-12-04,148,19,0.12837837837837837,2,1,1,1
+Kane,Bria of Geneva,146067,2020-12-04,147,30,0.20408163265306123,2,1,1,1
+DuPage,DuPage Care Center,145050,2020-12-04,145,5,0.034482758620689655,1,0,1,1
+Cook,Generations at Regency,145237,2020-12-04,143,33,0.23076923076923078,2,1,1,1
+Will,Presence Villa Franciscan,145029,2020-12-04,142,20,0.14084507042253522,2,1,1,1
+Cook,Midway Neuro and Rehab,145778,2020-12-04,142,12,0.08450704225352113,1,1,0,1
+Coles,Mattoon Rehabilitation and Health Care Center,No Match,2020-12-04,141,16,0.11347517730496454,1,0,1,1
+LaSalle,Heritage Health Mendota,145151,2020-12-04,139,24,0.17266187050359713,2,1,1,1
+Cook,Warren Barr Gold Coast,145336,2020-12-04,139,9,0.06474820143884892,1,0,1,1
+LaSalle,Liberty Village of Peru - Manor Court,No Match,2020-12-04,139,28,0.2014388489208633,1,0,1,1
+Macon,Imboden Creek,No Match,2020-12-04,135,7,0.05185185185185185,1,0,1,1
+Cook,Citadel of Northbrook,145982,2020-12-04,133,12,0.09022556390977443,1,0,1,1
+Will,symphony of joliet,145372,2020-12-04,130,25,0.19230769230769232,1,1,0,1
+Cook,Alden Lakeland,145450,2020-12-04,129,3,0.023255813953488372,3,2,1,1
+DuPage,Winfield Woods Healthcare Center,146168,2020-12-04,126,3,0.023809523809523808,4,3,1,1
+Cook,Mosaic of Lakeshore,145244,2020-12-04,126,29,0.23015873015873015,2,1,1,1
+Kane,Symphony of Orchard Valley,145473,2020-12-04,126,24,0.19047619047619047,2,2,0,1
+Cook,Alden Town Manor Rehabilitation & Health Care Cent,145736,2020-12-04,126,26,0.20634920634920634,1,0,1,1
+Lee,Jack Mabley Developmental Center,No Match,2020-12-04,125,1,0.008,2,2,0,1
+Greene,White Hall Nursing and Rehab,145519,2020-12-04,124,24,0.1935483870967742,1,0,1,1
+Williamson,Shawnee Senior Living,146036,2020-12-04,124,19,0.1532258064516129,2,1,1,1
+Cook,Pearl of Rolling Meadows,145350,2020-12-04,124,10,0.08064516129032258,2,1,1,1
+Cook,Uptown Health Center,145881,2020-12-04,124,18,0.14516129032258066,2,1,1,1
+Cook,Golfview Developmental Center,No Match,2020-12-04,123,11,0.08943089430894309,1,1,0,1
+Madison,University Care Center,145985,2020-12-04,122,13,0.10655737704918032,3,2,1,1
+Sangamon,Villa East,145721,2020-12-04,122,26,0.21311475409836064,1,1,0,1
+Cook,Center Home for Hispanic Elderly,146062,2020-12-04,122,30,0.2459016393442623,1,0,1,1
+Cook,Presence Resurrection Life Center,145960,2020-12-04,121,12,0.09917355371900827,1,0,1,1
+Marion,Fireside House of Centralia,145791,2020-12-04,121,2,0.01652892561983471,1,0,1,1
+Randolph,Red Bud Regional Care Center,145309,2020-12-04,121,10,0.08264462809917356,1,0,1,1
+Cook,Ambassador Nursing,145343,2020-12-04,120,9,0.075,2,1,1,1
+Lake,Rolling Hills Manor,145443,2020-12-04,120,17,0.14166666666666666,3,1,2,1
+DuPage,Alden Estates of Naperville,145582,2020-12-04,120,22,0.18333333333333332,3,2,1,1
+Marion,Odin Care Center,145649,2020-12-04,120,17,0.14166666666666666,1,0,1,1
+DuPage,Forestview Rehabilitation & Nursing Center,145752,2020-12-04,118,18,0.15254237288135594,1,1,0,1
+DuPage,West Suburban Nursing & Rehabilitation Center,145333,2020-12-04,118,17,0.1440677966101695,1,0,1,1
+Cook,Carlton at the Lake,145679,2020-12-04,118,20,0.1694915254237288,2,1,1,1
+Cook,Grosse Pointe Manor,145999,2020-12-04,117,25,0.21367521367521367,1,1,0,1
+Will,Salem Village NH,145618,2020-12-04,117,8,0.06837606837606838,1,0,1,1
+Macon,Villa Clara Post Acute,145965,2020-12-04,117,14,0.11965811965811966,1,0,1,1
+Cook,ManorCare ElkGrove Village,145689,2020-12-04,116,25,0.21551724137931033,1,1,0,1
+Rock Island,Centennial Care Center,145680,2020-12-04,116,16,0.13793103448275862,1,0,1,1
+Cook,Bellhaven Nursing and Rehabilitation,145549,2020-12-04,115,9,0.0782608695652174,1,0,1,1
+Ogle,Generations at Neighbors,145440,2020-12-04,115,15,0.13043478260869565,1,0,1,1
+Cook,Addolorata Villa,145724,2020-12-04,114,20,0.17543859649122806,2,1,1,1
+Madison,Meridian Village,146142,2020-12-04,114,7,0.06140350877192982,1,0,1,1
+Monroe,Oak Hill,145445,2020-12-04,114,18,0.15789473684210525,1,0,1,1
+Marion,Bryan Manor,No Match,2020-12-04,113,5,0.04424778761061947,1,0,1,1
+DuPage,Bridgeway Senior Living,No Match,2020-12-04,112,9,0.08035714285714286,2,1,1,1
+Lawrence,Aperion HealthCare,No Match,2020-12-04,111,5,0.04504504504504504,1,0,1,1
+Madison,Stearns Nursing and Rehabilitation Center,145847,2020-12-04,111,20,0.18018018018018017,1,1,0,1
+Rock Island,Heartland Healthcare Center Moline,145027,2020-12-04,111,11,0.0990990990990991,1,0,1,1
+Will,Spring Creek Nursing Home,146172,2020-12-04,111,10,0.09009009009009009,2,1,1,1
+Cook,Norwood crossing Skilled Nursing,145974,2020-12-04,111,18,0.16216216216216217,1,0,1,1
+Cook,Avanti Wellness & Rehabilitation ,No Match,2020-12-04,110,16,0.14545454545454545,1,1,0,1
+Will,Beecher Manor ,No Match,2020-12-04,110,17,0.15454545454545454,1,0,1,1
+DuPage,Windsor Park Manor,No Match,2020-12-04,109,21,0.1926605504587156,1,0,1,1
+Richland,Richland Nursing and Rehab,145135,2020-12-04,109,15,0.13761467889908258,1,0,1,1
+Cook,Windsor Estates,145967,2020-12-04,109,23,0.21100917431192662,1,1,0,1
+Cook,Austin Oasis,145834,2020-12-04,108,16,0.14814814814814814,2,0,2,1
+Whiteside,Exceptional Care and Training Center,No Match,2020-12-04,107,4,0.037383177570093455,1,0,1,1
+Cook,Bellwood Developmental Center,No Match,2020-12-04,107,2,0.018691588785046728,1,0,1,1
+Cook,Lee Manor Rehab and Nursing,145382,2020-12-04,107,20,0.18691588785046728,1,0,1,1
+Madison,Edwardsville Care Center,145555,2020-12-04,107,22,0.205607476635514,2,1,1,1
+Knox,Seminary Manor,145598,2020-12-04,107,18,0.16822429906542055,1,0,1,1
+Cook,Alden Estates of Northmoor,145888,2020-12-04,106,20,0.18867924528301888,1,0,1,1
+Cook,Avantara Evergreen Park,145734,2020-12-04,105,23,0.21904761904761905,2,1,1,1
+Cook,Lieberman Geriatric Center,145931,2020-12-04,105,14,0.13333333333333333,1,0,1,1
+Kankakee,Illinois Veterans Home Manteno,No Match,2020-12-04,104,19,0.18269230769230768,2,1,1,1
+Cook,The Grove of Northbrook,145809,2020-12-04,104,7,0.0673076923076923,2,1,1,1
+Cook,Astoria Place of Chicago,145634,2020-12-04,104,20,0.19230769230769232,1,1,0,1
+St. Clair,Four Fountains,No Match,2020-12-04,104,31,0.2980769230769231,1,1,0,1
+Cook,Bria of Palos Hills,145650,2020-12-04,103,18,0.17475728155339806,1,0,1,1
+DuPage,Oakbrook Care,145458,2020-12-04,103,24,0.23300970873786409,1,1,0,1
+Peoria,Heritage Health,No Match,2020-12-04,103,19,0.18446601941747573,1,0,1,1
+Will,Lakewood Nursing Home,145761,2020-12-04,103,8,0.07766990291262135,3,2,1,1
+Will,Frankfort Terrace,140E213,2020-12-04,103,2,0.019417475728155338,1,0,1,1
+Cook,Central Nursing Home,145648,2020-12-04,102,17,0.16666666666666666,2,1,1,1
+Cook,Manor Care Oak Lawn EAST. Cook,No Match,2020-12-04,102,22,0.21568627450980393,1,0,1,1
+Clinton,Warren G. Murray Developmental Center,No Match,2020-12-04,101,0,0.0,1,0,1,1
+Cook,Aperion Care Oak Lawn,145197,2020-12-04,101,22,0.21782178217821782,1,1,0,1
+Lake,Aperion Care Highwood,145936,2020-12-04,101,13,0.12871287128712872,2,1,1,1
+Jersey,Liberty Village of Jerseyville,No Match,2020-12-04,100,18,0.18,1,1,0,1
+Madison,Eden Village Care Center,145384,2020-12-04,100,26,0.26,3,2,1,1
+Knox,Knox County Nursing Home,145697,2020-12-04,100,10,0.1,2,1,1,1
+Cook,Atrium Health Care Center,145479,2020-12-04,99,10,0.10101010101010101,1,0,1,1
+Madison,Granite Nursing and Rehabilitation Center,146075,2020-12-04,99,23,0.23232323232323232,2,1,1,1
+Lake,Symphony Buffalo Grove,145819,2020-12-04,99,10,0.10101010101010101,1,0,1,1
+Shelby,Shelbyville Manor,145441,2020-12-04,99,11,0.1111111111111111,2,1,1,1
+DuPage,Arista Healthcare Naperville,145358,2020-12-04,99,4,0.04040404040404041,3,2,1,1
+Williamson,Parkway Manor,145841,2020-12-04,99,22,0.2222222222222222,1,0,1,1
+Carroll,Big Meadows Nursing Home,14E701,2020-12-04,99,9,0.09090909090909091,1,0,1,1
+Christian,taylorville care center,145502,2020-12-04,98,16,0.16326530612244897,1,0,1,1
+DuPage,The Grove of Elmhurst,145339,2020-12-04,98,15,0.15306122448979592,1,0,1,1
+Cook,Chalet Living And Rehab Center,145670,2020-12-04,97,14,0.14432989690721648,1,1,0,1
+St. Clair,Caseyville Care Center2,145585,2020-12-04,97,0,0.0,1,0,1,1
+Madison,Care Center at Center Grove,145846,2020-12-04,97,2,0.020618556701030927,2,1,1,1
+Rock Island,Hope Creek,145269,2020-12-04,97,3,0.030927835051546393,1,0,1,1
+Cook,Bella Terra Wheeling,145835,2020-12-04,97,19,0.1958762886597938,1,0,1,1
+Adams,St Vincents Nursing Home,145457,2020-12-04,96,16,0.16666666666666666,1,0,1,1
+Kane,The Grove Fox Valley,145006,2020-12-04,96,15,0.15625,2,1,1,1
+DuPage,St. Patricks Residence Nursing and Rehabilitation,145878,2020-12-04,96,3,0.03125,1,0,1,1
+Coles,Charleston Rehab and Healthcare,145636,2020-12-04,95,17,0.17894736842105263,1,1,0,1
+Pike,Liberty Village of Pittsfield,No Match,2020-12-04,95,6,0.06315789473684211,1,0,1,1
+Lake,Kiley Development Center,No Match,2020-12-04,95,2,0.021052631578947368,2,1,1,1
+Cook,Lakeview Nursing and Rehab,145654,2020-12-04,95,22,0.23157894736842105,2,0,2,1
+Macon,Fairhavens Senior Living,145422,2020-12-04,95,21,0.22105263157894736,1,1,0,1
+Cook,Landmark of Des Plaines,145334,2020-12-04,95,22,0.23157894736842105,1,0,1,1
+Lake,Warren Barr North Shore,145923,2020-12-04,94,18,0.19148936170212766,1,0,1,1
+Mason,Mason City Area Nursing Home ,No Match,2020-12-04,94,12,0.1276595744680851,1,1,0,1
+Cook,Southpoint Nsg and Rehab,145914,2020-12-04,93,11,0.11827956989247312,2,1,1,1
+Cook,Smith Village,145904,2020-12-04,93,14,0.15053763440860216,2,1,1,1
+Will,St James Manor,145611,2020-12-04,93,26,0.27956989247311825,1,0,1,1
+Kane,Asbury Gardens,146170,2020-12-04,92,19,0.20652173913043478,1,1,0,1
+Bureau,Aperion Care- Princeton,145437,2020-12-04,92,5,0.05434782608695652,1,0,1,1
+McHenry,Alden Terrace of McHenry,145453,2020-12-04,91,13,0.14285714285714285,1,0,1,1
+Jefferson,Mt. Vernon Healthcare Center,14E812,2020-12-04,91,17,0.18681318681318682,1,1,0,1
+Cook,Alden PoplarCreek,145403,2020-12-04,91,26,0.2857142857142857,1,0,1,1
+Bureau,Aperion Care Spring Valley,No Match,2020-12-04,90,9,0.1,1,0,1,1
+Cook,Elevate Care Northbrook,145171,2020-12-04,89,18,0.20224719101123595,1,0,1,1
+Cook,The Grove of Evanston,145011,2020-12-04,89,19,0.21348314606741572,1,1,0,1
+Boone,Symphony Northwoods,No Match,2020-12-04,89,16,0.1797752808988764,1,1,0,1
+Cook,Meadowbrook Manor,145710,2020-12-04,89,13,0.14606741573033707,2,1,1,1
+Rock Island,St. Anthonys Continue Care,145387,2020-12-04,89,15,0.16853932584269662,1,1,0,1
+De Witt,Liberty Village,No Match,2020-12-04,89,15,0.16853932584269662,1,0,1,1
+Cook,Glenwood Health Care & Rehab,No Match,2020-12-04,89,6,0.06741573033707865,1,0,1,1
+Cook,Generations at Elmwood Park,145419,2020-12-04,89,19,0.21348314606741572,1,1,0,1
+Adams,Illinois Veterans Home Quincy,No Match,2020-12-04,88,3,0.03409090909090909,1,0,1,1
+Winnebago,Ascension St Anne Center,145563,2020-12-04,88,15,0.17045454545454544,1,1,0,1
+Cook,Beacon Care Center,145776,2020-12-04,88,14,0.1590909090909091,2,1,1,1
+Cook,Presence Villa Scalabrini Nursing&Rehab Center,145956,2020-12-04,87,6,0.06896551724137931,1,0,1,1
+Cook,Community Care Nursing Home,146164,2020-12-04,87,9,0.10344827586206896,2,1,1,1
+Sangamon,Brother James Court,No Match,2020-12-04,86,4,0.046511627906976744,1,0,1,1
+McHenry,Crystal Pines Rehabilitation & Hlth Care Facility,145257,2020-12-04,86,15,0.1744186046511628,1,1,0,1
+DuPage,Burgess Square Healthcare & Rehab Center,145219,2020-12-04,86,4,0.046511627906976744,2,1,1,1
+DuPage,Alden Valley Ridge,145379,2020-12-04,86,24,0.27906976744186046,2,1,1,1
+DuPage,Brookdale Lisle,146061,2020-12-04,86,9,0.10465116279069768,3,2,1,1
+Sangamon,St. Josephs Home,No Match,2020-12-04,85,6,0.07058823529411765,1,0,1,1
+Peoria,Sharon Healthcare Pines,No Match,2020-12-04,85,1,0.011764705882352941,1,0,1,1
+Clinton,Carlyle HealthCare Center,145729,2020-12-04,85,15,0.17647058823529413,1,1,0,1
+Madison,Liberty Village,No Match,2020-12-04,85,6,0.07058823529411765,1,0,1,1
+Cook,Birchwood Plaza Nursing-Rehab,145532,2020-12-04,85,15,0.17647058823529413,1,1,0,1
+Cook,Bella Terra Morton Grove,145198,2020-12-04,85,11,0.12941176470588237,2,1,1,1
+Cook,MADO Healthcare Uptown,146191,2020-12-04,84,9,0.10714285714285714,1,0,1,1
+Ford,Accolade Senior Living,No Match,2020-12-04,84,4,0.047619047619047616,1,0,1,1
+Winnebago,Forest City Rehab and Nursing,145937,2020-12-04,83,9,0.10843373493975904,1,1,0,1
+Cook,Generations at Applewood,145781,2020-12-04,83,20,0.24096385542168675,1,1,0,1
+Cook,ManorCare Oak Lawn West,145087,2020-12-04,82,18,0.21951219512195122,1,1,0,1
+Union,Integrity of Anna,146006,2020-12-04,82,13,0.15853658536585366,1,1,0,1
+DeKalb,Pine Acres,145261,2020-12-04,82,12,0.14634146341463414,1,1,0,1
+DuPage,Terra Vista of Oakbrook Terrace,No Match,2020-12-04,82,10,0.12195121951219512,2,1,1,1
+Winnebago,River Bluff Nursing Home,145771,2020-12-04,82,10,0.12195121951219512,2,2,0,1
+Cook,South Suburban Rehab Center,146132,2020-12-04,81,20,0.24691358024691357,1,1,0,1
+St. Clair,Lebanon Care Center ,No Match,2020-12-04,81,13,0.16049382716049382,1,0,1,1
+Cook,Buckingham Pavilion,145285,2020-12-04,81,13,0.16049382716049382,2,1,1,1
+Morgan,Jacksonville Skilled Nursing and Rehab Center,145273,2020-12-04,81,18,0.2222222222222222,1,0,1,1
+Lake,Alden Long Grove,No Match,2020-12-04,80,21,0.2625,1,1,0,1
+Wayne,Aperion Care,No Match,2020-12-04,80,9,0.1125,1,0,1,1
+Cook,Albany Care,No Match,2020-12-04,80,0,0.0,1,0,1,1
+Cook,Alden Lincoln Park Rehab,145126,2020-12-04,80,13,0.1625,2,1,1,1
+Morgan,Aperion Care Jacksonville,145928,2020-12-04,80,6,0.075,2,1,1,1
+Winnebago,Alden Debes Rehab Inc,145142,2020-12-04,79,20,0.25316455696202533,1,1,0,1
+Cook,Dobson Plaza,145122,2020-12-04,79,21,0.26582278481012656,2,1,1,1
+DuPage,Providence Healthcare & Rehabilitation Center,145657,2020-12-04,78,18,0.23076923076923078,2,1,1,1
+Cook,Continental Nursing and Rehabilitation Center,145730,2020-12-04,78,12,0.15384615384615385,1,0,1,1
+Cook,Elevate Care Irving Park,145415,2020-12-04,78,13,0.16666666666666666,2,1,1,1
+Iroquois,Gilman Health Care Center,145347,2020-12-04,78,14,0.1794871794871795,1,1,0,1
+Cook,Citadel of Waterford,No Match,2020-12-04,78,13,0.16666666666666666,3,2,1,1
+Cook,Lemont Center,145901,2020-12-04,77,11,0.14285714285714285,1,0,1,1
+Cook,Lexington Health Care Orland Park,145899,2020-12-04,77,18,0.23376623376623376,1,1,0,1
+Cook,Aperion Care Forest Park,145969,2020-12-04,77,7,0.09090909090909091,2,1,1,1
+Kankakee,Citadel of Kankakee,145043,2020-12-04,77,2,0.025974025974025976,1,0,1,1
+Jefferson,Nature Trail Health Care Center,146021,2020-12-04,76,10,0.13157894736842105,1,0,1,1
+Kane,Citadel of Elgin,145004,2020-12-04,76,10,0.13157894736842105,2,1,1,1
+Cook,Warren Barr Lincoln Park,145875,2020-12-04,76,11,0.14473684210526316,2,1,1,1
+Cook,Landmark of Richton Park,145424,2020-12-04,76,9,0.11842105263157894,2,1,1,1
+Lake,Wauconda Care,145887,2020-12-04,76,16,0.21052631578947367,2,1,1,1
+Cook,Parkshore Estates,145938,2020-12-04,76,1,0.013157894736842105,2,1,1,1
+Will,Joliet Terrace,140E248,2020-12-04,75,2,0.02666666666666667,3,2,1,1
+Boone,Park Place,No Match,2020-12-04,75,1,0.013333333333333334,1,0,1,1
+Perry,Pinckneyville Nursing and Rehabilitation,146175,2020-12-04,74,11,0.14864864864864866,1,0,1,1
+Kane,Highland Oaks,14A383,2020-12-04,74,13,0.17567567567567569,2,1,1,1
+DuPage,Abbington Rehab & Nursing Center,146065,2020-12-04,74,6,0.08108108108108109,1,0,1,1
+Cook,Central Plaza,No Match,2020-12-04,74,1,0.013513513513513514,1,1,0,1
+Boone,Maple Crest Care Center,145990,2020-12-04,74,0,0.0,1,0,1,1
+Lake,Riverside Foundation,No Match,2020-12-04,74,5,0.06756756756756757,1,1,0,1
+Lake,Bayside Terrace,No Match,2020-12-04,74,2,0.02702702702702703,1,1,0,1
+Cook,Symphony of Chicago West,145661,2020-12-04,74,7,0.0945945945945946,2,1,1,1
+Lake,Elevate Care Waukegan,145669,2020-12-04,74,13,0.17567567567567569,1,1,0,1
+St. Clair,BRIA of Belleville,145668,2020-12-04,73,8,0.1095890410958904,1,0,1,1
+Clark,Heartland Manor Nursing home,No Match,2020-12-04,73,17,0.2328767123287671,1,0,1,1
+Jefferson,GreenTree at Mt. Vernon,No Match,2020-12-04,73,16,0.2191780821917808,1,1,0,1
+DuPage,Lexington of Bloomingdale,145638,2020-12-04,72,21,0.2916666666666667,1,0,1,1
+Peoria,Apostolic Christian Skyline,145933,2020-12-04,72,7,0.09722222222222222,1,1,0,1
+Winnebago,Amberwood,145908,2020-12-04,72,11,0.1527777777777778,1,1,0,1
+Cook,Countryside Nursing and Rehab Center,145798,2020-12-04,72,11,0.1527777777777778,1,0,1,1
+Cook,Manor Care Palos Heights East,145607,2020-12-04,72,9,0.125,1,0,1,1
+Ford,Piper City Rehab,145489,2020-12-04,72,13,0.18055555555555555,2,1,1,1
+Will,Victorian Village,146178,2020-12-04,72,2,0.027777777777777776,2,1,1,1
+Tazewell,Villas of Holly Brook & Reflections Pekin,No Match,2020-12-04,71,11,0.15492957746478872,1,0,1,1
+Coles,Hilltop Skilled Nursing,145862,2020-12-04,71,5,0.07042253521126761,1,1,0,1
+Lake,Elevate Care Riverwoods,145304,2020-12-04,71,12,0.16901408450704225,2,1,1,1
+Kane,Avondale Estates of Elgin,146181,2020-12-04,71,6,0.08450704225352113,1,0,1,1
+Sangamon,Aperion Care Springfield,No Match,2020-12-04,71,2,0.028169014084507043,1,0,1,1
+Cook,Chicago Ridge Nursing and Rehab,145639,2020-12-04,71,17,0.23943661971830985,1,1,0,1
+Cook,Alden Wentworth  Rehab & Healthcare Center,No Match,2020-12-04,71,15,0.2112676056338028,1,1,0,1
+McHenry,Cross Roads Care Center,145222,2020-12-04,71,13,0.18309859154929578,1,1,0,1
+Madison,Riverside Rehab and Healthcare,145651,2020-12-04,71,17,0.23943661971830985,2,1,1,1
+Lake,Belmont Village of Buffalo Grove,No Match,2020-12-04,70,19,0.2714285714285714,2,1,1,1
+Whiteside,Resthave Care and Rehabilitation ,No Match,2020-12-04,70,13,0.18571428571428572,1,0,1,1
+St. Clair,Cedar Ridge,145571,2020-12-04,70,13,0.18571428571428572,1,1,0,1
+Fayette,Aperion Care St Elmo,145857,2020-12-04,69,11,0.15942028985507245,1,0,1,1
+McHenry,Hearthstone Manor ,No Match,2020-12-04,69,7,0.10144927536231885,1,1,0,1
+Cook,Waterfront Terrace,145939,2020-12-04,69,13,0.18840579710144928,1,1,0,1
+Knox,Serenity of Lake Storey,145619,2020-12-04,69,6,0.08695652173913043,1,0,1,1
+Cook,Misericordia,No Match,2020-12-04,68,3,0.04411764705882353,2,2,0,1
+Cook,Montgomery Place,145748,2020-12-04,68,4,0.058823529411764705,2,1,1,1
+DeKalb,Willow Crest Nursing Pavilion,145712,2020-12-04,68,15,0.22058823529411764,1,1,0,1
+Cook,Arden Courts/Manor Care of South Holland ,No Match,2020-12-04,68,8,0.11764705882352941,1,1,0,1
+DuPage,Meadowbrook Manor Naperville,145874,2020-12-04,68,4,0.058823529411764705,2,1,1,1
+Will,The PARC of Joliet,145221,2020-12-04,68,17,0.25,1,1,0,1
+Cook,ManorCare Palos Heights East,145607,2020-12-04,67,12,0.1791044776119403,1,1,0,1
+Pike,Barry Community Care,146051,2020-12-04,67,13,0.19402985074626866,1,0,1,1
+Cook,The Admiral at the Lake,146165,2020-12-04,67,6,0.08955223880597014,1,0,1,1
+LaSalle,Aperion Care Marseilles,145295,2020-12-04,67,10,0.14925373134328357,2,1,1,1
+Madison,Alton Memorial Rehab and Therapy,145121,2020-12-04,67,16,0.23880597014925373,1,0,1,1
+Lake,Whitehall of Deerfield,145706,2020-12-04,67,3,0.04477611940298507,1,1,0,1
+Franklin,Stonebridge Senior Living Center,No Match,2020-12-04,66,7,0.10606060606060606,1,0,1,1
+Sangamon,Lewis Memorial Christian Village,146026,2020-12-04,66,4,0.06060606060606061,1,0,1,1
+Cook,Bridgeview HC,145208,2020-12-04,66,15,0.22727272727272727,1,1,0,1
+Peoria,Christian Buehler Home,No Match,2020-12-04,66,12,0.18181818181818182,1,0,1,1
+Macon,Prairie Creek Village,146003,2020-12-04,65,4,0.06153846153846154,3,2,1,1
+Tazewell,Aperion Morton,145248,2020-12-04,65,6,0.09230769230769231,1,1,0,1
+Whiteside,Citadel of Sterling ,No Match,2020-12-04,65,12,0.18461538461538463,1,0,1,1
+Cook,The Clare,146141,2020-12-04,65,0,0.0,3,2,1,1
+St. Clair,Integrity Care of Smithton,146188,2020-12-04,65,10,0.15384615384615385,1,0,1,1
+Cook,Generations At Oakton,145626,2020-12-04,64,13,0.203125,2,1,1,1
+DuPage,Chateau Center Nursing & Rehabilitation,145614,2020-12-04,64,14,0.21875,2,1,1,1
+DuPage,The Birches Assisted Living Clarendon Hills,No Match,2020-12-04,64,0,0.0,2,1,1,1
+Lake,Warren Barr Lincolnshire,146028,2020-12-04,64,5,0.078125,2,1,1,1
+Kane,Heritage Woods of Batavia ,No Match,2020-12-04,64,5,0.078125,1,0,1,1
+Cook,Symphony of Bronzeville,145337,2020-12-04,64,17,0.265625,1,1,0,1
+Kane,Avantara of Elgin,145699,2020-12-04,63,13,0.20634920634920634,1,0,1,1
+Tazewell,Timbercreek Rehab and Healthcare,145275,2020-12-04,63,12,0.19047619047619047,1,0,1,1
+Cook,Westwood Manor,146149,2020-12-04,63,2,0.031746031746031744,1,1,0,1
+Lake,Claridge Health Center,145434,2020-12-04,63,18,0.2857142857142857,1,1,0,1
+Cook,Lincolnwood Place,145786,2020-12-04,63,17,0.2698412698412698,1,0,1,1
+Jasper,Newton Care Center,145807,2020-12-04,63,8,0.12698412698412698,2,1,1,1
+Cook,Aperion Care Plum Grove,145658,2020-12-04,63,19,0.30158730158730157,1,0,1,1
+Cook,Arbour Health Care Center,146169,2020-12-04,63,3,0.047619047619047616,2,1,1,1
+Peoria,Lutheran Hillside Village,No Match,2020-12-04,63,0,0.0,3,2,1,1
+Cook,The Grove of Berwyn,145070,2020-12-04,62,15,0.24193548387096775,2,1,1,1
+Clinton,Aviston Countryside Manor,145601,2020-12-04,62,15,0.24193548387096775,1,0,1,1
+White,Wabash Christian Retirement,146019,2020-12-04,62,7,0.11290322580645161,1,0,1,1
+St. Clair,Dammert Center/The Esquiline2,No Match,2020-12-04,62,12,0.1935483870967742,1,0,1,1
+Clinton,Warrren G Murray Develpmental Center,No Match,2020-12-04,62,0,0.0,1,1,0,1
+Cook,Warren Barr South Loop,145632,2020-12-04,61,3,0.04918032786885246,1,0,1,1
+Clay,Flora Gardens,145624,2020-12-04,61,13,0.21311475409836064,1,1,0,1
+Cook,Bella Terra Streamwood,145701,2020-12-04,61,5,0.08196721311475409,1,0,1,1
+Madison,Beverly Farm Foundation,No Match,2020-12-04,61,1,0.01639344262295082,1,1,0,1
+Madison,Integrity of Godfrey,145656,2020-12-04,61,8,0.13114754098360656,1,1,0,1
+Cook,Little Sisters of the Poor/St. Marys Home,146185,2020-12-04,61,13,0.21311475409836064,1,1,0,1
+Vermilion,Arcadia Care of Danville,145753,2020-12-04,60,4,0.06666666666666667,1,0,1,1
+Cook,Alden Princeton Rehab & Health,145688,2020-12-04,60,12,0.2,2,1,1,1
+Cook,Lutheran Home,145768,2020-12-04,59,10,0.1694915254237288,2,1,1,1
+Lake,The Grove By the Lake,145665,2020-12-04,59,9,0.15254237288135594,1,1,0,1
+DuPage,Sunrise of Naperville North Assisted Living,No Match,2020-12-04,59,6,0.1016949152542373,1,0,1,1
+McLean,Bloomington Rehabilitation and Healthcare Center,145610,2020-12-04,59,11,0.1864406779661017,1,1,0,1
+Tazewell,Washington Senior Living,No Match,2020-12-04,59,2,0.03389830508474576,1,0,1,1
+DuPage,Tabor Hills Healthcare,145840,2020-12-04,59,8,0.13559322033898305,3,2,1,1
+Cook,Estates of Hyde Park,145828,2020-12-04,59,12,0.2033898305084746,2,1,1,1
+Whiteside,Winning Wheels,No Match,2020-12-04,59,6,0.1016949152542373,1,0,1,1
+Will,Our Lady Of Angels Retirement Home,146126,2020-12-04,59,6,0.1016949152542373,2,1,1,1
+Livingston,Evenglow Lodge,146095,2020-12-04,59,5,0.0847457627118644,1,0,1,1
+Sangamon,Mill Creek Alzheimers Special Care Unit,No Match,2020-12-04,59,10,0.1694915254237288,1,0,1,1
+Cass,Heritage Health,No Match,2020-12-04,59,9,0.15254237288135594,1,0,1,1
+Will,Parc of Joliet,No Match,2020-12-04,59,1,0.01694915254237288,1,0,1,1
+Cook,Sheridan Village,145482,2020-12-04,58,19,0.3275862068965517,1,0,1,1
+Champaign,Illini Heritage Rehab And Health,146017,2020-12-04,58,7,0.1206896551724138,1,0,1,1
+Cass,Walker Nursing Home,146100,2020-12-04,57,11,0.19298245614035087,1,1,0,1
+Madison,Alton Mental Health Center,No Match,2020-12-04,57,0,0.0,1,0,1,1
+St. Clair,Cedar Ridge2,No Match,2020-12-04,57,0,0.0,1,0,1,1
+Cook,Symphony of Crestwood,145718,2020-12-04,57,9,0.15789473684210525,1,0,1,1
+Franklin,Benton Rehab and Nusing,146121,2020-12-04,57,4,0.07017543859649122,1,0,1,1
+Cook,Park View Rehab,145765,2020-12-04,57,11,0.19298245614035087,2,1,1,1
+Cook,Bethesda Rehab and Senior Care,145844,2020-12-04,57,7,0.12280701754385964,2,1,1,1
+Stephenson,Manor Court ,No Match,2020-12-04,56,7,0.125,1,0,1,1
+DuPage,Westmont Manor Health and Rehab Center,145338,2020-12-04,56,16,0.2857142857142857,2,1,1,1
+DuPage,Wheaton Village,145715,2020-12-04,56,7,0.125,1,0,1,1
+Lake,Terrace Nursing Home,No Match,2020-12-04,56,12,0.21428571428571427,2,1,1,1
+Cook,Sunrise of Park Ridge,No Match,2020-12-04,56,12,0.21428571428571427,2,1,1,1
+Madison,Hitz Memorial Home,145921,2020-12-04,56,5,0.08928571428571429,1,0,1,1
+Saline,Saline Care Nursing and Rehab,146134,2020-12-04,55,12,0.21818181818181817,1,0,1,1
+Cook,Arden Courts of Palos Heights,No Match,2020-12-04,55,10,0.18181818181818182,1,0,1,1
+Cook,ManorCare Health Services-Palos Heights West,145893,2020-12-04,55,16,0.2909090909090909,1,1,0,1
+Christian,Taylorville Skilled Nursing (fka Meadow Manor),146048,2020-12-04,55,4,0.07272727272727272,1,0,1,1
+Clinton,Breese Nursing Home,145410,2020-12-04,54,8,0.14814814814814814,1,0,1,1
+Jackson,Manor Court of Carbondale,146171,2020-12-04,54,10,0.18518518518518517,2,1,1,1
+Will,Senior Star At Weber Place,No Match,2020-12-04,54,2,0.037037037037037035,1,0,1,1
+St. Clair,Integrity Care of Belleville2,No Match,2020-12-04,54,0,0.0,1,0,1,1
+Peoria,University Rehab Center,145364,2020-12-04,54,16,0.2962962962962963,1,1,0,1
+Rock Island,Generations of Rock Island,145950,2020-12-04,54,15,0.2777777777777778,1,1,0,1
+Winnebago,Alpine Fireside Health Center,146066,2020-12-04,54,7,0.12962962962962962,2,1,1,1
+Cook,Winston Manor,140E170,2020-12-04,54,8,0.14814814814814814,2,2,0,1
+Adams,Golden Good Shepperd Home,No Match,2020-12-04,54,8,0.14814814814814814,1,0,1,1
+McLean,Arcadia Care Bloomington/Aperion,No Match,2020-12-04,54,0,0.0,1,0,1,1
+DuPage,The Auberge at Naperville,No Match,2020-12-04,54,5,0.09259259259259259,2,1,1,1
+Cook,Resurrection Nursing & rehab Center,No Match,2020-12-04,54,9,0.16666666666666666,1,1,0,1
+Cook,All American Nursing Home,14A057,2020-12-04,53,4,0.07547169811320754,2,1,1,1
+Iroquois,Watseka Rehabilitation and Healthcare ,No Match,2020-12-04,53,2,0.03773584905660377,1,0,1,1
+Macon,Fair Havens Senior Living Facility,No Match,2020-12-04,53,4,0.07547169811320754,1,0,1,1
+DuPage,Aperion Care West Chicago,145830,2020-12-04,53,8,0.1509433962264151,3,2,1,1
+St. Clair,New Athens Home for the Aged,146115,2020-12-04,53,9,0.16981132075471697,1,1,0,1
+Cook,Palos Heights Nursing and Rehab,145681,2020-12-04,52,10,0.19230769230769232,1,1,0,1
+Cook,Manor Care Health Services-Homewood,145684,2020-12-04,52,15,0.28846153846153844,1,1,0,1
+St. Clair,Memorial Care Center,No Match,2020-12-04,52,8,0.15384615384615385,2,1,1,1
+Cook,Little Village Nursing Home,146018,2020-12-04,52,7,0.1346153846153846,4,3,1,1
+Mason,Havana Health Care Center,No Match,2020-12-04,52,6,0.11538461538461539,1,0,1,1
+DuPage,Oakbrook Care Rehabilitation & Recover,No Match,2020-12-04,52,4,0.07692307692307693,1,0,1,1
+Cook,Franciscan Village,146029,2020-12-04,52,6,0.11538461538461539,2,0,2,1
+Lake,Whitehall North,No Match,2020-12-04,51,5,0.09803921568627451,1,0,1,1
+Cook,Lake Cook Rehab & Healthcare(formerly Rosewood),145971,2020-12-04,51,12,0.23529411764705882,1,1,0,1
+Kane,Fox River Rehab and Healthcare,145821,2020-12-04,51,15,0.29411764705882354,1,1,0,1
+Cook,Selfhelp Home,146009,2020-12-04,51,4,0.0784313725490196,2,1,1,1
+St. Clair,St. Pauls,146122,2020-12-04,51,14,0.27450980392156865,1,1,0,1
+Iroquois,Ascension Presence Merkle Knipprath,146085,2020-12-04,51,4,0.0784313725490196,1,1,0,1
+Shelby,Moweaqua Rehabilitation and Health Care,146162,2020-12-04,51,3,0.058823529411764705,1,0,1,1
+Lake,Lexington of Lake Zurich,145816,2020-12-04,50,12,0.24,1,1,0,1
+Rock Island,Aspen Rehab,14E361,2020-12-04,50,10,0.2,1,1,0,1
+DuPage,The Springs of Monarch Landing Skilled Nursing,146173,2020-12-04,50,4,0.08,1,0,1,1
+Kendall,Symphony At The Tillers of Oswego,146034,2020-12-04,50,9,0.18,1,1,0,1
+Jackson,Neurorestorative,No Match,2020-12-04,49,1,0.02040816326530612,1,0,1,1
+Cook,North Shore Place,No Match,2020-12-04,49,2,0.04081632653061224,2,1,1,1
+DuPage,Beacon Hill Lombard,145522,2020-12-04,49,6,0.12244897959183673,2,1,1,1
+Lake,The Solana Deer Park,No Match,2020-12-04,49,8,0.16326530612244897,2,1,1,1
+Cook,Lakefront Nursing,145235,2020-12-04,49,0,0.0,2,1,1,1
+Morgan,Heritage Health Care Center,No Match,2020-12-04,49,7,0.14285714285714285,1,0,1,1
+Cook,Praire Oasis South Holland,145927,2020-12-04,49,14,0.2857142857142857,1,1,0,1
+Cook,Pauls House,No Match,2020-12-04,49,6,0.12244897959183673,1,1,0,1
+Cumberland,Heartland Senior Living,146030,2020-12-04,49,5,0.10204081632653061,1,0,1,1
+Crawford,Ridgeview Care Center,No Match,2020-12-04,48,2,0.041666666666666664,1,0,1,1
+Edgar,Twin Lakes Rehab Center,145466,2020-12-04,48,7,0.14583333333333334,1,0,1,1
+Cook,Three Crown Park ,No Match,2020-12-04,48,8,0.16666666666666666,1,1,0,1
+McLean,Bickford of BLoomington,No Match,2020-12-04,48,8,0.16666666666666666,1,1,0,1
+McDonough,Heartland Health Care Center,No Match,2020-12-04,48,15,0.3125,1,1,0,1
+Kendall,Bickford of oswego,No Match,2020-12-04,47,7,0.14893617021276595,1,0,1,1
+DeKalb,Oakcrest DeKalb Area Retirement Center,146105,2020-12-04,47,1,0.02127659574468085,1,0,1,1
+Fayette,Vandalia Rehabilitation and Health Care Center,145903,2020-12-04,47,5,0.10638297872340426,1,0,1,1
+Winnebago,Crimson Pointe Senior Living,No Match,2020-12-04,47,12,0.2553191489361702,1,1,0,1
+Cook,Mercy Circle,146174,2020-12-04,47,3,0.06382978723404255,2,1,1,1
+Will,Clarendale of Mokena,No Match,2020-12-04,47,8,0.1702127659574468,2,1,1,1
+Cook,The Carrington Linclonwood,No Match,2020-12-04,46,4,0.08695652173913043,2,1,1,1
+Lake,Radford Green at Sedgebrook,146136,2020-12-04,46,6,0.13043478260869565,1,1,0,1
+Cook,Presbyterian Westminster Homes,No Match,2020-12-04,46,2,0.043478260869565216,1,0,1,1
+Cook,Westchester Health and Rehabilitation Center,145660,2020-12-04,46,12,0.2608695652173913,1,1,0,1
+Cook,Berkeley Nursing and Rehabilitation Center,146013,2020-12-04,46,11,0.2391304347826087,2,1,1,1
+Carroll,Allure of Mount Carroll,145770,2020-12-04,46,8,0.17391304347826086,1,0,1,1
+McHenry,The Fountains at Crystal Lake,No Match,2020-12-04,46,15,0.32608695652173914,1,1,0,1
+McDonough,Countryview Care Center of Macomb,146080,2020-12-04,46,5,0.10869565217391304,1,0,1,1
+Lake,Libertyville Manor,145344,2020-12-04,46,16,0.34782608695652173,1,1,0,1
+Cook,Transitional Care Arlington Hgts,No Match,2020-12-04,45,7,0.15555555555555556,1,0,1,1
+Union,Integrity of Cobden,145922,2020-12-04,45,7,0.15555555555555556,1,1,0,1
+Cook,Aperion Care West Ridge,145832,2020-12-04,45,14,0.3111111111111111,2,1,1,1
+Knox,Marigold,No Match,2020-12-04,45,16,0.35555555555555557,1,0,1,1
+Cook,Alden Estates of Orland Park,145963,2020-12-04,45,13,0.28888888888888886,1,0,1,1
+Winnebago,Alden Debes Rehabilitation & Health Care Center,No Match,2020-12-04,45,3,0.06666666666666667,1,0,1,1
+Lake,Manor Care of Libertyville,145593,2020-12-04,45,6,0.13333333333333333,2,2,0,1
+DuPage,Franciscan Court Supportive Living,No Match,2020-12-04,45,4,0.08888888888888889,1,0,1,1
+Cook,Elevate Saint Andrew,146176,2020-12-04,45,9,0.2,2,1,1,1
+Jo Daviess,Waverly Place of Stockton,No Match,2020-12-04,45,4,0.08888888888888889,1,0,1,1
+St. Clair,Bria of Cahokia,145613,2020-12-04,44,4,0.09090909090909091,2,1,1,1
+Clinton,Clinton Manor Living Facility,146025,2020-12-04,44,1,0.022727272727272728,2,2,0,1
+Vermilion,Illiana Va Medical,No Match,2020-12-04,44,5,0.11363636363636363,1,0,1,1
+St. Clair,Swansea Rehabilitation and Health Care Center,145981,2020-12-04,44,9,0.20454545454545456,1,0,1,1
+Cook,Clearbrook Center,No Match,2020-12-04,44,7,0.1590909090909091,1,1,0,1
+DuPage,Harvester Place Memory Care,No Match,2020-12-04,43,14,0.32558139534883723,2,1,1,1
+Woodford,Apostolic Christian Home Eureka,No Match,2020-12-04,43,7,0.16279069767441862,1,0,1,1
+DuPage,Lexington of Lombard,145511,2020-12-04,43,12,0.27906976744186046,1,0,1,1
+Sangamon,Auburn Rehab and Healthcare Center,145136,2020-12-04,43,4,0.09302325581395349,1,0,1,1
+Whiteside,Good Sam - Prophets Riverview,No Match,2020-12-04,43,9,0.20930232558139536,1,0,1,1
+Cook,Weinberg Senior Living,No Match,2020-12-04,43,8,0.18604651162790697,1,0,1,1
+Will,Smith Crossing,146110,2020-12-04,43,2,0.046511627906976744,3,2,1,1
+DeKalb,Bethany Rehab and Health Care Center #2,145958,2020-12-04,43,0,0.0,1,0,1,1
+Cook,Lexington Healthcare of La Grange,145737,2020-12-04,43,5,0.11627906976744186,2,1,1,1
+DuPage,Alden Village,No Match,2020-12-04,42,1,0.023809523809523808,2,1,1,1
+Cook,Plymouth Place Senior Living,146128,2020-12-04,42,11,0.2619047619047619,1,1,0,1
+DuPage,Artis Senior Living Elmhurst,No Match,2020-12-04,42,20,0.47619047619047616,1,1,0,1
+Lake,Autumn Leaves of Gurnee,No Match,2020-12-04,42,11,0.2619047619047619,1,1,0,1
+DuPage,Atria Park of Glen Ellyn,No Match,2020-12-04,42,4,0.09523809523809523,2,1,1,1
+McHenry,Sheltered Village,No Match,2020-12-04,42,9,0.21428571428571427,1,1,0,1
+Jo Daviess,Galena Stauss Nursing Home,146140,2020-12-04,42,8,0.19047619047619047,2,1,1,1
+Cook,Brandel Care Center,145527,2020-12-04,41,8,0.1951219512195122,2,1,1,1
+Woodford,Heritage Health El Paso,145319,2020-12-04,41,9,0.21951219512195122,1,0,1,1
+Lee,Dixon Healthc,No Match,2020-12-04,41,7,0.17073170731707318,1,0,1,1
+Lake,Captain James A Lovell FHCC CLC,No Match,2020-12-04,41,6,0.14634146341463414,2,2,0,1
+Cook,BRIA of Chicago Heights,145898,2020-12-04,41,1,0.024390243902439025,1,1,0,1
+Kane,Alden of Waterford,146182,2020-12-04,41,10,0.24390243902439024,1,1,0,1
+Effingham,LAKELAND REHABILITATION & HEALTH CARE,145256,2020-12-04,41,5,0.12195121951219512,1,0,1,1
+Cook,Alden Estates of Barrington,145557,2020-12-04,41,0,0.0,2,1,1,1
+Jackson,Integrity Healthcare of Carbondale,145757,2020-12-04,41,5,0.12195121951219512,1,1,0,1
+Ford,Accolade Healthcare of Paxton on Pells,145603,2020-12-04,41,3,0.07317073170731707,1,1,0,1
+Cook,Alden,145998,2020-12-04,40,3,0.075,1,0,1,1
+Kankakee,Aperion Care Bradley,146112,2020-12-04,40,1,0.025,2,1,1,1
+Cook,Aperion Care Chicago Heights,145180,2020-12-04,40,1,0.025,2,1,1,1
+McLean,The Villas of Holly Brook Fox Creek,No Match,2020-12-04,40,4,0.1,1,0,1,1
+McHenry,The Springs at Crystal Lake,145612,2020-12-04,40,10,0.25,2,1,1,1
+Tazewell,Generations Riverview SNF,145524,2020-12-04,40,10,0.25,1,0,1,1
+DeKalb,Lincolnshire Place,No Match,2020-12-04,40,0,0.0,1,0,1,1
+McLean,Heritage Health of Normal,145732,2020-12-04,40,6,0.15,1,0,1,1
+Cook,Tri-States Nursing & rehab Center,145879,2020-12-04,40,5,0.125,1,0,1,1
+Kane,Bickford of Aurora,No Match,2020-12-04,40,8,0.2,3,2,1,1
+Kane,Elmwood Terrace,145663,2020-12-04,40,6,0.15,2,1,1,1
+Kane,Heritage Health Therapy and Senior Care,No Match,2020-12-04,40,3,0.075,1,1,0,1
+Cook,Prairie Manor Rehab and Nursing,145629,2020-12-04,40,12,0.3,1,0,1,1
+Peoria,University Rehab at Northmoor,145647,2020-12-04,40,1,0.025,2,1,1,1
+LaSalle,LaSalle County Nursing Home,146116,2020-12-04,39,7,0.1794871794871795,1,1,0,1
+Cook,The Pointe of Kilpatrick ,No Match,2020-12-04,38,7,0.18421052631578946,1,0,1,1
+Lee,Franklin Grove Living and Rehabilitation,No Match,2020-12-04,38,10,0.2631578947368421,1,0,1,1
+Madison,Cedarhurst of Bethalto,No Match,2020-12-04,38,2,0.05263157894736842,2,1,1,1
+Cook,Burbank Rehab - Vera Care Stickney,145211,2020-12-04,38,11,0.2894736842105263,1,1,0,1
+Monroe,Garden Place Independant & Assisted Living,No Match,2020-12-04,38,11,0.2894736842105263,1,1,0,1
+Cook,Villa at Palos Heights,145779,2020-12-04,38,5,0.13157894736842105,2,1,1,1
+Lake,Bickford of Gurnee,No Match,2020-12-04,38,9,0.23684210526315788,1,0,1,1
+Marion,Heritage Woods of Centralia,No Match,2020-12-04,38,2,0.05263157894736842,2,1,1,1
+Jersey,Jerseyville Nursing and Rehab Facility,No Match,2020-12-04,38,0,0.0,1,0,1,1
+Kane,South Elgin Rehab,145825,2020-12-04,38,1,0.02631578947368421,2,1,1,1
+Peoria,Generations at Peoria,No Match,2020-12-04,38,7,0.18421052631578946,1,0,1,1
+Kankakee,Momence Meadows Nursing & Rehabilitation Center ,No Match,2020-12-04,38,2,0.05263157894736842,1,0,1,1
+Cook,Inverness Health and Rehab Center,145994,2020-12-04,37,9,0.24324324324324326,1,0,1,1
+Marion,Centralia Manor,145666,2020-12-04,37,0,0.0,1,0,1,1
+Champaign,Champaign Urbana Nursing and Rehab,145439,2020-12-04,37,1,0.02702702702702703,1,0,1,1
+Moultrie,Sullivan Rehabilitation and Health Care Center,145370,2020-12-04,37,3,0.08108108108108109,1,1,0,1
+DeKalb,Prairie Crossing Living and Rehab,145414,2020-12-04,37,0,0.0,1,0,1,1
+Kane,Avantara Elgin,145699,2020-12-04,37,4,0.10810810810810811,1,1,0,1
+Clinton,Trenton Village Retirement,No Match,2020-12-04,37,4,0.10810810810810811,1,0,1,1
+Kane,Autumn Leaves of St. Charles,No Match,2020-12-04,37,7,0.1891891891891892,1,0,1,1
+Cook,Aperion Care Dolton,145877,2020-12-04,37,6,0.16216216216216217,2,1,1,1
+DuPage,Belmont Village Senior Living,No Match,2020-12-04,37,2,0.05405405405405406,1,0,1,1
+Clark," Villas of Holly Brook Marshall, Clark ",No Match,2020-12-04,37,1,0.02702702702702703,1,0,1,1
+Champaign,Reflections Memory Care,No Match,2020-12-04,37,4,0.10810810810810811,2,1,1,1
+McDonough,The Elms Nursing Home,No Match,2020-12-04,36,15,0.4166666666666667,1,0,1,1
+Lake,Cottages of Fox Lake,No Match,2020-12-04,36,3,0.08333333333333333,1,0,1,1
+LaSalle,Streator Unlimited Inc.,No Match,2020-12-04,36,1,0.027777777777777776,1,1,0,1
+Cook,Alden Village North,No Match,2020-12-04,36,0,0.0,2,1,1,1
+Will,Alden Courts of Shorewood,146183,2020-12-04,36,3,0.08333333333333333,3,2,1,1
+Clinton,The Villas at St. James,No Match,2020-12-04,36,1,0.027777777777777776,1,0,1,1
+Cook,ManorCare of Elk Grove Village,No Match,2020-12-04,36,5,0.1388888888888889,1,0,1,1
+Clinton,Carlyle Healthcare Center,145729,2020-12-04,36,1,0.027777777777777776,1,0,1,1
+DuPage,Sunrise Fountain Square Lombard,No Match,2020-12-04,35,1,0.02857142857142857,1,0,1,1
+Will,Arbor Terrace,No Match,2020-12-04,35,5,0.14285714285714285,1,1,0,1
+Logan,Christian Nursing Home,145430,2020-12-04,35,5,0.14285714285714285,3,2,1,1
+Cook,Summit of Uptown,No Match,2020-12-04,35,15,0.42857142857142855,1,1,0,1
+Stephenson,Stephenson Nursing Center,145895,2020-12-04,35,7,0.2,2,1,1,1
+McHenry,Florence Nursing Home,146127,2020-12-04,35,4,0.11428571428571428,3,2,1,1
+Lake,Springs of Vernon Hills Alzheimers Special Care,No Match,2020-12-04,35,0,0.0,1,0,1,1
+Cook,Greek American Rehab & Care,146031,2020-12-04,35,2,0.05714285714285714,2,1,1,1
+Adams,Good Samaritan Home,145773,2020-12-04,34,1,0.029411764705882353,1,0,1,1
+Vermilion,Gardenview Manor,145926,2020-12-04,34,7,0.20588235294117646,2,1,1,1
+Kane,Asbury Gardens ,No Match,2020-12-04,34,2,0.058823529411764705,1,0,1,1
+Tazewell,Apostolic Christian Restmor,145436,2020-12-04,34,0,0.0,2,1,1,1
+Kane,Jennings Terrace,14A539,2020-12-04,34,1,0.029411764705882353,2,1,1,1
+DuPage,The Radcliff Wood Dale,No Match,2020-12-04,34,4,0.11764705882352941,2,1,1,1
+Lake,Winchester House,No Match,2020-12-04,34,7,0.20588235294117646,1,1,0,1
+Monroe,Integrity Healthcare-Columbia Rehab & Care Center,145717,2020-12-04,34,9,0.2647058823529412,1,0,1,1
+Cook,Harbor House Memory Care,No Match,2020-12-04,34,11,0.3235294117647059,1,1,0,1
+LaSalle,Heritage Health Peru,145044,2020-12-04,33,3,0.09090909090909091,1,0,1,1
+Will,Rock Run Place,No Match,2020-12-04,33,1,0.030303030303030304,2,1,1,1
+Cook,Villa at South Holland,145671,2020-12-04,33,9,0.2727272727272727,1,1,0,1
+Cook,Citadel of Warren Park,No Match,2020-12-04,33,5,0.15151515151515152,2,1,1,1
+Peoria,Generations of Peoria,145039,2020-12-04,33,5,0.15151515151515152,1,1,0,1
+Cook,Symphony of Evanston,145803,2020-12-04,33,1,0.030303030303030304,2,1,1,1
+Cook,Presence Nazarethville,146180,2020-12-04,33,6,0.18181818181818182,2,1,1,1
+DuPage,Aspired Living of Westmont,No Match,2020-12-04,33,5,0.15151515151515152,2,1,1,1
+Macon,Evergreen Senior Living,No Match,2020-12-04,33,3,0.09090909090909091,1,0,1,1
+Champaign,Eagles View Supportive Living and Memory Care,No Match,2020-12-04,33,1,0.030303030303030304,1,0,1,1
+Will,Shady Oaks,No Match,2020-12-04,33,3,0.09090909090909091,2,1,1,1
+Rock Island,Friendship Manor,146099,2020-12-04,33,0,0.0,2,1,1,1
+Cook,Wesley Place,145591,2020-12-04,32,0,0.0,2,1,1,1
+DuPage,Lexington of Elmhurst,145711,2020-12-04,32,13,0.40625,3,2,1,1
+Cook,Bria Place of Indian Head Park,145784,2020-12-04,32,7,0.21875,1,1,0,1
+Cook,Foster Health & Rehab,146167,2020-12-04,32,7,0.21875,1,1,0,1
+LaSalle,Parker Nursing and Rehabilitation Center,145989,2020-12-04,32,1,0.03125,1,1,0,1
+Kankakee,Presence Our Lady of Victory,145536,2020-12-04,32,1,0.03125,1,0,1,1
+Peoria,Gateway at River City,No Match,2020-12-04,32,1,0.03125,1,0,1,1
+Peoria,Bickford Senior Living,No Match,2020-12-04,32,13,0.40625,1,0,1,1
+Will,WILLOW FALLS ASSISTED LIVING,No Match,2020-12-04,32,2,0.0625,2,1,1,1
+St. Clair,Autumn Meadows,145581,2020-12-04,32,0,0.0,1,0,1,1
+Cook,Arden Courts of Elk Grove,No Match,2020-12-04,31,8,0.25806451612903225,1,0,1,1
+Cook,Symphony of Hanover Park,146143,2020-12-04,31,3,0.0967741935483871,1,0,1,1
+Cook,Avantara Park Ridge,145667,2020-12-04,31,3,0.0967741935483871,2,1,1,1
+Cook,The Vine At Countryside,No Match,2020-12-04,31,4,0.12903225806451613,1,1,0,1
+Winnebago,Van Matre Encompas Health,No Match,2020-12-04,31,4,0.12903225806451613,1,1,0,1
+Cook,The Grove of Skokie,145860,2020-12-04,31,7,0.22580645161290322,1,1,0,1
+Effingham,Effingham Rehab & Health Care Ctr,No Match,2020-12-04,31,0,0.0,1,0,1,1
+Winnebago,Alden Park Strathmoor,145259,2020-12-04,31,0,0.0,1,0,1,1
+Will,Village Woods,No Match,2020-12-04,31,1,0.03225806451612903,1,0,1,1
+Grundy,Parkpointe ,No Match,2020-12-04,31,3,0.0967741935483871,1,1,0,1
+Coles,CTF Charleston,No Match,2020-12-04,31,0,0.0,1,0,1,1
+Champaign,Meadowbrook at Clark-Lindsey,No Match,2020-12-04,31,1,0.03225806451612903,2,1,1,1
+Cook,Palos Hills Healthcare,No Match,2020-12-04,31,2,0.06451612903225806,1,0,1,1
+DeKalb,DeKalb County Rehab and Nursing,145547,2020-12-04,31,0,0.0,2,1,1,1
+Hancock,Montebello Healthcare Center,145471,2020-12-04,31,4,0.12903225806451613,1,0,1,1
+Cook,Heather Manor Nursing & Rehabilitation Center,No Match,2020-12-04,31,4,0.12903225806451613,2,1,1,1
+Cook,Symphony at Aria,145946,2020-12-04,31,7,0.22580645161290322,1,1,0,1
+Winnebago,Rock River Healthcare,No Match,2020-12-04,30,0,0.0,1,0,1,1
+St. Clair,Marka Nursing and Rehabilitation,No Match,2020-12-04,30,0,0.0,1,0,1,1
+Cook,Balmoral Home,145796,2020-12-04,30,0,0.0,2,0,2,1
+Cook,AMITA Health Holy Family Medical Center ,No Match,2020-12-04,30,1,0.03333333333333333,2,2,0,1
+Clinton,Villa Catherine,No Match,2020-12-04,30,3,0.1,2,1,1,1
+Kane,The Grove St. Charles ,No Match,2020-12-04,30,0,0.0,2,1,1,1
+Cook,Lexington healthcare of Schaumburg,145678,2020-12-04,30,3,0.1,1,1,0,1
+Madison,San Gabriel Memory Care,No Match,2020-12-04,30,3,0.1,1,0,1,1
+Cook,Alden Estates Des Plaines,145998,2020-12-04,30,4,0.13333333333333333,2,1,1,1
+DuPage,Belmont Village Senior Living Carol Stream,No Match,2020-12-04,30,5,0.16666666666666666,1,1,0,1
+Will,Revere Court of Bolingbrook,No Match,2020-12-04,29,3,0.10344827586206896,1,1,0,1
+Kane,Heritage Wood and White Oaks of South Elgin,No Match,2020-12-04,29,2,0.06896551724137931,1,0,1,1
+DuPage,Artis Senior Living of Bartlett,No Match,2020-12-04,29,12,0.41379310344827586,1,0,1,1
+Cook,Belmont Village Senior Living of Glenview,No Match,2020-12-04,29,5,0.1724137931034483,1,0,1,1
+Macon,Lincolnshire Place,No Match,2020-12-04,29,4,0.13793103448275862,1,0,1,1
+Cook,Three Crowns Park,No Match,2020-12-04,29,0,0.0,1,0,1,1
+Kane,Aperion Care,No Match,2020-12-04,29,5,0.1724137931034483,1,1,0,1
+Cook,Oak Park Oasis,145714,2020-12-04,29,11,0.3793103448275862,1,1,0,1
+DuPage,Lexington Square Elmhurst AL/IL,No Match,2020-12-04,29,0,0.0,2,1,1,1
+St. Clair,Mercy ,No Match,2020-12-04,29,2,0.06896551724137931,1,0,1,1
+Randolph,Coulterville Rehabilitation & Health Care Center,145993,2020-12-04,28,1,0.03571428571428571,3,2,1,1
+Coles,Odd Fellow Rebekah,145772,2020-12-04,28,5,0.17857142857142858,1,1,0,1
+Whiteside,Windsor Manor Morrison,No Match,2020-12-04,28,8,0.2857142857142857,1,0,1,1
+Cook,Arden Courts Of Northbrook,No Match,2020-12-04,28,3,0.10714285714285714,1,0,1,1
+Saline,Eldorado Rehab and Healthcare,145890,2020-12-04,28,5,0.17857142857142858,1,0,1,1
+Kankakee,Kankakee Senior Life Assisted Living,No Match,2020-12-04,28,1,0.03571428571428571,1,0,1,1
+Cook,Sunrise of Schaumburg,No Match,2020-12-04,28,5,0.17857142857142858,1,0,1,1
+Winnebago,Morning Star Village,No Match,2020-12-04,28,3,0.10714285714285714,2,1,1,1
+DuPage,Clarendale of Addison,No Match,2020-12-04,28,4,0.14285714285714285,2,1,1,1
+Cook,Southview Manor,146161,2020-12-04,28,2,0.07142857142857142,2,2,0,1
+Whiteside,Parkway Center,No Match,2020-12-04,28,5,0.17857142857142858,1,1,0,1
+Cook,Astoria Place,No Match,2020-12-04,28,0,0.0,1,0,1,1
+DuPage,Oak Trace Skilled Nursing,No Match,2020-12-04,28,0,0.0,2,1,1,1
+Will,Alden Estates of Shorewood,146153,2020-12-04,28,4,0.14285714285714285,1,1,0,1
+Kane,Greenfields of Geneva,146166,2020-12-04,28,0,0.0,2,1,1,1
+Lake,Auberge at Lake Zurich,No Match,2020-12-04,28,6,0.21428571428571427,1,1,0,1
+Winnebago,Amberwood Care Center,145908,2020-12-04,27,1,0.037037037037037035,2,1,1,1
+Franklin,Helia Healthcare of Benton,No Match,2020-12-04,27,3,0.1111111111111111,1,0,1,1
+Madison,Integrity Healthcare Of Godfrey,No Match,2020-12-04,27,3,0.1111111111111111,1,0,1,1
+Lake,Victory Lakes Continuing Care Center,No Match,2020-12-04,27,4,0.14814814814814814,2,1,1,1
+Cook,Citadel of Skokie,145468,2020-12-04,27,4,0.14814814814814814,2,1,1,1
+Cook,Manor Care at Arlington Heights,145199,2020-12-04,27,2,0.07407407407407407,1,1,0,1
+Sangamon,Aperion Care Capitol,145160,2020-12-04,27,0,0.0,2,1,1,1
+Whiteside,Regency Care of Sterling ,No Match,2020-12-04,27,3,0.1111111111111111,1,0,1,1
+DuPage,Ray Graham Iona Glos,No Match,2020-12-04,27,2,0.07407407407407407,1,0,1,1
+DuPage,Lakeview Memory Care Community,No Match,2020-12-04,27,8,0.2962962962962963,1,0,1,1
+Sangamon,Villa Healthcare Center West,No Match,2020-12-04,27,3,0.1111111111111111,1,0,1,1
+Macoupin,Gillespie Heritage Health,145367,2020-12-04,27,3,0.1111111111111111,1,1,0,1
+Cook,Vi at the Glen,146107,2020-12-04,27,4,0.14814814814814814,1,1,0,1
+Kane,Alden Estates-Courts of Huntley ,No Match,2020-12-04,26,0,0.0,1,0,1,1
+Adams,Timberpoint Health Care Center,No Match,2020-12-04,26,3,0.11538461538461539,1,0,1,1
+Menard,Sunny Acres Nursing Home,No Match,2020-12-04,26,1,0.038461538461538464,1,0,1,1
+Coles,Copper Creek Cottages,No Match,2020-12-04,26,7,0.2692307692307692,1,0,1,1
+DuPage,Brookdale Burr Ridge,146094,2020-12-04,26,5,0.19230769230769232,2,1,1,1
+Madison,Integrity Healthcare of Alton,No Match,2020-12-04,26,1,0.038461538461538464,1,0,1,1
+Moultrie,Eastview Terrace,No Match,2020-12-04,26,0,0.0,1,0,1,1
+Champaign,University Rehab Center,145364,2020-12-04,26,1,0.038461538461538464,2,1,1,1
+Henry,Hillcrest Home,No Match,2020-12-04,26,2,0.07692307692307693,1,0,1,1
+Lawrence,United Methodist Village,145722,2020-12-04,25,3,0.12,1,0,1,1
+Tazewell,Apostolic Christian Linden Estate,No Match,2020-12-04,25,0,0.0,1,0,1,1
+Winnebago,Stepping Stone of Rockford ,No Match,2020-12-04,25,1,0.04,1,1,0,1
+Cook,Edward Hines VA Community Living Center,No Match,2020-12-04,25,3,0.12,1,0,1,1
+Lake,Pavilion of Waukegan,145621,2020-12-04,25,0,0.0,2,1,1,1
+Woodford,Snyder Village Health Center ,No Match,2020-12-04,25,2,0.08,1,0,1,1
+Perry,Fairview Nursing and Rehab,No Match,2020-12-04,25,5,0.2,1,0,1,1
+Cook,The Mather,146145,2020-12-04,25,4,0.16,1,0,1,1
+McHenry,Fox Point Memory Care,No Match,2020-12-04,25,4,0.16,1,0,1,1
+Cook,Weinberg Community for Senior Living,No Match,2020-12-04,25,2,0.08,1,1,0,1
+Cook,Aperion Care Evanston,146058,2020-12-04,25,2,0.08,1,1,0,1
+DuPage,The Pearl Naperville,No Match,2020-12-04,25,0,0.0,2,1,1,1
+Brown,Heritage Health,No Match,2020-12-04,25,4,0.16,1,0,1,1
+St. Clair,St Pauls2,No Match,2020-12-04,24,0,0.0,1,0,1,1
+McHenry,Fox Point Assisted Living,No Match,2020-12-04,24,2,0.08333333333333333,1,0,1,1
+Adams,Cedarhurst,No Match,2020-12-04,24,1,0.041666666666666664,1,0,1,1
+Will,Aperion Wilmington,145316,2020-12-04,24,0,0.0,3,2,1,1
+Cook,Grace Point Place Memory Care,No Match,2020-12-04,24,8,0.3333333333333333,1,1,0,1
+DuPage,Sunrise of Naperville Assisted Living,No Match,2020-12-04,24,0,0.0,1,0,1,1
+Cook,Kensington Place Nursing And Rehabilitation Center,145829,2020-12-04,24,2,0.08333333333333333,2,1,1,1
+Bureau,Liberty Village of Princeton,No Match,2020-12-04,24,7,0.2916666666666667,1,0,1,1
+Winnebago,Anam Care Facility,No Match,2020-12-04,24,7,0.2916666666666667,1,1,0,1
+Tazewell,Hallmark House Nursing Center,No Match,2020-12-04,24,0,0.0,1,0,1,1
+Lake,Sheridan at Green Oaks,No Match,2020-12-04,24,2,0.08333333333333333,1,1,0,1
+McLean,Westminster Village,No Match,2020-12-04,24,1,0.041666666666666664,1,0,1,1
+Winnebago,The Atrium Memory Care Community,No Match,2020-12-04,24,9,0.375,1,0,1,1
+Cook,Inverness Health and Rehab,145994,2020-12-04,23,0,0.0,1,1,0,1
+Lake,Brookdale Vernon Hills,No Match,2020-12-04,23,3,0.13043478260869565,1,1,0,1
+Richland,LAVENDER RIDGE MEMORY CARE,No Match,2020-12-04,23,4,0.17391304347826086,1,0,1,1
+Moultrie,The Arthur Home,No Match,2020-12-04,23,0,0.0,1,0,1,1
+Cook,Brookdale Northbrook ,No Match,2020-12-04,23,3,0.13043478260869565,2,1,1,1
+Will,Heritage Woods of Plainfield,No Match,2020-12-04,23,1,0.043478260869565216,2,1,1,1
+Boone,Heritage Woods of Belvidere ,No Match,2020-12-04,23,0,0.0,1,0,1,1
+Effingham,Lutheran care Center,145380,2020-12-04,23,3,0.13043478260869565,1,0,1,1
+Grundy,Park Pointe Healthcare and Rehabilition Center,No Match,2020-12-04,23,0,0.0,1,0,1,1
+Cook,Elevate Care Niles,145662,2020-12-04,23,5,0.21739130434782608,1,0,1,1
+Cook,Lexington of Chicago Ridge,145700,2020-12-04,23,12,0.5217391304347826,1,1,0,1
+Cook,Friendship Village LTC,145341,2020-12-04,23,5,0.21739130434782608,1,1,0,1
+Cook,Friendship Village of Schaumburg,No Match,2020-12-04,23,3,0.13043478260869565,1,0,1,1
+McHenry,The Fountains at Crystal Lake (#3),No Match,2020-12-04,23,1,0.043478260869565216,1,0,1,1
+Lake,The Wellshire Lincolnshire,No Match,2020-12-04,23,3,0.13043478260869565,1,1,0,1
+Lake,Brookdale- Hawthorn Lakes,No Match,2020-12-04,22,1,0.045454545454545456,1,0,1,1
+Lake,Mount St. Joseph,No Match,2020-12-04,22,1,0.045454545454545456,1,1,0,1
+Madison,Beverly Farm,No Match,2020-12-04,22,0,0.0,1,1,0,1
+Sangamon,Heritage Health Springfield,145229,2020-12-04,22,2,0.09090909090909091,2,1,1,1
+Kankakee,Heritage Village,No Match,2020-12-04,22,0,0.0,2,1,1,1
+Sangamon,Villas of Holly Brook,No Match,2020-12-04,22,2,0.09090909090909091,1,0,1,1
+Tazewell,Supportive Living of Washington,No Match,2020-12-04,22,1,0.045454545454545456,1,0,1,1
+Bond,Greenville Nursing & Rehab,145909,2020-12-04,22,1,0.045454545454545456,1,0,1,1
+DuPage,Alden Village Bloomingdale,No Match,2020-12-04,22,2,0.09090909090909091,1,1,0,1
+Champaign,Arbor Rose of Tolono,No Match,2020-12-04,22,1,0.045454545454545456,1,0,1,1
+Cook,Franciscan Village - Mother Teresa House,146029,2020-12-04,22,2,0.09090909090909091,1,0,1,1
+St. Clair,New Athen Home for the Aged2,No Match,2020-12-04,22,0,0.0,1,0,1,1
+Cook,Lydia Health Care Center,No Match,2020-12-04,22,3,0.13636363636363635,1,1,0,1
+Winnebago,East Bank Center,146069,2020-12-04,22,2,0.09090909090909091,2,2,0,1
+Effingham,Lutheran Care Center,145380,2020-12-04,22,1,0.045454545454545456,1,0,1,1
+Williamson,Villas Of Holly Brook,No Match,2020-12-04,22,0,0.0,1,0,1,1
+Cook,Lexington Of Chicago Ridge,145700,2020-12-04,22,0,0.0,1,0,1,1
+St. Clair,Sycamore Village,No Match,2020-12-04,22,0,0.0,1,0,1,1
+Winnebago,Fairhaven Christian Retirement Center,14E345,2020-12-04,21,0,0.0,1,1,0,1
+Will,Willow Falls,No Match,2020-12-04,21,2,0.09523809523809523,2,2,0,1
+Kane,Marklund Hyde Center,No Match,2020-12-04,21,0,0.0,1,0,1,1
+Coles,Charleston Rehabilitation and Healthcare,No Match,2020-12-04,21,0,0.0,1,0,1,1
+Rock Island,Amber Ridge Memory Care,No Match,2020-12-04,21,1,0.047619047619047616,1,0,1,1
+Winnebago,Rock River Health Care,145818,2020-12-04,21,2,0.09523809523809523,1,1,0,1
+McLean,Luther Oakes,146184,2020-12-04,21,1,0.047619047619047616,3,2,1,1
+Peoria,EP!C,No Match,2020-12-04,21,0,0.0,1,1,0,1
+DuPage,West Chicago Terrace,14E392,2020-12-04,21,0,0.0,2,1,1,1
+Livingston,Fairview Haven,No Match,2020-12-04,21,6,0.2857142857142857,1,0,1,1
+Sangamon,Concordia Village Senior ,No Match,2020-12-04,21,0,0.0,1,0,1,1
+Peoria,Sharon Healthcare Willows,14E888,2020-12-04,21,0,0.0,1,0,1,1
+Cook,Holy Family Villa,146053,2020-12-04,21,4,0.19047619047619047,2,1,1,1
+Will,Harbor Chase of Plainfield,No Match,2020-12-04,21,1,0.047619047619047616,2,1,1,1
+Pike,Kepley House,No Match,2020-12-04,21,0,0.0,1,1,0,1
+Kane,Fox Knoll,No Match,2020-12-04,20,1,0.05,2,1,1,1
+Lake,Charter Senior Living LLC,No Match,2020-12-04,20,7,0.35,1,0,1,1
+Cook,Ludeman Center,No Match,2020-12-04,20,0,0.0,1,0,1,1
+DuPage,Saratoga Grove,No Match,2020-12-04,20,0,0.0,2,1,1,1
+Rock Island,Fort Armstrong,No Match,2020-12-04,20,1,0.05,1,1,0,1
+Kane,Brighton Gardens ,No Match,2020-12-04,20,2,0.1,1,0,1,1
+Cook,Emerald Place Memory Care,No Match,2020-12-04,20,2,0.1,2,1,1,1
+Cook,Brookdale Des Plaines,No Match,2020-12-04,20,7,0.35,1,1,0,1
+DuPage,Brookdale Glen Ellyn,No Match,2020-12-04,20,2,0.1,2,1,1,1
+Cook,Brookdale Prospect Heights,145852,2020-12-04,20,1,0.05,2,1,1,1
+Livingston,Good Samaritan Rehabilitation/Healthcare,145930,2020-12-04,20,3,0.15,1,0,1,1
+St. Clair,Freeburg Terrace,No Match,2020-12-04,20,0,0.0,1,0,1,1
+Cook,Windsor Estate Nursing & Rehab,No Match,2020-12-04,20,0,0.0,1,0,1,1
+Cook,Fairmont Care Center,No Match,2020-12-04,20,1,0.05,1,0,1,1
+Cook,Belmont Village,No Match,2020-12-04,20,1,0.05,1,0,1,1
+St. Clair,Brightly Senior Living,No Match,2020-12-04,20,3,0.15,1,0,1,1
+Bond,Cedarhurst of Greenville,No Match,2020-12-04,20,3,0.15,1,0,1,1
+Perry,DuQuoin Nursing and Rehab,No Match,2020-12-04,20,3,0.15,1,0,1,1
+Tazewell,Reflections Memory Care,No Match,2020-12-04,20,4,0.2,1,1,0,1
+Will,Timbers of Shorewood,No Match,2020-12-04,20,1,0.05,3,2,1,1
+Wabash,Villas of Holly Brook,No Match,2020-12-04,20,1,0.05,1,1,0,1
+Lake,Lambs Farm Facilities/Nielsen House,No Match,2020-12-04,19,0,0.0,1,0,1,1
+Cook,Artis Senior Living of Lakeview,No Match,2020-12-04,19,8,0.42105263157894735,1,1,0,1
+Marion,Doctors Nursing and Rehab Center,145247,2020-12-04,19,0,0.0,1,0,1,1
+Ogle,Rochelle Rehab,146152,2020-12-04,19,2,0.10526315789473684,1,0,1,1
+Cook,Citadel of Wilmette,145932,2020-12-04,19,5,0.2631578947368421,1,1,0,1
+Cook,Elevate Care South Holland,No Match,2020-12-04,19,6,0.3157894736842105,1,1,0,1
+Peoria,Liberty Village Of Peoria,No Match,2020-12-04,19,0,0.0,1,0,1,1
+Cook,Jackson Park Assisted living,No Match,2020-12-04,19,3,0.15789473684210525,1,1,0,1
+Kane,Symphony Orchard Valley,No Match,2020-12-04,19,0,0.0,1,0,1,1
+Will,Willow House,No Match,2020-12-04,18,0,0.0,1,1,0,1
+Cook,Waverly Inn Memory Care Community,No Match,2020-12-04,18,8,0.4444444444444444,1,1,0,1
+Champaign,Country Health & Rehab,No Match,2020-12-04,18,0,0.0,1,0,1,1
+LaSalle,Ottawa Pavilion,145426,2020-12-04,18,1,0.05555555555555555,2,1,1,1
+Cook,Northbrook Inn Memory Care,No Match,2020-12-04,18,5,0.2777777777777778,1,1,0,1
+Cook,Oak Park Brookdale,No Match,2020-12-04,18,1,0.05555555555555555,2,2,0,1
+Cook,Brookdale Hoffman Estates,No Match,2020-12-04,18,0,0.0,2,1,1,1
+Cook,St. Mary of Providence in Chicago,No Match,2020-12-04,18,0,0.0,1,1,0,1
+Rock Island,Heritage Woods of Moline #2,No Match,2020-12-04,18,0,0.0,1,0,1,1
+DuPage,Harbor Chase of Naperville Assisted Living,No Match,2020-12-04,18,0,0.0,1,0,1,1
+Cook,Prairie Green at Dixie Crossing,No Match,2020-12-04,18,6,0.3333333333333333,1,1,0,1
+Madison,Cedarhurst of Highland,No Match,2020-12-04,18,2,0.1111111111111111,3,2,1,1
+Wayne,Fairfield Memorial Hospital,145552,2020-12-04,18,7,0.3888888888888889,1,0,1,1
+Cook,Alden Estates of Evanston,145907,2020-12-04,18,2,0.1111111111111111,1,1,0,1
+McLean,McLean County Nursing Home ,No Match,2020-12-04,18,0,0.0,1,0,1,1
+DuPage,Wynscape Health and Rehabilitation,145213,2020-12-04,18,0,0.0,3,2,1,1
+Cook,Central Baptist Village,145853,2020-12-04,17,1,0.058823529411764705,2,1,1,1
+Cook,Citadel of Skokie  (3),No Match,2020-12-04,17,4,0.23529411764705882,1,0,1,1
+Iroquois,Arcadia Care Clifton (formerly Merkle Knipprath),No Match,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+Winnebago,Grand Regency of Rockford,No Match,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+Lake,Thrive of Lake County,145460,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+Fulton,Courtyard Estates of Farmington,No Match,2020-12-04,17,2,0.11764705882352941,1,0,1,1
+McLean,The Villas of Holly Brook-Towanda Barnes,No Match,2020-12-04,17,2,0.11764705882352941,1,1,0,1
+Williamson,The Anchor of the Voyage Senior Living ,No Match,2020-12-04,17,0,0.0,1,0,1,1
+Marion,Cedarhurst Memory Care of Centralia,No Match,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+Rock Island,Serenity  (Aperion) Moline,No Match,2020-12-04,17,2,0.11764705882352941,1,1,0,1
+Cook,The Grove of La Grange,145307,2020-12-04,17,1,0.058823529411764705,2,1,1,1
+Peoria,Grand View Alzheimers Special Care Center,No Match,2020-12-04,17,4,0.23529411764705882,1,1,0,1
+Vermilion,Accolade Health Care of Danville,No Match,2020-12-04,17,0,0.0,1,0,1,1
+Kane,Bright Oaks of Aurora,No Match,2020-12-04,17,4,0.23529411764705882,1,1,0,1
+Ogle,Oregon Rehab,No Match,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+McLean,The Lofts Rehabilitation and Nursing of Normal,145031,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+Kane,Vistas Fox Valley,No Match,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+Cook,St Joseph Home for the Elderly Palatine,No Match,2020-12-04,17,1,0.058823529411764705,1,0,1,1
+Whiteside,Harbor Crest,146158,2020-12-04,17,4,0.23529411764705882,1,1,0,1
+Massac,Southgate Nursing and Rehab,No Match,2020-12-04,17,2,0.11764705882352941,1,0,1,1
+Moultrie,Mason Point,146074,2020-12-04,17,4,0.23529411764705882,1,0,1,1
+Lake,ELEVATE CARE WAUKEGAN,145669,2020-12-04,17,0,0.0,1,0,1,1
+Macoupin,Sunrise Skilled Nursing Facility,145783,2020-12-04,16,0,0.0,2,1,1,1
+Peoria,Bickford Senior Living of Peoria,No Match,2020-12-04,16,3,0.1875,1,1,0,1
+Madison,Cedarhurst of Collinsville,No Match,2020-12-04,16,2,0.125,1,0,1,1
+Randolph,Garden Place Red Bud,No Match,2020-12-04,16,0,0.0,1,0,1,1
+Cook,Asbury Senior Living,No Match,2020-12-04,16,1,0.0625,1,0,1,1
+Mercer,Brookstone of Aledo,No Match,2020-12-04,16,4,0.25,1,1,0,1
+Will,Lakeshore Rehab & Healthcare,145694,2020-12-04,16,0,0.0,2,1,1,1
+Jefferson,Mt. Vernon Countryside Manor,145685,2020-12-04,16,0,0.0,2,1,1,1
+Lake,Balmoral Care Center,No Match,2020-12-04,16,2,0.125,1,1,0,1
+Winnebago,Carriage Rehab and Healthcare (2),No Match,2020-12-04,16,1,0.0625,1,0,1,1
+Cook,Westminster Place,145026,2020-12-04,16,0,0.0,1,1,0,1
+Cook,The Hartwell,No Match,2020-12-04,16,0,0.0,1,1,0,1
+Lake,Symphony of Buffalo Grove,145819,2020-12-04,16,3,0.1875,1,0,1,1
+Cook,RML Specialty Hospital Hinsdale,No Match,2020-12-04,16,1,0.0625,1,1,0,1
+Lake,Cedar Lake,No Match,2020-12-04,16,8,0.5,1,1,0,1
+Will,Senior Star at Weber Place,No Match,2020-12-04,16,4,0.25,2,2,0,1
+Henderson,Oak Lane Nursing and Rehab,No Match,2020-12-04,16,0,0.0,1,0,1,1
+Cook,PACTT Learning -Oak Park,No Match,2020-12-04,16,0,0.0,1,1,0,1
+Cook,Caledonia Senior Living & Memory Care,No Match,2020-12-04,16,0,0.0,1,0,1,1
+Monroe,Cedarhurst of Waterloo,No Match,2020-12-04,16,1,0.0625,1,0,1,1
+DuPage,Rehab Without Walls,No Match,2020-12-04,16,0,0.0,1,0,1,1
+Tazewell,Lakeside Rehab,No Match,2020-12-04,16,0,0.0,1,0,1,1
+Winnebago,PA Peterson at theCitadel,145751,2020-12-04,16,7,0.4375,1,1,0,1
+Livingston,Wm. W.Fox Developmental Center,No Match,2020-12-04,15,0,0.0,1,0,1,1
+Cook,Presence St. Benedict,145731,2020-12-04,15,3,0.2,1,1,0,1
+Randolph,Cedarhurst of Sparta,No Match,2020-12-04,15,0,0.0,2,1,1,1
+Edgar,Paris Health and Rehab,No Match,2020-12-04,15,0,0.0,1,0,1,1
+Adams,Quincy Terrace,No Match,2020-12-04,15,1,0.06666666666666667,1,0,1,1
+DuPage,Sunrise of Bloomingdale,No Match,2020-12-04,15,1,0.06666666666666667,1,0,1,1
+Cook,Presence Resurrection Nursing and Rehab,No Match,2020-12-04,15,0,0.0,1,0,1,1
+Jackson,Prairie Living at Chautauqua,No Match,2020-12-04,15,1,0.06666666666666667,1,0,1,1
+Kane,Alden Gardens of Waterford,146008,2020-12-04,15,0,0.0,2,1,1,1
+St. Clair,CASEYVILLE CARE CENTER,145585,2020-12-04,15,1,0.06666666666666667,1,0,1,1
+McHenry,Fair Oaks Health Care Center,145917,2020-12-04,15,3,0.2,1,1,0,1
+DeKalb,Opportunity House,No Match,2020-12-04,15,0,0.0,1,1,0,1
+Winnebago,TLC Living Community,No Match,2020-12-04,15,1,0.06666666666666667,1,1,0,1
+Kane,Heritage Woods and White Oaks of Huntley,No Match,2020-12-04,15,0,0.0,1,0,1,1
+St. Clair,Four Fountains2,No Match,2020-12-04,15,1,0.06666666666666667,1,0,1,1
+Cook,Brookdale Orland Park,No Match,2020-12-04,15,6,0.4,1,1,0,1
+Lake,Lake Barrington Woods ,No Match,2020-12-04,15,0,0.0,1,0,1,1
+Cook,St. Joseph Village of Chicago,145637,2020-12-04,15,0,0.0,2,1,1,1
+DuPage,Westbridge/Wyndemere Senior Living Community,No Match,2020-12-04,15,0,0.0,1,0,1,1
+Lake,The Village at Victory Lakes,145602,2020-12-04,14,1,0.07142857142857142,1,1,0,1
+Cook,Manorcare Of Oak Lawn West,No Match,2020-12-04,14,0,0.0,1,0,1,1
+Cook,Palos Heights Rehab,No Match,2020-12-04,14,1,0.07142857142857142,1,0,1,1
+McHenry,Sunrise of Crystal Lake,No Match,2020-12-04,14,7,0.5,1,0,1,1
+Lake,Alden Long Grove Rehab & Health,No Match,2020-12-04,14,4,0.2857142857142857,1,0,1,1
+Macoupin,Hallmark Healthcare of Carlinville,No Match,2020-12-04,14,2,0.14285714285714285,1,0,1,1
+McHenry,Revere Court of Crystal Lake,No Match,2020-12-04,14,3,0.21428571428571427,1,1,0,1
+Tazewell,Briarbrook & Harris Place,No Match,2020-12-04,14,0,0.0,1,1,0,1
+Tazewell,Davies Square,No Match,2020-12-04,14,0,0.0,1,0,1,1
+Coles,Odd Fellow Rebekah Home,No Match,2020-12-04,14,0,0.0,1,0,1,1
+Warren,Monmouth Nursing Home,146057,2020-12-04,14,3,0.21428571428571427,1,0,1,1
+Coles,Brookstone Estates North,No Match,2020-12-04,14,2,0.14285714285714285,1,0,1,1
+St. Clair,Freeburg  Care  Center,No Match,2020-12-04,14,0,0.0,1,0,1,1
+Kane,Alden of Waterford ,No Match,2020-12-04,14,0,0.0,1,0,1,1
+Cook,Lexington of Schaumburg,No Match,2020-12-04,14,0,0.0,1,0,1,1
+Macoupin,Carlinville Heritage Health,145456,2020-12-04,14,1,0.07142857142857142,2,0,2,1
+Wabash,Oakview Nursing and Rehabilitation,145376,2020-12-04,14,0,0.0,1,0,1,1
+Logan,St. Claras Manor,145720,2020-12-04,14,4,0.2857142857142857,1,0,1,1
+Kane,Fox knoll,No Match,2020-12-04,14,2,0.14285714285714285,1,1,0,1
+Logan,Vonderlieth Living Center,No Match,2020-12-04,14,1,0.07142857142857142,1,0,1,1
+Cook,Pershing Garden,146078,2020-12-04,13,4,0.3076923076923077,1,1,0,1
+McHenry,Mercy Harvard Care Center,146014,2020-12-04,13,1,0.07692307692307693,1,0,1,1
+Cook,Alden Wentworth Rehab & Healthcare Center,145429,2020-12-04,13,0,0.0,1,0,1,1
+Cook,Presence MaryHaven,145741,2020-12-04,13,4,0.3076923076923077,1,1,0,1
+Cook,Aspire Living Prospect Heights,No Match,2020-12-04,13,1,0.07692307692307693,1,1,0,1
+Winnebago,P.A. Peterson at the Citadel ,No Match,2020-12-04,13,1,0.07692307692307693,1,0,1,1
+Tazewell,Apostolic Christian Timber Ridge,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Winnebago,Medina Nursing Center,No Match,2020-12-04,13,3,0.23076923076923078,1,0,1,1
+Cook,Misericordia - Marian Center,No Match,2020-12-04,13,0,0.0,1,1,0,1
+Winnebago,Luther Center Assisted Living,No Match,2020-12-04,13,1,0.07692307692307693,1,0,1,1
+Lee,Heritage Square,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Madison,Elmwood Nursing and Rehab,145858,2020-12-04,13,0,0.0,1,1,0,1
+Madison,Eden Village Retirement Communtiy,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Winnebago,St Anne Center,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Macoupin,Heritage Health Staunton,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Ogle,Liberty Village of Rochelle,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Jefferson,Lavender Ridge Memory Care,No Match,2020-12-04,13,3,0.23076923076923078,1,1,0,1
+Kane,Riverview Rehab Center,No Match,2020-12-04,13,0,0.0,1,1,0,1
+Cook,The Reserve at Arlington Heights,No Match,2020-12-04,13,1,0.07692307692307693,1,0,1,1
+Lake,Auberge at Highland Park,No Match,2020-12-04,13,0,0.0,1,1,0,1
+Kane,Northern Illinois Academy,No Match,2020-12-04,13,0,0.0,1,1,0,1
+Iroquois,Iroquois Resident Home,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Knox,Hawthorne Terrace,No Match,2020-12-04,13,1,0.07692307692307693,1,0,1,1
+St. Clair,Cedarhurst of Shiloh,No Match,2020-12-04,13,0,0.0,1,0,1,1
+St. Clair,Cambridge House of OFallon2,No Match,2020-12-04,13,0,0.0,1,0,1,1
+Kane,Dunham Rehab & Healthcare,145980,2020-12-04,13,0,0.0,2,1,1,1
+Cook,Bridgeview Health Care Center,No Match,2020-12-04,12,2,0.16666666666666666,1,1,0,1
+Cook,Aperion Care Midlothian,145947,2020-12-04,12,0,0.0,2,1,1,1
+LaSalle,Pleasant View Lutheran Home,No Match,2020-12-04,12,0,0.0,1,0,1,1
+McHenry,Eastgate Manor of Algonquin,No Match,2020-12-04,12,0,0.0,1,1,0,1
+DuPage,Lexington Square Lombard,No Match,2020-12-04,12,0,0.0,2,1,1,1
+McDonough,The Lamoine Assisted Living & Memory Care,No Match,2020-12-04,12,1,0.08333333333333333,1,1,0,1
+Kane,White Oaks Spring Street,No Match,2020-12-04,12,2,0.16666666666666666,1,1,0,1
+Cook,Margaret Manor Central,No Match,2020-12-04,12,1,0.08333333333333333,1,0,1,1
+Rock Island,Illini Restorative Care,145703,2020-12-04,12,0,0.0,1,1,0,1
+Cook,Brookdale - Lake Shore,No Match,2020-12-04,12,0,0.0,1,0,1,1
+Cook,Sunrise of Flossmore,No Match,2020-12-04,12,6,0.5,1,1,0,1
+Madison,Evergreen Place,No Match,2020-12-04,12,1,0.08333333333333333,1,1,0,1
+Cook,Covenant Home of Chicago,No Match,2020-12-04,12,0,0.0,2,1,1,1
+Knox,Serenity of Galesburg,145987,2020-12-04,12,1,0.08333333333333333,1,0,1,1
+LaSalle,Heritage Health Streator,145062,2020-12-04,12,0,0.0,1,0,1,1
+Cook,Manor Care Health Services- Palos Heights West,145893,2020-12-04,12,0,0.0,1,0,1,1
+Cook,Victory Centre of Sierra Ridge,No Match,2020-12-04,12,1,0.08333333333333333,1,1,0,1
+Sangamon,Talor House,No Match,2020-12-04,12,0,0.0,1,0,1,1
+Livingston,Heritage Woods,No Match,2020-12-04,12,0,0.0,1,0,1,1
+Peoria,Sharon Healthcare - Woods,No Match,2020-12-04,12,1,0.08333333333333333,1,0,1,1
+DuPage,Sunrise of Willowbrook Assisted Living,No Match,2020-12-04,12,1,0.08333333333333333,1,0,1,1
+Kane,Northern Illinois Academy ,No Match,2020-12-04,12,0,0.0,1,0,1,1
+Edgar,Pleasant Meadows Senior Living ,No Match,2020-12-04,12,0,0.0,1,0,1,1
+Lake,Radford Green of Sedgebrook,No Match,2020-12-04,12,0,0.0,1,0,1,1
+Kane,Batavia Rehabilitation Center,140E96,2020-12-04,12,2,0.16666666666666666,1,1,0,1
+Warren,Legacy Estates of Monmouth,No Match,2020-12-04,12,2,0.16666666666666666,1,0,1,1
+Jackson,Century Assisted Living,No Match,2020-12-04,12,2,0.16666666666666666,1,0,1,1
+Cook,Alden North Shore ,No Match,2020-12-04,12,2,0.16666666666666666,2,0,2,1
+Sangamon,Curtiss Court,No Match,2020-12-04,11,1,0.09090909090909091,1,0,1,1
+Piatt,Arbor Rose of Monticello,No Match,2020-12-04,11,5,0.45454545454545453,1,0,1,1
+Adams,Sunset Home,145800,2020-12-04,11,0,0.0,1,0,1,1
+Warren,Courtyard Estates of Monmouth,No Match,2020-12-04,11,1,0.09090909090909091,2,1,1,1
+Iroquois,Prairieview Lutheran Home,No Match,2020-12-04,11,0,0.0,1,0,1,1
+Peoria,Evergreen Senior Living,No Match,2020-12-04,11,1,0.09090909090909091,1,0,1,1
+St. Clair,Integrity Care of Belleville,145290,2020-12-04,11,1,0.09090909090909091,1,0,1,1
+Rock Island,Overlook Village,No Match,2020-12-04,11,0,0.0,1,0,1,1
+Kendall,Symphony at the Tillers of Oswego,146034,2020-12-04,11,1,0.09090909090909091,1,0,1,1
+DuPage,Naperville Manor Health & Rehab Center,No Match,2020-12-04,11,1,0.09090909090909091,1,1,0,1
+Christian,Heritage Health of Pana,145267,2020-12-04,11,4,0.36363636363636365,1,0,1,1
+Williamson,Integrity Healthcare of Herrin,146092,2020-12-04,11,2,0.18181818181818182,1,0,1,1
+Cook,Chalet Living and Rehab,145670,2020-12-04,11,0,0.0,1,0,1,1
+Montgomery,Tremont Ridge,No Match,2020-12-04,11,4,0.36363636363636365,1,1,0,1
+DuPage,Westbridge Assisted Living Wheaton,No Match,2020-12-04,11,5,0.45454545454545453,2,2,0,1
+Kane,White Oaks at Spring Street ,No Match,2020-12-04,11,0,0.0,1,0,1,1
+Tazewell,Amys Country Manor,No Match,2020-12-04,11,1,0.09090909090909091,1,0,1,1
+Cook,Axelson Assisted Living,No Match,2020-12-04,11,2,0.18181818181818182,1,0,1,1
+Cook,Avenues to Independence,No Match,2020-12-04,11,0,0.0,1,1,0,1
+Kane,The Sheridan at Tyler Creek,No Match,2020-12-04,11,0,0.0,2,1,1,1
+Kane,Grove of St. Charles,No Match,2020-12-04,11,2,0.18181818181818182,1,1,0,1
+Kane,Heritage Woods of South Elgin ,No Match,2020-12-04,11,3,0.2727272727272727,2,2,0,1
+McHenry,Fair Oaks,No Match,2020-12-04,11,2,0.18181818181818182,1,0,1,1
+Kane,Sunnymere,No Match,2020-12-04,11,0,0.0,1,1,0,1
+DuPage,Burr Ridge Senior Living,No Match,2020-12-04,11,0,0.0,1,0,1,1
+Lake,Sunrise of Barrington,No Match,2020-12-04,11,3,0.2727272727272727,2,1,1,1
+Lake,The Grove at the Lake,No Match,2020-12-04,11,0,0.0,1,0,1,1
+Cook,Prairie Green at Fays Point,No Match,2020-12-04,11,3,0.2727272727272727,1,1,0,1
+Cook,ManorCare of Arlington Heights,No Match,2020-12-04,11,5,0.45454545454545453,1,0,1,1
+Lake,Sunrise of Buffalo Grove,No Match,2020-12-04,11,0,0.0,2,1,1,1
+Cook,Symphony Residences at Lincoln Park,No Match,2020-12-04,11,0,0.0,1,1,0,1
+Cook,Oakridge Healthcare Center ,No Match,2020-12-04,11,2,0.18181818181818182,1,0,1,1
+Lake,Arboria of Long Grove,No Match,2020-12-04,11,0,0.0,2,1,1,1
+Lake,Azpira Place of Lake Zurich,No Match,2020-12-04,11,1,0.09090909090909091,1,1,0,1
+Will,"Charter Senoir Living, The Cottages",No Match,2020-12-04,11,2,0.18181818181818182,1,1,0,1
+Madison,Liberty Village of Maryville,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Rock Island,Friendship Manor ,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Cook,Country Club Terrace,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Rock Island,Illini Restorative Care #2,No Match,2020-12-04,10,1,0.1,1,0,1,1
+Lake,Brookdale - Hawthorn Lakes,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Lake,Victory Centre of Vernon Hills,No Match,2020-12-04,10,1,0.1,1,0,1,1
+Sangamon,Adloff Place,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Madison,Collinsville Rehabilitation and Healthcare,145438,2020-12-04,10,3,0.3,2,1,1,1
+Madison,Cedarhurst of Godfrey,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Cook,St Joseph Home For the Elderly,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Lake,Azira Place of Lake Zurich,No Match,2020-12-04,10,0,0.0,1,0,1,1
+McLean,MarcFirst-Lucerne,No Match,2020-12-04,10,0,0.0,1,1,0,1
+McLean,Westminster Village Assisted Living ,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Cook,Skokie Meadows,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Cook,Presence Maryhaven,145741,2020-12-04,10,0,0.0,1,0,1,1
+Kane,Bickford of St. Charles,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Moultrie,Aspen Creek of Sullivan,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Champaign,Evergreen Place,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Tazewell,Marigold Estates Pekin,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Kane,Arden Courts of Geneva,No Match,2020-12-04,10,2,0.2,2,1,1,1
+Champaign,Brookdale Urbana,No Match,2020-12-04,10,3,0.3,1,0,1,1
+Champaign,Bickford Senior Living,No Match,2020-12-04,10,3,0.3,1,1,0,1
+Peoria,Sharon Healthcare Elms,146098,2020-12-04,10,0,0.0,1,1,0,1
+Henry,Royal Oaks Care Center,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Cook,Sheridan Park Ridge,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Douglas,Tuscola Health Care Center,146086,2020-12-04,10,2,0.2,1,0,1,1
+Cook,Victory Center of Bartlett,No Match,2020-12-04,10,1,0.1,2,1,1,1
+Cook,Revere Court of South Barrington,No Match,2020-12-04,10,2,0.2,1,0,1,1
+Macoupin,Sunset Skilled Nursing & Rehab,No Match,2020-12-04,10,0,0.0,1,1,0,1
+Cook,The Sheridan of Park Ridge,No Match,2020-12-04,10,3,0.3,1,1,0,1
+Cook,Thornton Heights Terrace,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Cook,LITTLE SISTERS OF THE POOR ST MARYS HOME,146185,2020-12-04,10,0,0.0,1,0,1,1
+Sangamon,Glenwood Terrace,No Match,2020-12-04,10,0,0.0,1,0,1,1
+Livingston,Heritage Health - Dwight,145452,2020-12-04,10,0,0.0,2,1,1,1
+Sangamon,Concordia Village Assisted Living,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Clay,Flora Rehabilitation,No Match,2020-12-04,9,1,0.1111111111111111,1,0,1,1
+DuPage,Sunrise of Bloomingdale Assisted Living,No Match,2020-12-04,9,1,0.1111111111111111,2,2,0,1
+Peoria,Aperion Care Peoria Heights,145811,2020-12-04,9,0,0.0,1,0,1,1
+Stephenson,Heritage Woods,No Match,2020-12-04,9,1,0.1111111111111111,1,0,1,1
+Madison,Aspen Creek Memory Care,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Lake,"Bayside Terrace, LLC",No Match,2020-12-04,9,0,0.0,1,0,1,1
+Cook,Oak Lawn Respiratory and Rehab,145942,2020-12-04,9,1,0.1111111111111111,1,0,1,1
+Cook,Oak Park Arms,No Match,2020-12-04,9,2,0.2222222222222222,1,1,0,1
+Champaign,Country Health and Rehab,145708,2020-12-04,9,0,0.0,2,2,0,1
+Mason,Park View DD Homes,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Cook,The Auberge,No Match,2020-12-04,9,1,0.1111111111111111,1,0,1,1
+DuPage,Oak Trace,145804,2020-12-04,9,3,0.3333333333333333,1,1,0,1
+Tazewell,Generations at Riverview,145524,2020-12-04,9,2,0.2222222222222222,2,2,0,1
+Cook,Asbury Court Senior Living,146187,2020-12-04,9,1,0.1111111111111111,1,1,0,1
+Lake,Sunrise of Highland Park,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Clinton,Clinton Manor Living Center,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Williamson,Helia Healthcare of Energy ,No Match,2020-12-04,9,1,0.1111111111111111,1,0,1,1
+Morgan,Cedarhurst of Jacksonville,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Cook,Aperion Care Burbank,145913,2020-12-04,9,1,0.1111111111111111,2,1,1,1
+Montgomery,Nokomis Rehab and Health Care,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Cook,Madden Mental Health Center,No Match,2020-12-04,9,0,0.0,1,1,0,1
+Montgomery,Montgomery Nursing And Rehab,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Cook,Greenview Place Senior Living,No Match,2020-12-04,9,0,0.0,1,1,0,1
+McHenry,Melody Living in LITH,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Lake,Oak Hill Supportive Living ,No Match,2020-12-04,9,0,0.0,1,0,1,1
+St. Clair,Parkway Gardens,No Match,2020-12-04,9,1,0.1111111111111111,1,0,1,1
+Sangamon,Cedarhurst Assisted Living and Memory Care,No Match,2020-12-04,9,1,0.1111111111111111,1,1,0,1
+Tazewell,Pekin Manor SNF,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Will,Symphony of Joliet,145372,2020-12-04,9,0,0.0,2,1,1,1
+Jasper,Villas of Hollybrook,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Winnebago,Highview in the Woodlands (2),No Match,2020-12-04,9,1,0.1111111111111111,1,0,1,1
+Cook,Victory Centre of Riverwoods,No Match,2020-12-04,9,4,0.4444444444444444,1,1,0,1
+Macoupin,Robings Manor,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Winnebago,MILESTONE-ELMWOOD HEIGHTS,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Lake,Manor Care,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Cook,Lexington Health Care Center of Chicago Ridge,No Match,2020-12-04,9,0,0.0,1,1,0,1
+Vermilion,Hawthorne Inn,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Will,Arbor Terrace of Naperville,No Match,2020-12-04,9,0,0.0,2,1,1,1
+Macoupin,Patterson House,No Match,2020-12-04,9,0,0.0,1,0,1,1
+Cook,Evergreen Senior Living,No Match,2020-12-04,9,4,0.4444444444444444,1,1,0,1
+Kane,Alden Estates Courts of Huntley ,No Match,2020-12-04,9,0,0.0,1,1,0,1
+Macoupin,Carlinville Rehabilitation and Health Care Center,145454,2020-12-04,8,0,0.0,2,1,1,1
+Cook,Abington of Glenview,145683,2020-12-04,8,1,0.125,1,1,0,1
+St. Clair,Knollwood,No Match,2020-12-04,8,1,0.125,1,1,0,1
+Tazewell,Villas of Hollybrook Morton,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Boone,Northwoods Care Center ,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Adams,Bradford Villa,No Match,2020-12-04,8,1,0.125,1,1,0,1
+Kendall,Hillside Rehab and Care,145609,2020-12-04,8,2,0.25,1,1,0,1
+Christian,Lifes Journey,No Match,2020-12-04,8,2,0.25,1,0,1,1
+Clark,Villas of Holly Brook Marshall,No Match,2020-12-04,8,0,0.0,1,1,0,1
+Mercer,Aledo Health and Rehab,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Kendall,Hillside Rehab and Care Center,145609,2020-12-04,8,1,0.125,1,0,1,1
+Morgan,Lavender Ridge Jacksonville,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Cook,Presence Resurrection Retirement Community,145324,2020-12-04,8,0,0.0,2,1,1,1
+Lake,Lake Forest Place - Balmoral,145986,2020-12-04,8,0,0.0,1,0,1,1
+Richland,Carle Richland Memorial Hospital Long Term Care,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Whiteside,Avonlea Cottage Sterling,No Match,2020-12-04,8,2,0.25,1,0,1,1
+Vermilion,Colonial Manor,145183,2020-12-04,8,2,0.25,1,0,1,1
+DuPage,Brookdale Lisle Assisted and Independent Living,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Sangamon,Cedarhurst Senior Living,No Match,2020-12-04,8,0,0.0,1,0,1,1
+DuPage,Alden Trails,No Match,2020-12-04,8,0,0.0,2,2,0,1
+Kane,Association for Individual Development - Violet,No Match,2020-12-04,8,0,0.0,1,1,0,1
+Champaign,Autumn Fields-Savoy,No Match,2020-12-04,8,1,0.125,1,0,1,1
+Lake,Victory Centre of  Vernon Hills,No Match,2020-12-04,8,0,0.0,1,1,0,1
+Logan,Generations at Lincoln,145719,2020-12-04,8,0,0.0,1,0,1,1
+Cook,Oasis,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Kankakee,Riverside Senior Life at Bourbonnais,No Match,2020-12-04,8,0,0.0,1,1,0,1
+Cook,Birchwood Plaza,No Match,2020-12-04,8,0,0.0,1,0,1,1
+DuPage,Forest View Rehabilitation & Nursing Center,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Kane,Alden Courts of Waterford,146182,2020-12-04,8,0,0.0,1,1,0,1
+Tazewell,Fondulac Rehab & HCC,No Match,2020-12-04,8,0,0.0,1,0,1,1
+Cook,Greenwood Care-Evanston,No Match,2020-12-04,8,0,0.0,1,1,0,1
+Champaign,Swann Special Care Center,No Match,2020-12-04,8,0,0.0,1,0,1,1
+McDonough,Mosaic,No Match,2020-12-04,8,0,0.0,1,1,0,1
+Pike,Eastside Health & Rehab,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Cook,Progressive Housing,No Match,2020-12-04,7,3,0.42857142857142855,1,1,0,1
+Cook,Villas South Holland,No Match,2020-12-04,7,1,0.14285714285714285,1,0,1,1
+St. Clair,Bradford Place2,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Lake,Glenkirk Acorn CILA,No Match,2020-12-04,7,1,0.14285714285714285,1,1,0,1
+Johnson,Hillview Health Care Center,No Match,2020-12-04,7,3,0.42857142857142855,1,0,1,1
+Champaign,Windsor At Savoy,No Match,2020-12-04,7,1,0.14285714285714285,1,0,1,1
+Lake,Gurnee Meadows,No Match,2020-12-04,7,0,0.0,1,1,0,1
+Winnebago,Walter Lawson Childrens,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Champaign,Green House Homes at Clark-Lindsey,No Match,2020-12-04,7,0,0.0,2,2,0,1
+Scott,Shelby County Community Servicesi,No Match,2020-12-04,7,0,0.0,1,1,0,1
+Livingston,THE POINTE of Pontiac,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Franklin,Heritage Woods of Benton,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Fayette,Willowbrook Memory Care of Vandalia,No Match,2020-12-04,7,0,0.0,1,0,1,1
+St. Clair,Memorial Convalescent Center,145102,2020-12-04,7,0,0.0,1,1,0,1
+Coles,Villas of Holly,No Match,2020-12-04,7,0,0.0,1,1,0,1
+Cook,Park Ridge Care Center,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Kankakee,Heritage Woods of Manteno,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Cook,The Grove,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Cook,Clear Oaks Senior Living,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Cumberland,Cumberland Rehab and HCC,No Match,2020-12-04,7,1,0.14285714285714285,1,0,1,1
+Lake,The Auberge At Highland Park,No Match,2020-12-04,7,3,0.42857142857142855,1,1,0,1
+Cook,Continental Nursing #2,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Cook,The Mather Evanston,146145,2020-12-04,7,0,0.0,1,1,0,1
+Kane,The Grove of Fox Valley,145006,2020-12-04,7,0,0.0,1,1,0,1
+DuPage,Independence Spring Meadows Naperville,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Cook,Westbrook Senior Living,No Match,2020-12-04,7,2,0.2857142857142857,1,0,1,1
+Rock Island,Serenity (Aperion) #2,No Match,2020-12-04,7,0,0.0,1,0,1,1
+McHenry,Hearthstone Manor  (2),No Match,2020-12-04,7,0,0.0,1,1,0,1
+Madison,Elmwood Nursing and Rehab ,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Cook,Porter Place,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Kendall,The Reserve of Oswego,No Match,2020-12-04,7,1,0.14285714285714285,1,0,1,1
+Lake,Rolling Hills Place,No Match,2020-12-04,7,1,0.14285714285714285,1,1,0,1
+Madison,Cedarhurst of Granite City,No Match,2020-12-04,7,0,0.0,1,0,1,1
+Knox,Courtyard Estates of Knoxville,No Match,2020-12-04,7,1,0.14285714285714285,1,0,1,1
+Madison,Alhambra Rehab and Healthcare,146052,2020-12-04,7,0,0.0,1,0,1,1
+Cook,Pauls House and Healthcare Center,145767,2020-12-04,7,0,0.0,1,0,1,1
+St. Clair,Colonnade,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Madison,Villas of Holly Brook-Bethalto,No Match,2020-12-04,6,0,0.0,1,1,0,1
+DuPage,Brighton Gardens of Wheaton,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Lake,VA James Lovell CLC GHH Bldg 201,No Match,2020-12-04,6,1,0.16666666666666666,1,0,1,1
+Cook,Citadel Estates of Hazel Crest,No Match,2020-12-04,6,2,0.3333333333333333,1,0,1,1
+Lake,Keshet House,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Winnebago,Wesley Willows,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Cook,Elevate Care North Branch,No Match,2020-12-04,6,1,0.16666666666666666,1,0,1,1
+Cook,Midway Neurological Rehab Center,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Henry,Allure of Geneseo,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Woodford,Apostolic Christian Home of Roanoke ,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Lake,Avantara,No Match,2020-12-04,6,1,0.16666666666666666,1,0,1,1
+Lake,Heritage Woods of Gurnee,No Match,2020-12-04,6,0,0.0,2,2,0,1
+Perry,Manor of Mason Woods,No Match,2020-12-04,6,1,0.16666666666666666,1,1,0,1
+DeKalb,Opportunity House #2,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Cook,Randolph County Care Center,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Kankakee,Bickford Senior Center of Bourbonnais,No Match,2020-12-04,6,1,0.16666666666666666,1,1,0,1
+DuPage,Alden Gardens of Bloomingdale Supportive Living ,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Cook,Covenant Enabling Residence,No Match,2020-12-04,6,0,0.0,1,1,0,1
+Boone,Park Place of Belvidere,146071,2020-12-04,6,0,0.0,1,1,0,1
+Kendall,Cedarhurst of Yorkville,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Ogle,Rochelle Rehab & Healthcare Center,145975,2020-12-04,6,0,0.0,1,1,0,1
+Kane,Fox River Rehabilitation and Healthcare Center,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Ford,Heritage Health - Gibson City,No Match,2020-12-04,6,0,0.0,1,1,0,1
+Marion,Twin Willows Nursing Center,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Montgomery,Montgomery Terrace,No Match,2020-12-04,6,0,0.0,1,0,1,1
+White,Carmi Manor,146124,2020-12-04,6,0,0.0,1,0,1,1
+Cook,Grand Regency of South Shore,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Lake,Prairieview at the Garlands,No Match,2020-12-04,6,0,0.0,1,0,1,1
+LaSalle,Liberty Village of Peru-Hawthorne Inn,No Match,2020-12-04,6,1,0.16666666666666666,1,0,1,1
+Will,Marley Oaks,No Match,2020-12-04,6,1,0.16666666666666666,1,1,0,1
+Cook,Waterford Estates Senior Living,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Monroe,Cedarhurst Senior Living -Waterloo,No Match,2020-12-04,6,0,0.0,1,1,0,1
+Kane,Dunham Rehabilitation Center,No Match,2020-12-04,6,1,0.16666666666666666,1,1,0,1
+Kane,River Glen,No Match,2020-12-04,6,0,0.0,1,1,0,1
+Winnebago,Siena on Brendenwood,No Match,2020-12-04,6,0,0.0,1,0,1,1
+DuPage,Villa St. Benedict,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Kane,Michealsen Health Center ,No Match,2020-12-04,6,0,0.0,1,1,0,1
+Cook,Alden Estates of Skokie,145869,2020-12-04,6,0,0.0,1,1,0,1
+DuPage,Park Place Health and Wellness,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Cook,Alexian Village,No Match,2020-12-04,6,0,0.0,1,0,1,1
+DuPage,Maple Glen Memory Care,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Tazewell,Generations Riverview Senior Living,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Cook,Belmont Oak Park,No Match,2020-12-04,6,2,0.3333333333333333,1,1,0,1
+Sangamon,Centennial Pointe,No Match,2020-12-04,6,1,0.16666666666666666,1,1,0,1
+Cook,Grove of Skokie 2.0,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Cook,The Auberge at Morton Grove,No Match,2020-12-04,6,0,0.0,1,1,0,1
+Whiteside,Pleasant View Rehab,No Match,2020-12-04,6,3,0.5,1,0,1,1
+Wayne,Aperion Care Fairfield,146000,2020-12-04,6,1,0.16666666666666666,1,1,0,1
+St. Clair,Cedarhurst of Shiloh2,No Match,2020-12-04,6,0,0.0,1,0,1,1
+DeKalb,Heritage Woods of DeKalb,No Match,2020-12-04,6,0,0.0,1,0,1,1
+Effingham,Village of Holly Brook,No Match,2020-12-04,6,0,0.0,1,0,1,1
+DuPage,Harbor Chase of Naperville,No Match,2020-12-04,6,0,0.0,1,1,0,1
+Union,Illinois Veterans Home Anna,No Match,2020-12-04,5,0,0.0,1,1,0,1
+St. Clair,The Assisted Living at Silver Creek,No Match,2020-12-04,5,0,0.0,1,0,1,1
+St. Clair,Aperion Care,No Match,2020-12-04,5,2,0.4,1,0,1,1
+Richland,Emerald Glen,No Match,2020-12-04,5,0,0.0,1,0,1,1
+St. Clair,Cambridge House,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Rock Island,Park Vista #2,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Grundy,Regency Care of Morris,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Lake,Glenkirk West Shore CILA,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Cook,MADO Healthcare Uptown #2,No Match,2020-12-04,5,1,0.2,1,0,1,1
+Lake,Sheridan at Green Oaks Senior Living ,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Lake,Prarieview at the Garlands,146118,2020-12-04,5,1,0.2,1,1,0,1
+Lake,Lexington Of Lake Zurich,145816,2020-12-04,5,0,0.0,1,0,1,1
+Cook,Burbank Rehabilitation,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Winnebago,Fairhaven Christian Retirement Center (2),No Match,2020-12-04,5,0,0.0,1,0,1,1
+LaSalle,Heritage Woods of Ottawa,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Cook,El Valor,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Knox,McAvoy Place-DD Homes,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Knox,Hawthorne Inn,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Kankakee,Kankakee terrace,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Cook,Leeda Services,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Kankakee,Citadel Care Center of Kankakee,145043,2020-12-04,5,0,0.0,1,1,0,1
+Kane,White Oaks at South Elgin,No Match,2020-12-04,5,1,0.2,1,1,0,1
+Will,Marian Village ,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Kane,Eden Supportive Living,No Match,2020-12-04,5,0,0.0,2,2,0,1
+Cook,Brookdale Assisted living,No Match,2020-12-04,5,1,0.2,1,1,0,1
+Winnebago,Cherryvale Place,No Match,2020-12-04,5,1,0.2,1,0,1,1
+Kane,Bright Oaks,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Kane,Batavia Rehab,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Cook,Presence Bethlehem Woods,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Cook,Victory Center of River Oaks,No Match,2020-12-04,5,1,0.2,1,0,1,1
+Jackson,The Voyage,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Henderson,Henderson County Retirement Center,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Fulton,Farmington County Manor,145404,2020-12-04,5,0,0.0,1,0,1,1
+Ford,Accolade Healthcare,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Effingham,The Glenwood,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Williamson,Integrity Healthcare of Marion,No Match,2020-12-04,5,0,0.0,1,0,1,1
+DuPage,Tabor Hills Supportive Living,No Match,2020-12-04,5,0,0.0,1,0,1,1
+DuPage,Alden of Old Town East,No Match,2020-12-04,5,0,0.0,2,1,1,1
+DuPage,Cedarhurst of Naperville,No Match,2020-12-04,5,1,0.2,1,1,0,1
+Lake,Spring Meadows Libertyville,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Williamson,Fifth Seasons,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Cook,Bria Place,145784,2020-12-04,5,0,0.0,1,0,1,1
+Will,Alden Estates Of Shorewood,146153,2020-12-04,5,0,0.0,1,0,1,1
+McLean,Heritage Health Bloomington,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Champaign,Villas of Hollybrook-Rantoul,No Match,2020-12-04,5,0,0.0,1,1,0,1
+McHenry,Hearthstone Village,No Match,2020-12-04,5,0,0.0,1,1,0,1
+McLean,McLean County Nursing Home,145494,2020-12-04,5,0,0.0,1,1,0,1
+Winnebago,Mosaic - alpine,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Champaign,Prairie Winds of Urbana,No Match,2020-12-04,5,1,0.2,1,0,1,1
+Clark,Marshall Rehab,146046,2020-12-04,5,0,0.0,1,0,1,1
+Coles,Mattoon Healthcare,145480,2020-12-04,5,0,0.0,2,2,0,1
+Moultrie,Courtyard Estates,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Cook,Ascension Living Saint Benedict Village,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Marion,The Manor at Salem Woods,No Match,2020-12-04,5,0,0.0,1,0,1,1
+McLean,Aperion Care-Bloomington,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Ogle,Generations At Neighbors,145440,2020-12-04,5,0,0.0,1,1,0,1
+Madison,Cambridge House of Maryville,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Macoupin,Village of Morse Farms,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Cook,Atria Glenview,No Match,2020-12-04,5,0,0.0,1,1,0,1
+Ogle,Oregon Living & Rehab,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Cook,Autumn Green at Midway Village,No Match,2020-12-04,5,1,0.2,2,1,1,1
+Champaign,Brookstone Estates Senior Living,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Lee,Liberty Court,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Boone,Heritage of Woods,No Match,2020-12-04,5,1,0.2,1,1,0,1
+Lake,VA James Lovell CLC GHH Bldg 206,No Match,2020-12-04,5,0,0.0,1,0,1,1
+Cook,Pine Crest Healthcare,145220,2020-12-04,4,1,0.25,1,1,0,1
+Williamson,Sunshine Gardens,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Champaign,Champaign-Urbana Nursing and Rehab,145439,2020-12-04,4,1,0.25,1,1,0,1
+Tazewell,UAW Senior Citizens Center,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Tazewell,Villas of Hollybrook,No Match,2020-12-04,4,0,0.0,1,1,0,1
+DuPage,Alden Old Town East,No Match,2020-12-04,4,0,0.0,1,1,0,1
+St. Clair,Morningside of Shiloh,No Match,2020-12-04,4,1,0.25,1,0,1,1
+Cook,Peace Village,No Match,2020-12-04,4,1,0.25,1,0,1,1
+Champaign,University Rehabilitation Center,145364,2020-12-04,4,0,0.0,1,1,0,1
+Cook,Montclare Supportive Living,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Winnebago,Cor Mariae,145972,2020-12-04,4,0,0.0,1,0,1,1
+Winnebago,Van Matre Encompass Health,No Match,2020-12-04,4,1,0.25,1,0,1,1
+Winnebago,Peterson Meadows,No Match,2020-12-04,4,1,0.25,1,1,0,1
+Cook,Heritage Woods,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Winnebago,Crimson Pointe,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Cook,GOLFVIEW DEVELOPMENTAL CENTER,No Match,2020-12-04,4,0,0.0,1,1,0,1
+St. Clair,Swansea Care & Rehab2,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Cook,Atrium Healthcare,No Match,2020-12-04,4,0,0.0,1,0,1,1
+DuPage,Bridgeway of Bensenville,145420,2020-12-04,4,0,0.0,1,1,0,1
+Stark,Toulon Rehab & Health Care CTR,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Winnebago,NorthPointe Terrace (3),No Match,2020-12-04,4,0,0.0,1,0,1,1
+Randolph,R&R Country Care,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Adams,Adams Pointe Senior Living,No Match,2020-12-04,4,0,0.0,1,1,0,1
+DuPage,Bridgeway of Bensenville IL/AL,No Match,2020-12-04,4,1,0.25,1,0,1,1
+McHenry,Crossroads Care Center,145222,2020-12-04,4,0,0.0,1,0,1,1
+Lake,Anthology Grayslake,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Ogle,Pinecrest Village,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Lake,Claridge Heathcare Center,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Richland,Helia Healthcare of Olney,145388,2020-12-04,4,0,0.0,1,0,1,1
+DuPage,St. Patricks Residence Nursing & Rehabilitation,145878,2020-12-04,4,0,0.0,1,1,0,1
+Lake,Stonebridge of Gurnee,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Lake,Sunrise of Gurnee,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Montgomery,Heritage Home Of Litchfield,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Lake,The Village at Victory Lakes Continuing Care Cente,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Rock Island,St. Anthonys Continue Care #2,No Match,2020-12-04,4,0,0.0,1,0,1,1
+McLean,Bloomington Rehabilitation and Health Care,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Macoupin,Heritage Health ,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Macoupin,Heritage Health - Staunton ,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Mason,Ems Haven of Rest ,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Mason,The Lodge at Manito,No Match,2020-12-04,4,0,0.0,1,0,1,1
+McHenry,Three Oaks Assisted Living and Memory Care,No Match,2020-12-04,4,0,0.0,2,1,1,1
+Whiteside,Coventry Living Center,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Randolph,Three Springs Lodge,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Sangamon,Heritage Health: Therapy & Senior Care - Springfie,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Sangamon,Hope School James Group Home,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Kane,Avantara of Aurora,No Match,2020-12-04,4,0,0.0,1,0,1,1
+DuPage,Thrive of Lisle Rehabilitation Center,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Ford,Gibson Area Hospital Annex,145979,2020-12-04,4,0,0.0,1,1,0,1
+Franklin,Helia Healthcare of  West Frankfort,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Peoria,Sharon Healthcare Willows South,14E888,2020-12-04,4,1,0.25,1,1,0,1
+Jo Daviess,Galena Stauss Senior Care,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Randolph,Randolph County Care Center,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Kane,Aperion Care Elgin,145740,2020-12-04,4,0,0.0,1,1,0,1
+Kane,Bright Oaks of Aurora ,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Kane,Deer Path of Huntley,No Match,2020-12-04,4,0,0.0,1,0,1,1
+Kane,GreenFields of Geneva,146166,2020-12-04,4,0,0.0,1,1,0,1
+Kane,Heritage Health ,No Match,2020-12-04,4,1,0.25,1,0,1,1
+Sangamon,Villas of Holly Brook and Reflections Memory Care,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Kankakee,Harvest View Senior Living,No Match,2020-12-04,4,0,0.0,1,1,0,1
+Kankakee,Presence Our Lady of Victory - Ascension Living,No Match,2020-12-04,4,1,0.25,1,1,0,1
+Kendall,Association for Individual Development (A.I.D),No Match,2020-12-04,4,3,0.75,1,1,0,1
+McDonough,Wesley Village Healthcare,146047,2020-12-04,4,1,0.25,1,0,1,1
+Woodford,El Paso Health Care Center,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Will,Heritage Woods of Bolingbrook,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Whiteside,Heritage woods of sterling ,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Winnebago,Riverbluff Nursing Home ,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Winnebago,Prairie View Assisted Living (2),No Match,2020-12-04,3,0,0.0,1,1,0,1
+Will,Atria at River Trail,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Winnebago,Mosaic - Appletree Group Home,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Union,Illinois Veterans Home - Anna,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Winnebago,Lincolnshire Place,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Will,Joshua Arms,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Winnebago,Fair Oaks Rehabilitation and Health Care Center,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Williamson,The Voyage Senior Living of Marion,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Union,Jonesboro RHCC,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Kane,Ekstam Assisted Living,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Tazewell,Pekin Manor,145597,2020-12-04,3,0,0.0,1,1,0,1
+Jersey,Jerseyville Estates,No Match,2020-12-04,3,0,0.0,1,0,1,1
+DuPage,Cedarhurst Naperville,No Match,2020-12-04,3,0,0.0,1,1,0,1
+DuPage,Philip J Rock Center & School ,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Hancock,Hickory Grove,No Match,2020-12-04,3,1,0.3333333333333333,1,0,1,1
+Iroquois,Prairieview Lutheran Homes,145953,2020-12-04,3,0,0.0,1,1,0,1
+Iroquois,Sheldon Healthcare Center,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Jefferson,Residential Living Center,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Kane,Brighton Garden of St Charles,No Match,2020-12-04,3,1,0.3333333333333333,1,1,0,1
+McDonough,Courtyard Estates,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Kane,MarkLund Hyde Center,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Knox,Heartland Health,No Match,2020-12-04,3,0,0.0,1,0,1,1
+LaSalle,Hawthorne Inn Assisted Living,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Livingston,Accolade Healthcare of Pontiac,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Livingston,Evenglow Inn,No Match,2020-12-04,3,1,0.3333333333333333,1,0,1,1
+Madison,Faith Countryside,146060,2020-12-04,3,0,0.0,1,1,0,1
+Cook,The Mooring of Arlington heights,146007,2020-12-04,3,0,0.0,1,0,1,1
+Cook,Sunrise of Lincoln Park,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Cook,Sunrise Palos Park,No Match,2020-12-04,3,1,0.3333333333333333,1,1,0,1
+Cook,Pioneer Gardens,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Cook,Heartis Village Orland Park,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Cook,Good Shepherd Manor,No Match,2020-12-04,3,1,0.3333333333333333,1,1,0,1
+Cook,Crestwood Terrace,140E178,2020-12-04,3,0,0.0,1,1,0,1
+Cook,Clearbrook West,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Cook,Calumet City Terrace,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Cook,Beechwood Manor,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Cook,All Saints,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Cook,Alden Town Manor Care,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Cook,Alden Estates of Skokie ,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Clay,Heritage Woods of Flora ,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Christian,prairie rose,145411,2020-12-04,3,0,0.0,1,0,1,1
+Bureau,St. Margarets Living Center,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Adams,Chaddock,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Madison,Fountain View Manor,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Henry,Hammond Henry District HSP ,No Match,2020-12-04,3,0,0.0,1,0,1,1
+St. Clair,Bradford Place,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Rock Island,Amber Ridge #2,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Morgan,The Pointe,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Morgan,Heritage Health Jacksonville,146059,2020-12-04,3,0,0.0,1,1,0,1
+Rock Island,Park Vista,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Stephenson,Lena Living Center,No Match,2020-12-04,3,0,0.0,1,0,1,1
+McHenry,Valley Hi,145652,2020-12-04,3,0,0.0,1,1,0,1
+Peoria,Proctor Place,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Rock Island,Heritage Woods of Moline,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Morgan,Prairie Village Jacksonville,No Match,2020-12-04,3,0,0.0,1,0,1,1
+McHenry,Sunrise of Crystal Lake Assisted Living and Memory,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Rock Island,Amber Ridge,No Match,2020-12-04,3,0,0.0,1,1,0,1
+Tazewell,Apostolic Christian CILA Services,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Tazewell,Hopedale Nursing Home,No Match,2020-12-04,3,0,0.0,1,0,1,1
+Cook,Eden Supportive Living,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Shelby,Villas of Holly Brook-Shelbyville,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Cook,Winston Nursing,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Shelby,Shelbyville Rehabilitation and Health Care Center,145836,2020-12-04,2,0,0.0,1,1,0,1
+Cook,Concord  Place,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Scott,Scott County Nursing Center,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,DD Homes,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Cook,"David Webb, Jr. Senior Living Complex",No Match,2020-12-04,2,2,1.0,1,1,0,1
+Sangamon,Timberlake Supportive Living,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Cook,Garden Center Services-home facility,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Vermilion,Heritage Health,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Victory Centre of Park Forest,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Heartis Village of Orland Park,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Cook,MacNeal Memorial Hospital Rehab/LTC,145848,2020-12-04,2,0,0.0,1,1,0,1
+Cook,Victory Center Sierra Ridge,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,California Gardens,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,New City Supportive Living,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Park Lawn Residential Center,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Marklund Wasmond Center,No Match,2020-12-04,2,0,0.0,1,0,1,1
+McHenry,Eastgate Manor,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Bickford of Tinley Park,No Match,2020-12-04,2,0,0.0,1,1,0,1
+St. Clair,The Esquiline - Dammert Center,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Woodford,Snyder Village Assisted Living ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Bureau,Heartland Heath care- Henry,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Bureau,Heritage Health,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Calhoun,Calhoun Nursing and Rehabilitation,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Cass,Evergreen Place Supportive Living ,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Champaign,Illini Heritage Rehab and Health,146017,2020-12-04,2,0,0.0,1,1,0,1
+Christian,Hickory Estates of Pana,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Christian,Prairie Rose,145411,2020-12-04,2,0,0.0,1,0,1,1
+Christian,Taylorville Estates,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Christian,Taylorville Hickory Estates,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Christian,Villas of Holly Brook,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Clinton,Cedarhurst of Breese,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Bethane Place,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Clinton,Warren G Murray Developmental Center,No Match,2020-12-04,2,0,0.0,1,1,0,1
+St. Clair,The Atrium,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Alden North Shore,145984,2020-12-04,2,0,0.0,1,1,0,1
+Cook,Alden Poplar,No Match,2020-12-04,2,0,0.0,1,0,1,1
+St. Clair,St. Francis,No Match,2020-12-04,2,0,0.0,1,0,1,1
+St. Clair,Cambridge House Swansea,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Autumn Green at Wright Campus,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Barton Senior Living,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Winnebago,North Pointe Terrace (2),No Match,2020-12-04,2,0,0.0,1,1,0,1
+Crawford,Heritage Health,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Cook,Bellwood Development Center,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Williamson,Villas of Hollybrook ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Douglas,Arcola Health Care,146050,2020-12-04,2,0,0.0,1,0,1,1
+DeKalb,Bethany Rehabilitation and Health Care Center,145958,2020-12-04,2,0,0.0,1,1,0,1
+Lake,Village at Victory Lakes,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Kane,South Elgin Rehab ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Montgomery,Montgomery Nursing and Rehab Center,145483,2020-12-04,2,0,0.0,1,1,0,1
+Knox,Kensington Nursing Home,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Montgomery,Hillsboro Rehab And Healthcare,145500,2020-12-04,2,0,0.0,1,0,1,1
+LaSalle,Streator Unlimited,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Lake,APERION CARE HIGHWOOD,145936,2020-12-04,2,0,0.0,1,1,0,1
+Lake,Lake Barrington Woods,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Lake,Lambs Farm Stone Apartments,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Lake,Mount St. Josephs,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Lake,Seymour Terrace ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Lake,Sunrise Senior Living of Gurnee,No Match,2020-12-04,2,0,0.0,1,1,0,1
+McLean,Evergreen Village: Supportive Care,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Wayne,Cisne Rehab and Health Care Center,146131,2020-12-04,2,0,0.0,1,1,0,1
+Macon,Eagle Ridge Assisted Living Center,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Macon,Primrose Retirement Community of Decatur,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Madison,Cedarhurst of Edwardsville,No Match,2020-12-04,2,0,0.0,1,1,0,1
+McHenry,The Fountains (2),No Match,2020-12-04,2,0,0.0,1,1,0,1
+Madison,Faith Coutryside Homes Assisted Living,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Madison,Highland Healthcare,145508,2020-12-04,2,0,0.0,1,1,0,1
+Madison,Villas of Holly Brook Bethalto,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Mason,Havana Health Care ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+McDonough,Bickford Cottage Assisted Living,No Match,2020-12-04,2,0,0.0,1,0,1,1
+McHenry,Hearthstone Manor #3,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Whiteside,Kreiders ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Kane,River Glen of St. Charles ,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Jersey,Willow Rose Rehab and Health Care,No Match,2020-12-04,2,0,0.0,1,0,1,1
+DeKalb,Sandwich Rehab and Health Care Center,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Fayette,Sarah Bush Lincoln Fayette County Hospital,No Match,2020-12-04,2,0,0.0,1,1,0,1
+DeKalb,Willow Crest Nursing Pavilion #2,No Match,2020-12-04,2,0,0.0,1,0,1,1
+McHenry,Bickford AL and Memory Care Crystal Lake ,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Douglas,"Carriage Crossing Senior Living-Arcola, Illinois",No Match,2020-12-04,2,0,0.0,1,0,1,1
+DuPage,Alden Old Town West,No Match,2020-12-04,2,0,0.0,1,1,0,1
+DuPage,Alden Springs ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+DuPage,Artis Elmhurst,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Williamson,Fifth Seasons Assisted Living ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+DuPage,Lacey Creek Supportive Living,No Match,2020-12-04,2,0,0.0,1,1,0,1
+DuPage,Marklund Philip Center,No Match,2020-12-04,2,0,0.0,1,0,1,1
+DuPage,Park Place Health and Wellness Center ,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Peoria,Cornerstone Rehabilitation and Health Care,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Ford,Accolade Healthcare of Paxton Senior Living,145449,2020-12-04,2,0,0.0,1,1,0,1
+Jersey,Villas of Holly Brook,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Franklin,Benton Health Care,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Franklin,Westside Rehab and CAre,145664,2020-12-04,2,0,0.0,1,0,1,1
+Fulton,Renaissance Care Center,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Ogle,Polo Rehab,No Match,2020-12-04,2,0,0.0,1,1,0,1
+Tazewell,Lakeside Rehab and Healthcare,145646,2020-12-04,2,0,0.0,1,1,0,1
+Henry,Kewanee Care Home,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Henry,Woodridge Supportive Living Facility,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Washington,"Washington County Hospital, Long Term Care Unit",No Match,2020-12-04,2,1,0.5,1,1,0,1
+Jackson,The Landings at Reed Station Crossing,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Jefferson,White Oak Rehabilitation & Health Care Center,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Wayne,Brookstone Estates,No Match,2020-12-04,2,0,0.0,1,0,1,1
+Woodford,The Loft Rehabilitation & Nursing,No Match,2020-12-04,2,0,0.0,1,0,1,1

@@ -1,0 +1,1073 @@
+County,FacilityName,confirmed_cases,deaths,status,reporting_date,% deaths
+Adams,Chaddock,3,0,Open,2020-10-16,0.0
+Adams,Illinois Veterans Home,45,2,Open,2020-10-16,0.044444444444444446
+Adams,Senior Center,4,2,Open,2020-10-16,0.5
+Adams,Good Samaritan Home,9,1,Open,2020-10-16,0.1111111111111111
+Adams,Adams Pointe Senior Living,4,0,Closed,2020-10-16,0.0
+Adams,Bradford Villa,8,1,Open,2020-10-16,0.125
+Adams,Golden Good Shepperd Home,48,2,Open,2020-10-16,0.041666666666666664
+Adams,Sunset Home,4,0,Open,2020-10-16,0.0
+Adams,St Vincents Nursing Home,9,0,Open,2020-10-16,0.0
+Bond,Greenville Nursing & Rehab,21,1,Open,2020-10-16,0.047619047619047616
+Bond,Cedarhurst of Greenville,19,3,Open,2020-10-16,0.15789473684210525
+Boone,Symphony Northwoods,89,16,Closed,2020-10-16,0.1797752808988764
+Boone,Park Place of Belvidere,6,0,Closed,2020-10-16,0.0
+Brown,Heritage Health,4,0,Open,2020-10-16,0.0
+Bureau,St. Margarets Living Center,4,0,Open,2020-10-16,0.0
+Bureau,Aperion Care- Princeton,15,1,Open,2020-10-16,0.06666666666666667
+Carroll,Big Meadows Nursing Home,53,2,Open,2020-10-16,0.03773584905660377
+Carroll,Allure of Mount Carroll,29,2,Open,2020-10-16,0.06896551724137931
+Cass,Walker Nursing Home,57,11,Closed,2020-10-16,0.19298245614035087
+Cass,Heritage Health,9,0,Open,2020-10-16,0.0
+Champaign,University Rehab Center,5,0,Closed,2020-10-16,0.0
+Champaign,Reflections Memory Care,28,4,Closed,2020-10-16,0.14285714285714285
+Champaign,Champaign-Urbana Nursing and Rehab,4,1,Closed,2020-10-16,0.25
+Champaign,Villas of Hollybrook-Rantoul,5,0,Closed,2020-10-16,0.0
+Champaign,Country Health and Rehab,7,0,Closed,2020-10-16,0.0
+Champaign,Green House Homes at Clark-Lindsey,2,0,Closed,2020-10-16,0.0
+Champaign,Illini Heritage Rehab and Health,2,0,Closed,2020-10-16,0.0
+Champaign,Meadowbrook at Clark-Lindsey,2,0,Open,2020-10-16,0.0
+Champaign,Champaign Urbana Nursing and Rehab,15,1,Open,2020-10-16,0.06666666666666667
+Champaign,Bickford Senior Living,10,3,Open,2020-10-16,0.3
+Champaign,University Rehabilitation Center,5,0,Open,2020-10-16,0.0
+Champaign,Country Health and Rehab,2,0,Open,2020-10-16,0.0
+Champaign,Brookdale Urbana,7,1,Open,2020-10-16,0.14285714285714285
+Christian,Villas of Holly Brook,2,0,Closed,2020-10-16,0.0
+Christian,Taylorville Estates,2,0,Open,2020-10-16,0.0
+Christian,Taylorville Hickory Estates,2,0,Open,2020-10-16,0.0
+Christian,Heritage Health of Pana,2,0,Open,2020-10-16,0.0
+Christian,Prairie Rose,2,0,Open,2020-10-16,0.0
+Christian,taylorville care center,85,9,Open,2020-10-16,0.10588235294117647
+Christian,Taylorville Skilled Nursing (fka Meadow Manor),53,4,Open,2020-10-16,0.07547169811320754
+Christian,Lifes Journey,8,2,Open,2020-10-16,0.25
+Clark,Villas of Holly Brook Marshall,8,0,Open,2020-10-16,0.0
+Clark,Marshall Rehab,3,0,Open,2020-10-16,0.0
+Clark,Heartland Manor Nursing home,44,1,Open,2020-10-16,0.022727272727272728
+Clay,Flora Gardens,55,5,Open,2020-10-16,0.09090909090909091
+Clinton,Carlyle HealthCare Center,85,15,Closed,2020-10-16,0.17647058823529413
+Clinton,Warrren G Murray Develpmental Center,62,0,Closed,2020-10-16,0.0
+Clinton,Clinton Manor Living Facility,31,1,Closed,2020-10-16,0.03225806451612903
+Clinton,Villa Catherine,7,0,Closed,2020-10-16,0.0
+Clinton,Clinton Manor Living Facility,13,0,Closed,2020-10-16,0.0
+Clinton,Warren G Murray Developmental Center,2,0,Closed,2020-10-16,0.0
+Clinton,Carlyle Healthcare Center,6,0,Open,2020-10-16,0.0
+Clinton,Warren G. Murray Developmental Center,6,0,Open,2020-10-16,0.0
+Clinton,Breese Nursing Home,10,0,Open,2020-10-16,0.0
+Coles,Charleston Rehab and Healthcare,95,16,Closed,2020-10-16,0.16842105263157894
+Coles,Mattoon Healthcare,2,0,Closed,2020-10-16,0.0
+Coles,Odd Fellow Rebekah,28,5,Closed,2020-10-16,0.17857142857142858
+Coles,Villas of Holly,7,0,Closed,2020-10-16,0.0
+Coles,Mattoon Healthcare,3,0,Closed,2020-10-16,0.0
+Coles,Hilltop Skilled Nursing,71,5,Open,2020-10-16,0.07042253521126761
+Coles,Copper Creek Cottages,21,4,Open,2020-10-16,0.19047619047619047
+Cook,Three Crown Park ,48,8,Closed,2020-10-16,0.16666666666666666
+Cook,The Admiral at the Lake,50,6,Open,2020-10-16,0.12
+Cook,Covenant Enabling Residence,6,0,Closed,2020-10-16,0.0
+Cook,Presence MaryHaven,13,4,Closed,2020-10-16,0.3076923076923077
+Cook,Bridgeview HC,66,15,Closed,2020-10-16,0.22727272727272727
+Cook,Pershing Garden,13,4,Closed,2020-10-16,0.3076923076923077
+Cook,Aperion Care Forest Park,54,5,Open,2020-10-16,0.09259259259259259
+Cook,ManorCare Palos Heights East,67,12,Closed,2020-10-16,0.1791044776119403
+Cook,Community Care Nursing Home,81,10,Open,2020-10-16,0.12345679012345678
+Cook,Westchester Health and Rehabilitation Center,46,12,Closed,2020-10-16,0.2608695652173913
+Cook,Ludeman Developmental Center,263,9,Closed,2020-10-16,0.034220532319391636
+Cook,Warren Barr Lincoln Park,56,11,Closed,2020-10-16,0.19642857142857142
+Cook,Good Shepherd Manor,3,1,Closed,2020-10-16,0.3333333333333333
+Cook,Lexington of Chicago Ridge,23,12,Closed,2020-10-16,0.5217391304347826
+Cook,Summit of Uptown,35,15,Closed,2020-10-16,0.42857142857142855
+Cook,Brookdale Des Plaines,20,7,Closed,2020-10-16,0.35
+Cook,Evergreen Senior Living,9,4,Closed,2020-10-16,0.4444444444444444
+Cook,Madden Mental Health Center,9,0,Closed,2020-10-16,0.0
+Cook,New City Supportive Living,2,0,Open,2020-10-16,0.0
+Cook,Alden Lakeland,14,2,Closed,2020-10-16,0.14285714285714285
+Cook,Lakeview Nursing and Rehab,90,22,Open,2020-10-16,0.24444444444444444
+Cook,Uptown Health Center,119,18,Closed,2020-10-16,0.15126050420168066
+Cook,Symphony of Bronzeville,61,17,Closed,2020-10-16,0.2786885245901639
+Cook,Southpoint Nsg and Rehab,83,11,Open,2020-10-16,0.13253012048192772
+Cook,Windsor Estates,109,23,Closed,2020-10-16,0.21100917431192662
+Cook,ManorCare Health Services-Palos Heights West,55,16,Closed,2020-10-16,0.2909090909090909
+Cook,Prairie Green at Dixie Crossing,18,6,Closed,2020-10-16,0.3333333333333333
+Cook,Victory Centre of Sierra Ridge,12,1,Closed,2020-10-16,0.08333333333333333
+Cook,Progressive Housing,7,3,Closed,2020-10-16,0.42857142857142855
+Cook,Arbour Health Care Center,58,3,Closed,2020-10-16,0.05172413793103448
+Cook,Elevate Care Chicago North,176,34,Closed,2020-10-16,0.19318181818181818
+Cook,Carlton at the Lake,112,19,Open,2020-10-16,0.16964285714285715
+Cook,Aperion Care Dolton,35,6,Closed,2020-10-16,0.17142857142857143
+Cook,Bellhaven Nursing and Rehabilitation,99,9,Open,2020-10-16,0.09090909090909091
+Cook,Center Home for Hispanic Elderly,118,30,Open,2020-10-16,0.2542372881355932
+Cook,Estates of Hyde Park,57,13,Open,2020-10-16,0.22807017543859648
+Cook,Symphony of South Shore,188,29,Closed,2020-10-16,0.15425531914893617
+Cook,Villa at Windsor Park,160,44,Closed,2020-10-16,0.275
+Cook,Symphony of Lincoln Park,179,30,Closed,2020-10-16,0.16759776536312848
+Cook,Symphony of Chicago West,58,7,Closed,2020-10-16,0.1206896551724138
+Cook,Covenant Home of Chicago,2,0,Open,2020-10-16,0.0
+Cook,Austin Oasis,105,16,Open,2020-10-16,0.1523809523809524
+Cook,Glenview Terrace,190,33,Closed,2020-10-16,0.1736842105263158
+Cook,Avenues to Independence,11,0,Closed,2020-10-16,0.0
+Cook,Sunrise of Park Ridge,48,11,Closed,2020-10-16,0.22916666666666666
+Cook,Birchwood Plaza Nursing-Rehab,85,15,Closed,2020-10-16,0.17647058823529413
+Cook,Grace Point Place Memory Care,26,8,Closed,2020-10-16,0.3076923076923077
+Cook,Sunrise of Flossmore,12,6,Closed,2020-10-16,0.5
+Cook,Sunrise Palos Park,3,1,Closed,2020-10-16,0.3333333333333333
+Cook,Astoria Place of Chicago,104,20,Closed,2020-10-16,0.19230769230769232
+Cook,Little Village Nursing Home,43,7,Closed,2020-10-16,0.16279069767441862
+Cook,Park View Rehab,54,11,Closed,2020-10-16,0.2037037037037037
+Cook,Southview Manor,26,2,Closed,2020-10-16,0.07692307692307693
+Cook,The Grove of Skokie,40,6,Open,2020-10-16,0.15
+Cook,Vi at the Glen,27,4,Closed,2020-10-16,0.14814814814814814
+Cook,Symphony at 87th,175,34,Open,2020-10-16,0.19428571428571428
+Cook,Alden North Shore,2,0,Closed,2020-10-16,0.0
+Cook,Lieberman Geriatric Center,76,8,Open,2020-10-16,0.10526315789473684
+Cook,Bria Place of Indian Head Park,33,7,Closed,2020-10-16,0.21212121212121213
+Cook,Midway Neuro and Rehab,143,12,Open,2020-10-16,0.08391608391608392
+Cook,Alden Estates of Orland Park,43,13,Open,2020-10-16,0.3023255813953488
+Cook,Landmark of Des Plaines,95,22,Open,2020-10-16,0.23157894736842105
+Cook,Symphony at Aria,31,7,Closed,2020-10-16,0.22580645161290322
+Cook,Warren Barr South Loop,45,3,Open,2020-10-16,0.06666666666666667
+Cook,Westwood Manor,63,2,Closed,2020-10-16,0.031746031746031744
+Cook,Bria Forest Edge,148,2,Open,2020-10-16,0.013513513513513514
+Cook,California Gardens Nursing and Rehabilitation Cent,157,6,Open,2020-10-16,0.03821656050955414
+Cook,Montgomery Place,40,4,Open,2020-10-16,0.1
+Cook,Selfhelp Home,40,4,Closed,2020-10-16,0.1
+Cook,Lydia Health Care Center,23,3,Open,2020-10-16,0.13043478260869565
+Cook,Aperion Care Evanston,25,2,Closed,2020-10-16,0.08
+Cook,Westminster Place,16,0,Closed,2020-10-16,0.0
+Cook,Oak Park Oasis,29,11,Closed,2020-10-16,0.3793103448275862
+Cook,City View Multi Care Center,257,15,Closed,2020-10-16,0.058365758754863814
+Cook,Generations at Regency,131,33,Closed,2020-10-16,0.25190839694656486
+Cook,Avantara Evergreen Park,94,22,Closed,2020-10-16,0.23404255319148937
+Cook,Generations at Applewood,83,20,Closed,2020-10-16,0.24096385542168675
+Cook,Bella Terra Morton Grove,89,11,Closed,2020-10-16,0.12359550561797752
+Cook,Manor Care Health Services-Homewood,52,15,Closed,2020-10-16,0.28846153846153844
+Cook,Artis Senior Living of Lakeview,19,8,Closed,2020-10-16,0.42105263157894735
+Cook,Northbrook Inn Memory Care,18,5,Closed,2020-10-16,0.2777777777777778
+Cook,Chicago Ridge Nursing and Rehab,71,17,Closed,2020-10-16,0.23943661971830985
+Cook,Lincolnwood Place,45,15,Open,2020-10-16,0.3333333333333333
+Cook,BRIA of Chicago Heights,41,1,Closed,2020-10-16,0.024390243902439025
+Cook,Arden Courts/Manor Care of South Holland ,68,8,Open,2020-10-16,0.11764705882352941
+Cook,The Sheridan of Park Ridge,10,3,Closed,2020-10-16,0.3
+Cook,ManorCare Oak Lawn West,82,18,Closed,2020-10-16,0.21951219512195122
+Cook,Generations at Elmwood Park,89,19,Closed,2020-10-16,0.21348314606741572
+Cook,Symphony of Evanston,28,1,Closed,2020-10-16,0.03571428571428571
+Cook,Lemont Center,33,7,Open,2020-10-16,0.21212121212121213
+Cook,Oak Park Brookdale,14,1,Closed,2020-10-16,0.07142857142857142
+Cook,Praire Oasis South Holland,49,14,Open,2020-10-16,0.2857142857142857
+Cook,Symphony of Crestwood,48,7,Open,2020-10-16,0.14583333333333334
+Cook,Emerald Place Memory Care,11,2,Closed,2020-10-16,0.18181818181818182
+Cook,Brookdale Assisted living,5,1,Closed,2020-10-16,0.2
+Cook,Generations At Oakton,62,13,Closed,2020-10-16,0.20967741935483872
+Cook,Lutheran Home,55,9,Closed,2020-10-16,0.16363636363636364
+Cook,Golfview Developmental Center,123,11,Closed,2020-10-16,0.08943089430894309
+Cook,Lexington Health Care Orland Park,78,18,Open,2020-10-16,0.23076923076923078
+Cook,Niles Nursing and Rehab Center,214,49,Open,2020-10-16,0.22897196261682243
+Cook,Winston Manor,48,8,Closed,2020-10-16,0.16666666666666666
+Cook,Smith Village,68,14,Closed,2020-10-16,0.20588235294117646
+Cook,Prairie Manor Rehab and Nursing,34,12,Open,2020-10-16,0.35294117647058826
+Cook,Avanti Wellness & Rehabilitation ,110,17,Open,2020-10-16,0.15454545454545454
+Cook,Burbank Rehab - Vera Care Stickney,38,11,Closed,2020-10-16,0.2894736842105263
+Cook,Sheridan Village,54,19,Open,2020-10-16,0.35185185185185186
+Cook,Plymouth Place Senior Living,54,11,Open,2020-10-16,0.2037037037037037
+Cook,Aperion Care Burbank,5,1,Closed,2020-10-16,0.2
+Cook,Manor Care Oak Lawn EAST. Cook,86,19,Open,2020-10-16,0.22093023255813954
+Cook,AMITA Health Holy Family Medical Center ,30,1,Open,2020-10-16,0.03333333333333333
+Cook,Holy Family Villa,10,4,Closed,2020-10-16,0.4
+Cook,Aperion Care Chicago Heights,21,1,Open,2020-10-16,0.047619047619047616
+Cook,Belmont Village Senior Living of Glenview,26,5,Open,2020-10-16,0.19230769230769232
+Cook,Brookdale Northbrook ,5,3,Closed,2020-10-16,0.6
+Cook,Norridge Gardens,167,45,Open,2020-10-16,0.2694610778443114
+Cook,Clark Manor,124,15,Closed,2020-10-16,0.12096774193548387
+Cook,Continental Nursing and Rehabilitation Center,78,12,Open,2020-10-16,0.15384615384615385
+Cook,The Carrington Linclonwood,41,4,Closed,2020-10-16,0.0975609756097561
+Cook,Bria of Palos Hills,102,18,Open,2020-10-16,0.17647058823529413
+Cook,Margaret Manor Central,12,1,Open,2020-10-16,0.08333333333333333
+Cook,Alden Estates of Northmoor,93,18,Open,2020-10-16,0.1935483870967742
+Cook,Waterfront Terrace,69,13,Closed,2020-10-16,0.18840579710144928
+Cook,Prairie Green at Fays Point,11,3,Open,2020-10-16,0.2727272727272727
+Cook,The Grove of Evanston,89,19,Closed,2020-10-16,0.21348314606741572
+Cook,Atrium Health Care Center,99,10,Closed,2020-10-16,0.10101010101010101
+Cook,Beacon Care Center,82,14,Closed,2020-10-16,0.17073170731707318
+Cook,Bethesda Rehab and Senior Care,46,6,Closed,2020-10-16,0.13043478260869565
+Cook,Little Sisters of the Poor/St. Marys Home,63,13,Open,2020-10-16,0.20634920634920634
+Cook,Mosaic of Lakeshore,113,28,Open,2020-10-16,0.24778761061946902
+Cook,Alden Princeton Rehab & Health,54,12,Closed,2020-10-16,0.2222222222222222
+Cook,Kensington Place Nursing And Rehabilitation Center,15,2,Closed,2020-10-16,0.13333333333333333
+Cook,Belmont Oak Park,6,2,Closed,2020-10-16,0.3333333333333333
+Cook,Fairmont Care,151,32,Closed,2020-10-16,0.2119205298013245
+Cook,Elevate Care Irving Park,71,13,Closed,2020-10-16,0.18309859154929578
+Cook,Citadel of Warren Park,22,4,Closed,2020-10-16,0.18181818181818182
+Cook,Chalet Living And Rehab Center,97,14,Closed,2020-10-16,0.14432989690721648
+Cook,Harmony Healthcare and Rehab,136,29,Closed,2020-10-16,0.21323529411764705
+Cook,Central Nursing Home,98,17,Closed,2020-10-16,0.17346938775510204
+Cook,Bryn Mawr Care,28,3,Closed,2020-10-16,0.10714285714285714
+Cook,Lakefront Nursing,30,0,Closed,2020-10-16,0.0
+Cook,Aperion Care West Ridge,35,14,Closed,2020-10-16,0.4
+Cook,Aperion Care International of Chicago,155,26,Open,2020-10-16,0.16774193548387098
+Cook,Ambassador Nursing,114,9,Closed,2020-10-16,0.07894736842105263
+Cook,MADO Healthcare Uptown,84,9,Open,2020-10-16,0.10714285714285714
+Cook,Alden Village North,6,0,Closed,2020-10-16,0.0
+Cook,Mayfield Care Center,154,23,Closed,2020-10-16,0.14935064935064934
+Cook,Norwood crossing Skilled Nursing,99,18,Open,2020-10-16,0.18181818181818182
+Cook,Parkshore Estates,27,0,Open,2020-10-16,0.0
+Cook,Symphony of Morgan Park,202,26,Open,2020-10-16,0.12871287128712872
+Cook,Warren Barr Gold Coast,48,4,Open,2020-10-16,0.08333333333333333
+Cook,Woodbridge Nursing Pavilion,219,40,Closed,2020-10-16,0.182648401826484
+Cook,All American Nursing Home,50,4,Closed,2020-10-16,0.08
+Cook,Citadel of Waterford,64,13,Closed,2020-10-16,0.203125
+Cook,Landmark of Richton Park,50,9,Closed,2020-10-16,0.18
+Cook,Weinberg Community for Senior Living,24,2,Open,2020-10-16,0.08333333333333333
+Cook,Brookdale Orland Park,15,6,Open,2020-10-16,0.4
+Cook,Villa at South Holland,33,9,Closed,2020-10-16,0.2727272727272727
+Cook,Pauls House,49,6,Closed,2020-10-16,0.12244897959183673
+Cook,The Hartwell,16,0,Closed,2020-10-16,0.0
+Cook,Heather Manor Nursing & Rehabilitation Center,23,4,Open,2020-10-16,0.17391304347826086
+Cook,"David Webb, Jr. Senior Living Complex",3,2,Open,2020-10-16,0.6666666666666666
+Cook,Grosse Pointe Manor,118,25,Open,2020-10-16,0.211864406779661
+Cook,Citadel of Northbrook,43,2,Open,2020-10-16,0.046511627906976744
+Cook,Aperion Care Plum Grove,58,19,Open,2020-10-16,0.3275862068965517
+Cook,Elevate Care Niles,16,5,Open,2020-10-16,0.3125
+Cook,Aperion Care Oak Lawn,103,22,Open,2020-10-16,0.21359223300970873
+Cook,Alden Wentworth  Rehab & Healthcare Center,73,15,Open,2020-10-16,0.2054794520547945
+Cook,Revere Court of South Barrington,9,2,Open,2020-10-16,0.2222222222222222
+Cook,Presence Villa Scalabrini Nursing&Rehab Center,52,6,Open,2020-10-16,0.11538461538461539
+Cook,The Grove of Berwyn,57,14,Open,2020-10-16,0.24561403508771928
+Cook,The Vine At Countryside,31,4,Open,2020-10-16,0.12903225806451613
+Cook,Elevate Saint Andrew,42,9,Open,2020-10-16,0.21428571428571427
+Cook,ManorCare ElkGrove Village,113,25,Open,2020-10-16,0.22123893805309736
+Cook,Presence St. Benedict,16,3,Open,2020-10-16,0.1875
+Cook,The Mather Evanston,7,0,Closed,2020-10-16,0.0
+Cook,Symphony of Hanover Park,25,2,Open,2020-10-16,0.08
+Cook,Arden Courts of Palos Heights,55,10,Open,2020-10-16,0.18181818181818182
+Cook,Jackson Park Assisted living,2,0,Open,2020-10-16,0.0
+Cook,Autumn Green at Midway Village,3,0,Closed,2020-10-16,0.0
+Cook,Misericordia,27,2,Closed,2020-10-16,0.07407407407407407
+Cook,Aperion Care Midlothian,5,0,Closed,2020-10-16,0.0
+Cook,Avantara Park Ridge,11,2,Open,2020-10-16,0.18181818181818182
+Cook,Palos Heights Nursing and Rehab,52,10,Closed,2020-10-16,0.19230769230769232
+Cook,South Suburban Rehab Center,81,20,Open,2020-10-16,0.24691358024691357
+Cook,Lee Manor Rehab and Nursing,103,20,Open,2020-10-16,0.1941747572815534
+Cook,Greek American Rehab & Care,29,2,Open,2020-10-16,0.06896551724137931
+Cook,Addolorata Villa,109,20,Open,2020-10-16,0.1834862385321101
+Cook,Oak Park Arms,9,2,Closed,2020-10-16,0.2222222222222222
+Cook,Harbor House Memory Care,36,12,Open,2020-10-16,0.3333333333333333
+Cook,Resurrection Nursing & rehab Center,52,8,Open,2020-10-16,0.15384615384615385
+Cook,Elevate Care Northbrook,78,16,Open,2020-10-16,0.20512820512820512
+Cook,Bria River Oaks,106,2,Open,2020-10-16,0.018867924528301886
+Cook,Glenwood Health Care & Rehab,89,5,Open,2020-10-16,0.056179775280898875
+Cook,Symphony at Midway,218,27,Closed,2020-10-16,0.12385321100917432
+Cook,Park Lawn Residential Center,2,0,Open,2020-10-16,0.0
+Cook,Elevate Care South Holland,19,6,Open,2020-10-16,0.3157894736842105
+Cook,Skokie Meadows,10,0,Open,2020-10-16,0.0
+Cook,Bickford of Tinley Park,3,0,Open,2020-10-16,0.0
+Cook,Peterson Park Health Care,213,35,Closed,2020-10-16,0.1643192488262911
+Cook,Buckingham Pavilion,72,13,Closed,2020-10-16,0.18055555555555555
+Cook,Alden Lincoln Park Rehab,74,12,Closed,2020-10-16,0.16216216216216217
+Cook,Meadowbrook Manor,80,13,Closed,2020-10-16,0.1625
+Cook,Alden Estates Des Plaines,13,2,Open,2020-10-16,0.15384615384615385
+Cook,Heartis Village of Orland Park,2,0,Open,2020-10-16,0.0
+Cook,Alden Estates of Evanston,18,2,Closed,2020-10-16,0.1111111111111111
+Cook,Tri-States Nursing & rehab Center,40,5,Open,2020-10-16,0.125
+Cook,Barton Senior Living,2,0,Closed,2020-10-16,0.0
+Cook,Sunrise of Schaumburg,28,5,Open,2020-10-16,0.17857142857142858
+Cook,Lake Cook Rehab & Healthcare(formerly Rosewood),49,12,Open,2020-10-16,0.24489795918367346
+Cook,DD Homes,2,0,Closed,2020-10-16,0.0
+Cook,Foster Health & Rehab,32,7,Closed,2020-10-16,0.21875
+Cook,Mercy Circle,25,3,Closed,2020-10-16,0.12
+Cook,Presence Resurrection Life Center,20,3,Open,2020-10-16,0.15
+Cook,Citadel of Wilmette,18,5,Open,2020-10-16,0.2777777777777778
+Cook,The Reserve at Arlington Heights,13,1,Open,2020-10-16,0.07692307692307693
+Cook,Alden Estates of Barrington,16,0,Open,2020-10-16,0.0
+Cook,Sunrise of Lincoln Park,2,0,Open,2020-10-16,0.0
+Cook,Alden Estates of Skokie,6,0,Closed,2020-10-16,0.0
+Cook,Alden PoplarCreek,91,26,Open,2020-10-16,0.2857142857142857
+Cook,Central Baptist Village,12,1,Closed,2020-10-16,0.08333333333333333
+Cook,Edward Hines VA Community Living Center,23,3,Open,2020-10-16,0.13043478260869565
+Cook,Manor Care at Arlington Heights,27,2,Open,2020-10-16,0.07407407407407407
+Cook,Dobson Plaza,77,21,Closed,2020-10-16,0.2727272727272727
+Cook,Citadel of Skokie,9,2,Closed,2020-10-16,0.2222222222222222
+Cook,Inverness Health and Rehab,20,0,Open,2020-10-16,0.0
+Cook,Berkeley Nursing and Rehabilitation Center,4,3,Closed,2020-10-16,0.75
+Cook,Presence Bethlehem Woods,2,0,Open,2020-10-16,0.0
+Cook,RML Specialty Hospital Hinsdale,16,1,Open,2020-10-16,0.0625
+Cook,North Shore Place,19,0,Open,2020-10-16,0.0
+Cook,The Auberge at Morton Grove,9,1,Open,2020-10-16,0.1111111111111111
+Cook,Abington of Glenview,11,1,Closed,2020-10-16,0.09090909090909091
+Cook,Friendship Village LTC,23,5,Closed,2020-10-16,0.21739130434782608
+Cook,Villa at Palos Heights,26,5,Open,2020-10-16,0.19230769230769232
+Cook,Clearbrook Center,44,7,Closed,2020-10-16,0.1590909090909091
+Cook,St. Joseph Village of Chicago,6,0,Closed,2020-10-16,0.0
+Cook,Pearl of Rolling Meadows,10,1,Open,2020-10-16,0.1
+Cook,The Clare,17,0,Closed,2020-10-16,0.0
+Cook,Wesley Place,9,0,Closed,2020-10-16,0.0
+Cook,Franciscan Village,5,1,Open,2020-10-16,0.2
+Cook,Clearbrook West,3,0,Closed,2020-10-16,0.0
+Cook,Waverly Inn Memory Care Community,18,8,Open,2020-10-16,0.4444444444444444
+Cook,The Grove of Northbrook,12,0,Open,2020-10-16,0.0
+Cook,Brookdale Prospect Heights,8,1,Open,2020-10-16,0.125
+Cook,Countryside Nursing and Rehab Center,67,11,Open,2020-10-16,0.16417910447761194
+Cook,Clear Oaks Senior Living,3,0,Open,2020-10-16,0.0
+Cook,Bella Terra Streamwood,16,3,Open,2020-10-16,0.1875
+Cook,Alden Town Manor Care,3,0,Closed,2020-10-16,0.0
+Cook,Asbury Court Senior Living,9,1,Open,2020-10-16,0.1111111111111111
+Cook,Balmoral Home,26,0,Open,2020-10-16,0.0
+Cook,Heritage Woods,5,0,Open,2020-10-16,0.0
+Cook,Oak Lawn Respiratory and Rehab,6,1,Open,2020-10-16,0.16666666666666666
+Cook,Presence Nazarethville,28,6,Closed,2020-10-16,0.21428571428571427
+Cook,Atria Glenview,6,0,Open,2020-10-16,0.0
+Cook,Pine Crest Healthcare,4,1,Open,2020-10-16,0.25
+Cook,St Joseph Home For the Elderly,12,0,Open,2020-10-16,0.0
+Cook,Brandel Care Center,10,0,Open,2020-10-16,0.0
+Cook,St. Mary of Providence in Chicago,16,0,Closed,2020-10-16,0.0
+Cook,Lexington Healthcare of La Grange,35,5,Closed,2020-10-16,0.14285714285714285
+Cook,The Grove of La Grange,4,1,Closed,2020-10-16,0.25
+Cook,Arden Courts of Elk Grove,31,8,Open,2020-10-16,0.25806451612903225
+Cook,Marklund Wasmond Center,2,0,Open,2020-10-16,0.0
+Cook,Autumn Green at Wright Campus,2,0,Open,2020-10-16,0.0
+Cook,Bellwood Development Center,2,0,Closed,2020-10-16,0.0
+Cook,Lexington healthcare of Schaumburg,30,3,Open,2020-10-16,0.1
+Cook,The Pointe of Kilpatrick ,38,7,Open,2020-10-16,0.18421052631578946
+Cook,Brookdale - Lake Shore,12,0,Open,2020-10-16,0.0
+Cook,Symphony Residences at Lincoln Park,6,0,Open,2020-10-16,0.0
+Cook,All Saints,3,0,Closed,2020-10-16,0.0
+Cook,The Mooring of Arlington heights,3,0,Open,2020-10-16,0.0
+Cook,Bella Terra Wheeling,88,19,Open,2020-10-16,0.2159090909090909
+Cook,Victory Center of Bartlett,3,0,Closed,2020-10-16,0.0
+Cook,Victory Centre of Riverwoods,9,4,Open,2020-10-16,0.4444444444444444
+Cook,Aspire Living Prospect Heights,13,1,Open,2020-10-16,0.07692307692307693
+Cook,Country Club Terrace,10,0,Closed,2020-10-16,0.0
+Cook,MacNeal Memorial Hospital Rehab/LTC,3,0,Open,2020-10-16,0.0
+Cook,Greenview Place Senior Living,4,0,Open,2020-10-16,0.0
+Cook,Brookdale Hoffman Estates,12,0,Open,2020-10-16,0.0
+Cook,Beechwood Manor,3,0,Open,2020-10-16,0.0
+Cook,Misericordia - Marian Center,13,0,Closed,2020-10-16,0.0
+Cook,Misericordia - McNerney House,6,0,Open,2020-10-16,0.0
+Cook,Misericordia - Peteman House,5,0,Open,2020-10-16,0.0
+Cook,Misericordia - Walsh House,2,0,Open,2020-10-16,0.0
+Cook,Crestwood Terrace,5,0,Open,2020-10-16,0.0
+Cook,PACTT Learning -Oak Park,16,0,Closed,2020-10-16,0.0
+Cook,Lexington Health Care Center of Chicago Ridge,14,1,Closed,2020-10-16,0.07142857142857142
+Cook,Alden North Shore ,4,0,Open,2020-10-16,0.0
+Cook,Calumet City Terrace,3,0,Open,2020-10-16,0.0
+Cook,Alden Estates of Skokie ,3,0,Open,2020-10-16,0.0
+Cook,Citadel of Skokie,3,0,Open,2020-10-16,0.0
+Cook,Oak Park Brookdale,4,0,Open,2020-10-16,0.0
+Cook,Alden Lakeland,17,0,Closed,2020-10-16,0.0
+Cook,The Clare,2,0,Closed,2020-10-16,0.0
+Cook,Alden Village North,9,0,Open,2020-10-16,0.0
+Cook,Greenwood Care-Evanston,9,0,Open,2020-10-16,0.0
+Cook,Albany Care,15,0,Open,2020-10-16,0.0
+Cook,Little Village Nursing Home,5,0,Open,2020-10-16,0.0
+Cook,Peterson Park Health Care,5,0,Open,2020-10-16,0.0
+Cook,Elevate Care Chicago North,4,0,Open,2020-10-16,0.0
+Cook,Bethane Place,2,0,Open,2020-10-16,0.0
+Cook,Inverness Health and Rehab Center,7,0,Open,2020-10-16,0.0
+Cook,Presence Maryhaven,2,0,Open,2020-10-16,0.0
+Cook,GOLFVIEW DEVELOPMENTAL CENTER,4,0,Open,2020-10-16,0.0
+Cook,Caledonia Senior Living & Memory Care,6,0,Open,2020-10-16,0.0
+Cook,Ludeman Center,7,0,Open,2020-10-16,0.0
+Cook,Palos Hills Healthcare,7,2,Open,2020-10-16,0.2857142857142857
+Cook,Arbour Health Care Center,2,0,Open,2020-10-16,0.0
+Cook,Pauls House and Healthcare Center,4,0,Open,2020-10-16,0.0
+Cook,Garden Center Services-home facility,6,0,Closed,2020-10-16,0.0
+Cook,Holy Family Villa,2,0,Open,2020-10-16,0.0
+Cook,Buckingham Pavilion,4,0,Open,2020-10-16,0.0
+Cook,Carlton at the Lake,8,0,Open,2020-10-16,0.0
+Cook,Southview Manor,2,0,Closed,2020-10-16,0.0
+Cook,The Clare,6,0,Open,2020-10-16,0.0
+Cook,North Shore Place,4,0,Open,2020-10-16,0.0
+Cook,Avanti Nursing and Rehab,4,0,Open,2020-10-16,0.0
+Cook,Franciscan Village,28,1,Open,2020-10-16,0.03571428571428571
+Cook,Mercy Circle,10,0,Open,2020-10-16,0.0
+Cook,Three Crowns Park,4,0,Open,2020-10-16,0.0
+Cook,Villa at Palos Heights,4,0,Open,2020-10-16,0.0
+Cook,The Mather,2,0,Open,2020-10-16,0.0
+Cook,St. Joseph Village of Chicago,2,0,Open,2020-10-16,0.0
+Cook,Central Baptist Village,3,0,Open,2020-10-16,0.0
+Cook,Alden Town Manor Rehabilitation & Health Care Cent,44,9,Open,2020-10-16,0.20454545454545456
+Cook,The Grove of La Grange,3,0,Open,2020-10-16,0.0
+Cook,El Valor,5,0,Open,2020-10-16,0.0
+Cook,Lexington Of Chicago Ridge,3,0,Open,2020-10-16,0.0
+Cook,Lutheran Home,3,0,Open,2020-10-16,0.0
+Cook,Autumn Green at Midway Village,2,1,Open,2020-10-16,0.5
+Cook,Harmony Healthcare and Rehab,2,0,Open,2020-10-16,0.0
+Cook,Lakefront Nursing,2,0,Open,2020-10-16,0.0
+Cook,Aperion Care West Ridge,4,0,Open,2020-10-16,0.0
+Cook,Elevate Care Irving Park,4,0,Open,2020-10-16,0.0
+Cook,Presence Resurrection Retirement Community,6,0,Open,2020-10-16,0.0
+Cook,Aperion Care Midlothian,2,0,Open,2020-10-16,0.0
+Cook,Victory Center of Bartlett,5,1,Open,2020-10-16,0.2
+Cook,Alden Lincoln Park Rehab,2,0,Open,2020-10-16,0.0
+Cook,Alden Wentworth Rehab & Healthcare Center,5,0,Open,2020-10-16,0.0
+Cook,LITTLE SISTERS OF THE POOR ST MARYS HOME,3,0,Open,2020-10-16,0.0
+Cook,Warren Barr Lincoln Park,6,0,Open,2020-10-16,0.0
+Cook,Victory Center of Park Forest,2,0,Open,2020-10-16,0.0
+Cook,Presbyterian Westminster Homes,5,0,Open,2020-10-16,0.0
+Cook,Presence Nazarethville,3,0,Open,2020-10-16,0.0
+Cook,Sunrise of Park Ridge,3,0,Open,2020-10-16,0.0
+Cook,Bria Place,5,0,Open,2020-10-16,0.0
+Cook,Thornton Heights Terrace,2,0,Open,2020-10-16,0.0
+Cook,Concord  Place,2,0,Open,2020-10-16,0.0
+Cook,Ambassador Nursing,2,0,Open,2020-10-16,0.0
+Cook,Bethesda Rehab and Senior Care,2,0,Open,2020-10-16,0.0
+Cook,Misericordia,23,0,Open,2020-10-16,0.0
+Crawford,Heritage Health,2,0,Open,2020-10-16,0.0
+Cumberland,Heartland Senior Living,35,3,Open,2020-10-16,0.08571428571428572
+DeKalb,DeKalb County Rehab and Nursing,3,0,Closed,2020-10-16,0.0
+DeKalb,Pine Acres,82,12,Closed,2020-10-16,0.14634146341463414
+DeKalb,Bethany Rehabilitation and Health Care Center,2,0,Closed,2020-10-16,0.0
+DeKalb,Willow Crest Nursing Pavilion,68,15,Open,2020-10-16,0.22058823529411764
+DeKalb,DeKalb County Rehab and Nursing,9,0,Open,2020-10-16,0.0
+DeKalb,Oakcrest DeKalb Area Retirement Center,12,1,Open,2020-10-16,0.08333333333333333
+DeKalb,Prairie Crossing Living and Rehab,3,0,Open,2020-10-16,0.0
+DeKalb,Opportunity House,15,0,Open,2020-10-16,0.0
+De Witt,Liberty Village,49,1,Open,2020-10-16,0.02040816326530612
+Douglas,Arcola Health Care,2,0,Open,2020-10-16,0.0
+Douglas,Tuscola Health Care Center,5,0,Open,2020-10-16,0.0
+DuPage,Chateau Center Nursing & Rehabilitation,58,14,Open,2020-10-16,0.2413793103448276
+DuPage,Brookdale Burr Ridge,21,5,Closed,2020-10-16,0.23809523809523808
+DuPage,Windsor Park Manor,109,21,Open,2020-10-16,0.1926605504587156
+DuPage,Lexington of Elmhurst,20,13,Closed,2020-10-16,0.65
+DuPage,Lexington of Lombard,43,12,Open,2020-10-16,0.27906976744186046
+DuPage,Harvester Place Memory Care,38,13,Open,2020-10-16,0.34210526315789475
+DuPage,Alden Estates of Naperville,103,21,Closed,2020-10-16,0.20388349514563106
+DuPage,Oakbrook Care,103,24,Closed,2020-10-16,0.23300970873786409
+DuPage,Alden Trails,5,0,Closed,2020-10-16,0.0
+DuPage,Bridgeway Senior Living,69,7,Open,2020-10-16,0.10144927536231885
+DuPage,Westmont Manor Health and Rehab Center,46,16,Open,2020-10-16,0.34782608695652173
+DuPage,Bria of Westmont,152,29,Open,2020-10-16,0.19078947368421054
+DuPage,Brookdale Lisle,45,9,Closed,2020-10-16,0.2
+DuPage,Park Place Health and Wellness Center ,2,0,Closed,2020-10-16,0.0
+DuPage,Artis Senior Living Elmhurst,42,20,Closed,2020-10-16,0.47619047619047616
+DuPage,Cedarhurst of Naperville,5,1,Closed,2020-10-16,0.2
+DuPage,Alden Valley Ridge,44,22,Open,2020-10-16,0.5
+DuPage,Wynscape Health and Rehabilitation,2,0,Closed,2020-10-16,0.0
+DuPage,Forestview Rehabilitation & Nursing Center,120,16,Open,2020-10-16,0.13333333333333333
+DuPage,Wheaton Village,56,7,Open,2020-10-16,0.125
+DuPage,Manorcare Hinsdale,162,37,Closed,2020-10-16,0.22839506172839505
+DuPage,Providence Healthcare & Rehabilitation Center,74,13,Open,2020-10-16,0.17567567567567569
+DuPage,Aperion Care West Chicago,46,8,Closed,2020-10-16,0.17391304347826086
+DuPage,Burgess Square Healthcare & Rehab Center,36,3,Open,2020-10-16,0.08333333333333333
+DuPage,Tabor Hills Healthcare,34,7,Closed,2020-10-16,0.20588235294117646
+DuPage,Artis Senior Living of Bartlett,29,12,Open,2020-10-16,0.41379310344827586
+DuPage,Lexington of Bloomingdale,72,21,Open,2020-10-16,0.2916666666666667
+DuPage,Brookdale Glen Ellyn,8,1,Open,2020-10-16,0.125
+DuPage,Westbridge Assisted Living Wheaton,9,4,Closed,2020-10-16,0.4444444444444444
+DuPage,Sunrise of Bloomingdale Assisted Living,6,1,Closed,2020-10-16,0.16666666666666666
+DuPage,Arista Healthcare Naperville,12,1,Closed,2020-10-16,0.08333333333333333
+DuPage,West Chicago Terrace,9,0,Closed,2020-10-16,0.0
+DuPage,Abbington Rehab & Nursing Center,74,6,Open,2020-10-16,0.08108108108108109
+DuPage,Harbor Chase of Naperville,6,0,Closed,2020-10-16,0.0
+DuPage,Lacey Creek Supportive Living,2,0,Closed,2020-10-16,0.0
+DuPage,Aspired Living of Westmont,13,4,Closed,2020-10-16,0.3076923076923077
+DuPage,St. Patricks Residence Nursing & Rehabilitation,4,0,Closed,2020-10-16,0.0
+DuPage,Naperville Manor Health & Rehab Center,11,1,Closed,2020-10-16,0.09090909090909091
+DuPage,Belmont Village Senior Living Carol Stream,30,5,Closed,2020-10-16,0.16666666666666666
+DuPage,Sunrise of Willowbrook Assisted Living,12,1,Open,2020-10-16,0.08333333333333333
+DuPage,Alden of Old Town East,3,0,Closed,2020-10-16,0.0
+DuPage,DuPage Care Center,75,4,Open,2020-10-16,0.05333333333333334
+DuPage,Meadowbrook Manor Naperville,37,3,Open,2020-10-16,0.08108108108108109
+DuPage,Winfield Woods Healthcare Center,2,0,Closed,2020-10-16,0.0
+DuPage,Alden Village Bloomingdale,22,2,Closed,2020-10-16,0.09090909090909091
+DuPage,Terra Vista of Oakbrook Terrace,27,3,Open,2020-10-16,0.1111111111111111
+DuPage,Ray Graham Iona Glos,27,2,Open,2020-10-16,0.07407407407407407
+DuPage,Beacon Hill Lombard,46,6,Closed,2020-10-16,0.13043478260869565
+DuPage,West Suburban Nursing & Rehabilitation Center,118,17,Open,2020-10-16,0.1440677966101695
+DuPage,Lexington Square Lombard,3,0,Closed,2020-10-16,0.0
+DuPage,Oak Trace,9,3,Closed,2020-10-16,0.3333333333333333
+DuPage,The Birches Assisted Living Clarendon Hills,10,0,Closed,2020-10-16,0.0
+DuPage,The Radcliff Wood Dale,13,2,Closed,2020-10-16,0.15384615384615385
+DuPage,Oak Trace Skilled Nursing,2,0,Closed,2020-10-16,0.0
+DuPage,The Grove of Elmhurst,98,15,Open,2020-10-16,0.15306122448979592
+DuPage,Lakeview Memory Care Community,27,8,Open,2020-10-16,0.2962962962962963
+DuPage,Clarendale of Addison,7,1,Closed,2020-10-16,0.14285714285714285
+DuPage,The Auberge at Naperville,5,0,Closed,2020-10-16,0.0
+DuPage,Brookdale Lisle Assisted and Independent Living,8,0,Open,2020-10-16,0.0
+DuPage,Alden Trails,3,0,Closed,2020-10-16,0.0
+DuPage,Alden Springs ,2,0,Closed,2020-10-16,0.0
+DuPage,Alden Old Town East,4,0,Closed,2020-10-16,0.0
+DuPage,Wynscape Health and Rehabilitation,3,0,Closed,2020-10-16,0.0
+DuPage,Saratoga Grove,9,0,Closed,2020-10-16,0.0
+DuPage,Cedarhurst Naperville,3,0,Closed,2020-10-16,0.0
+DuPage,Lexington Square Elmhurst AL/IL,2,0,Open,2020-10-16,0.0
+DuPage,Maple Glen Memory Care,6,0,Open,2020-10-16,0.0
+DuPage,St. Patricks Residence Nursing and Rehabilitation,23,0,Open,2020-10-16,0.0
+DuPage,Winfield Woods Healthcare Center,10,0,Open,2020-10-16,0.0
+DuPage,Artis Elmhurst,2,0,Closed,2020-10-16,0.0
+DuPage,Tabor Hills Healthcare,2,0,Closed,2020-10-16,0.0
+DuPage,Atria Park of Glen Ellyn,2,0,Closed,2020-10-16,0.0
+DuPage,Alden Old Town West,2,0,Closed,2020-10-16,0.0
+DuPage,Sunrise Fountain Square Lombard,7,1,Open,2020-10-16,0.14285714285714285
+DuPage,The Springs of Monarch Landing Skilled Nursing,4,0,Open,2020-10-16,0.0
+DuPage,Rehab Without Walls,16,0,Open,2020-10-16,0.0
+DuPage,Alden Village,5,0,Open,2020-10-16,0.0
+DuPage,The Auberge at Naperville,7,0,Open,2020-10-16,0.0
+DuPage,Alden Estates of Naperville,3,0,Open,2020-10-16,0.0
+DuPage,Arista Healthcare Naperville,4,0,Closed,2020-10-16,0.0
+DuPage,Lexington of Elmhurst,8,0,Open,2020-10-16,0.0
+DuPage,Westbridge Assisted Living Wheaton,2,1,Open,2020-10-16,0.5
+DuPage,Oak Trace Skilled Nursing,6,0,Open,2020-10-16,0.0
+DuPage,Aperion Care West Chicago,2,0,Closed,2020-10-16,0.0
+DuPage,Bridgeway of Bensenville,4,0,Closed,2020-10-16,0.0
+DuPage,Oakbrook Care Rehabilitation & Recover,2,0,Open,2020-10-16,0.0
+DuPage,Manorcare Hinsdale,5,0,Open,2020-10-16,0.0
+DuPage,West Chicago Terrace,2,0,Open,2020-10-16,0.0
+DuPage,Park Place Health and Wellness,2,0,Open,2020-10-16,0.0
+DuPage,Belmont Village Senior Living,2,0,Open,2020-10-16,0.0
+DuPage,Atria Park of Glen Ellyn,7,0,Open,2020-10-16,0.0
+DuPage,The Pearl Naperville,7,0,Open,2020-10-16,0.0
+DuPage,Wynscape Health and Rehabilitation,6,0,Open,2020-10-16,0.0
+Edgar,Twin Lakes Rehab Center,33,6,Open,2020-10-16,0.18181818181818182
+Effingham,LAKELAND REHABILITATION & HEALTH CARE,3,0,Open,2020-10-16,0.0
+Effingham,Lutheran Care Center,2,0,Open,2020-10-16,0.0
+Effingham,The Glenwood,4,0,Open,2020-10-16,0.0
+Fayette,Sarah Bush Lincoln Fayette County Hospital,2,0,Closed,2020-10-16,0.0
+Fayette,Aperion Care St Elmo,63,9,Open,2020-10-16,0.14285714285714285
+Fayette,Vandalia Rehabilitation and Health Care Center,19,1,Open,2020-10-16,0.05263157894736842
+Ford,Accolade Healthcare of Paxton Senior Living,2,0,Closed,2020-10-16,0.0
+Ford,Accolade Healthcare,5,0,Closed,2020-10-16,0.0
+Ford,Gibson Area Hospital Annex,4,0,Closed,2020-10-16,0.0
+Ford,Accolade Healthcare of Paxton on Pells,41,3,Closed,2020-10-16,0.07317073170731707
+Ford,Piper City Rehab,4,0,Closed,2020-10-16,0.0
+Ford,Piper City Rehab,25,1,Open,2020-10-16,0.04
+Franklin,Helia Healthcare Frankfort Care Center,2,0,Open,2020-10-16,0.0
+Franklin,Benton Health Care,2,0,Closed,2020-10-16,0.0
+Franklin,Westside Rehab and CAre,2,0,Open,2020-10-16,0.0
+Franklin,Benton Rehab and Nusing,18,0,Open,2020-10-16,0.0
+Greene,White Hall Nursing and Rehab,100,14,Open,2020-10-16,0.14
+Grundy,Parkpointe ,31,3,Closed,2020-10-16,0.0967741935483871
+Iroquois,Ascension Presence Merkle Knipprath,51,4,Closed,2020-10-16,0.0784313725490196
+Iroquois,Prairieview Lutheran Homes,3,0,Closed,2020-10-16,0.0
+Iroquois,Gilman Health Care Center,78,14,Closed,2020-10-16,0.1794871794871795
+Jackson,Manor Court of Carbondale,31,10,Closed,2020-10-16,0.3225806451612903
+Jackson,Integrity Healthcare of Carbondale,41,5,Closed,2020-10-16,0.12195121951219512
+Jackson,Prairie Living at Chautauqua,4,1,Open,2020-10-16,0.25
+Jasper,Newton Care Center,49,8,Closed,2020-10-16,0.16326530612244897
+Jasper,Villas of Hollybrook,7,0,Open,2020-10-16,0.0
+Jefferson,GreenTree at Mt. Vernon,73,16,Closed,2020-10-16,0.2191780821917808
+Jefferson,Country Side Manor,2,0,Closed,2020-10-16,0.0
+Jefferson,Mt. Vernon Healthcare Center,91,17,Closed,2020-10-16,0.18681318681318682
+Jefferson,Lavender Ridge Memory Care,13,3,Closed,2020-10-16,0.23076923076923078
+Jefferson,Nature Trail Health Care Center,48,0,Open,2020-10-16,0.0
+Jersey,Liberty Village of Jerseyville,99,17,Open,2020-10-16,0.1717171717171717
+Jo Daviess,Galena Stauss Nursing Home,2,0,Closed,2020-10-16,0.0
+Jo Daviess,Galena Stauss Senior Care,4,0,Closed,2020-10-16,0.0
+Jo Daviess,Galena Stauss Nursing Home,15,1,Open,2020-10-16,0.06666666666666667
+Kane,Fox River Rehab and Healthcare,51,15,Closed,2020-10-16,0.29411764705882354
+Kane,Bickford of Aurora,29,7,Closed,2020-10-16,0.2413793103448276
+Kane,Elmwood Terrace,38,6,Closed,2020-10-16,0.15789473684210525
+Kane,Bria of Geneva,139,30,Open,2020-10-16,0.2158273381294964
+Kane,The Grove of Fox Valley,7,0,Closed,2020-10-16,0.0
+Kane,Symphony of Orchard Valley,112,24,Closed,2020-10-16,0.21428571428571427
+Kane,Sunnymere,11,0,Closed,2020-10-16,0.0
+Kane,Asbury Gardens,92,19,Closed,2020-10-16,0.20652173913043478
+Kane,River Glen,6,0,Closed,2020-10-16,0.0
+Kane,Avondale Estates of Elgin,49,4,Open,2020-10-16,0.08163265306122448
+Kane,Alden of Waterford,41,10,Closed,2020-10-16,0.24390243902439024
+Kane,Citadel of Elgin,73,10,Closed,2020-10-16,0.136986301369863
+Kane,Tower Hill Healthcare Center,170,30,Open,2020-10-16,0.17647058823529413
+Kane,Michealsen Health Center ,6,0,Closed,2020-10-16,0.0
+Kane,Grove of St. Charles,11,2,Closed,2020-10-16,0.18181818181818182
+Kane,Jennings Terrace,3,0,Closed,2020-10-16,0.0
+Kane,Arden Courts of Geneva,7,2,Closed,2020-10-16,0.2857142857142857
+Kane,GreenFields of Geneva,4,0,Closed,2020-10-16,0.0
+Kane,Alden Courts of Waterford,8,0,Closed,2020-10-16,0.0
+Kane,Fox knoll,14,2,Closed,2020-10-16,0.14285714285714285
+Kane,Northern Illinois Academy,13,0,Closed,2020-10-16,0.0
+Kane,Heritage Health Therapy and Senior Care,40,3,Closed,2020-10-16,0.075
+Kane,The Sheridan at Tyler Creek,5,0,Closed,2020-10-16,0.0
+Kane,Batavia Rehabilitation Center,12,2,Closed,2020-10-16,0.16666666666666666
+Kane,Riverview Rehab Center,13,0,Closed,2020-10-16,0.0
+Kane,Brighton Garden of St Charles,3,1,Closed,2020-10-16,0.3333333333333333
+Kane,MarkLund Hyde Center,3,0,Closed,2020-10-16,0.0
+Kane,Highland Oaks,5,0,Closed,2020-10-16,0.0
+Kane,White Oaks at South Elgin,5,1,Closed,2020-10-16,0.2
+Kane,Bright Oaks of Aurora,17,4,Closed,2020-10-16,0.23529411764705882
+Kane,Dunham Rehabilitation Center,6,1,Closed,2020-10-16,0.16666666666666666
+Kane,Aperion Care Elgin,4,0,Closed,2020-10-16,0.0
+Kane,White Oaks Spring Street,12,2,Closed,2020-10-16,0.16666666666666666
+Kane,Alden Estates Courts of Huntley ,9,0,Closed,2020-10-16,0.0
+Kane,South Elgin Rehab,35,1,Closed,2020-10-16,0.02857142857142857
+Kane,Greenfields of Geneva,9,0,Closed,2020-10-16,0.0
+Kane,Avantara Elgin,37,4,Closed,2020-10-16,0.10810810810810811
+Kane,The Grove Fox Valley,3,0,Closed,2020-10-16,0.0
+Kane,Symphony of Orchard Valley,14,0,Closed,2020-10-16,0.0
+Kane,The Grove St. Charles ,8,0,Open,2020-10-16,0.0
+Kane,Alden Gardens of Waterford,3,0,Closed,2020-10-16,0.0
+Kane,Aperion Care,30,5,Open,2020-10-16,0.16666666666666666
+Kane,Jennings Terrace,18,1,Open,2020-10-16,0.05555555555555555
+Kane,Fox Knoll,3,0,Closed,2020-10-16,0.0
+Kane,Bright Oaks,5,0,Open,2020-10-16,0.0
+Kane,Heritage Woods of South Elgin ,4,2,Closed,2020-10-16,0.5
+Kane,White Oaks at South Elgin ,13,2,Open,2020-10-16,0.15384615384615385
+Kane,Dunham Rehab & Healthcare,2,0,Closed,2020-10-16,0.0
+Kane,Brighton Gardens ,5,0,Open,2020-10-16,0.0
+Kane,Bickford of Aurora,2,0,Closed,2020-10-16,0.0
+Kane,South Elgin Rehab ,2,0,Closed,2020-10-16,0.0
+Kane,River View Rehab ,3,0,Open,2020-10-16,0.0
+Kane,Alden of Waterford ,4,0,Open,2020-10-16,0.0
+Kane,Association for Individual Development - Violet,8,0,Open,2020-10-16,0.0
+Kane,Northern Illinois Academy ,3,0,Open,2020-10-16,0.0
+Kane,Avantara of Elgin,5,0,Open,2020-10-16,0.0
+Kane,Greenfields of Geneva,2,0,Open,2020-10-16,0.0
+Kane,Heritage Woods White Oaks and Huntley,2,0,Open,2020-10-16,0.0
+Kane,The Grove Fox Valley,4,0,Open,2020-10-16,0.0
+Kane,Marklund Hyde Center,3,0,Open,2020-10-16,0.0
+Kane,Autumn Leaves of St. Charles,2,0,Open,2020-10-16,0.0
+Kane,Heritage Woods of South Elgin ,3,0,Open,2020-10-16,0.0
+Kankakee,Samuel H. Shapiro Developmental Center,230,1,Closed,2020-10-16,0.004347826086956522
+Kankakee,Riverside Senior Life at Bourbonnais,8,0,Closed,2020-10-16,0.0
+Kankakee,Aperion Care Bradley,2,0,Closed,2020-10-16,0.0
+Kankakee,Riverside Miller Rehabilitation,88,22,Closed,2020-10-16,0.25
+Kankakee,Bickford Senior Center of Bourbonnais,6,1,Closed,2020-10-16,0.16666666666666666
+Kankakee,Citadel Care Center of Kankakee,5,0,Closed,2020-10-16,0.0
+Kankakee,Illinois Veterans Home,88,18,Open,2020-10-16,0.20454545454545456
+Kankakee,Presence Our Lady of Victory - Ascension Living,4,1,Closed,2020-10-16,0.25
+Kankakee,Kankakee terrace,5,0,Open,2020-10-16,0.0
+Kankakee,Harvest View Senior Living,4,0,Closed,2020-10-16,0.0
+Kankakee,Heritage Village,2,0,Closed,2020-10-16,0.0
+Kankakee,Citadel of Kankakee,56,2,Open,2020-10-16,0.03571428571428571
+Kankakee,Riverside Miller Rehabilitation,18,0,Open,2020-10-16,0.0
+Kankakee,Manteno Veterans Home,19,2,Open,2020-10-16,0.10526315789473684
+Kankakee,Presence Our Lady of Victory,7,0,Open,2020-10-16,0.0
+Kankakee,Momence Meadows Nursing & Rehabilitation Center ,4,0,Open,2020-10-16,0.0
+Kankakee,Heritage Village,4,0,Open,2020-10-16,0.0
+Kendall,Association for Individual Development (A.I.D),4,3,Closed,2020-10-16,0.75
+Kendall,Symphony At The Tillers of Oswego,50,9,Closed,2020-10-16,0.18
+Kendall,Hillside Rehab and Care,8,2,Closed,2020-10-16,0.25
+Kendall,Symphony at the Tillers of Oswego,7,0,Open,2020-10-16,0.0
+Kendall,Hillside Rehab and Care Center,2,0,Open,2020-10-16,0.0
+Knox,Knox County Nursing Home,30,2,Closed,2020-10-16,0.06666666666666667
+Knox,Seminary Manor,27,1,Open,2020-10-16,0.037037037037037035
+Knox,Serenity of Lake Storey,13,0,Open,2020-10-16,0.0
+Knox,Serenity of Galesburg,4,0,Open,2020-10-16,0.0
+Lake,The Grove By the Lake,59,9,Closed,2020-10-16,0.15254237288135594
+Lake,Cedar Lake,16,8,Closed,2020-10-16,0.5
+Lake,Winchester House,34,7,Closed,2020-10-16,0.20588235294117646
+Lake,Wauconda Care,65,16,Closed,2020-10-16,0.24615384615384617
+Lake,Brookdale - Hawthorn Lakes,10,0,Closed,2020-10-16,0.0
+Lake,Kiley Development Center,29,1,Closed,2020-10-16,0.034482758620689655
+Lake,Whitehall of Deerfield,67,3,Closed,2020-10-16,0.04477611940298507
+Lake,Lexington of Lake Zurich,50,12,Closed,2020-10-16,0.24
+Lake,Brookdale Vernon Hills,23,3,Closed,2020-10-16,0.13043478260869565
+Lake,Radford Green at Sedgebrook,46,6,Closed,2020-10-16,0.13043478260869565
+Lake,Belmont Village of Buffalo Grove,66,19,Closed,2020-10-16,0.2878787878787879
+Lake,Terrace Nursing Home,49,12,Closed,2020-10-16,0.24489795918367346
+Lake,Elevate Care Waukegan,74,13,Closed,2020-10-16,0.17567567567567569
+Lake,Sunrise Senior Living of Gurnee,3,0,Open,2020-10-16,0.0
+Lake,Elevate Care Riverwoods,59,12,Closed,2020-10-16,0.2033898305084746
+Lake,Claridge Health Center,63,18,Closed,2020-10-16,0.2857142857142857
+Lake,Rolling Hills Manor,7,1,Closed,2020-10-16,0.14285714285714285
+Lake,Warren Barr North Shore,94,17,Open,2020-10-16,0.18085106382978725
+Lake,The Auberge At Highland Park,7,3,Closed,2020-10-16,0.42857142857142855
+Lake,Sheridan at Green Oaks,23,2,Closed,2020-10-16,0.08695652173913043
+Lake,Victory Lakes Continuing Care Center,15,4,Closed,2020-10-16,0.26666666666666666
+Lake,Balmoral Care Center,16,2,Closed,2020-10-16,0.125
+Lake,The Village at Victory Lakes,14,1,Closed,2020-10-16,0.07142857142857142
+Lake,Pavilion of Waukegan,3,0,Closed,2020-10-16,0.0
+Lake,Azpira Place of Lake Zurich,11,1,Closed,2020-10-16,0.09090909090909091
+Lake,Warren Barr Lincolnshire,56,5,Open,2020-10-16,0.08928571428571429
+Lake,Riverside Foundation,74,5,Closed,2020-10-16,0.06756756756756757
+Lake,Symphony Buffalo Grove,99,10,Open,2020-10-16,0.10101010101010101
+Lake,Avantara Long Grove,229,34,Open,2020-10-16,0.14847161572052403
+Lake,Aperion Care Highwood,98,13,Open,2020-10-16,0.1326530612244898
+Lake,Bayside Terrace,74,2,Closed,2020-10-16,0.02702702702702703
+Lake,Victory Centre of  Vernon Hills,8,0,Closed,2020-10-16,0.0
+Lake,Alden Long Grove,80,21,Closed,2020-10-16,0.2625
+Lake,The Wellshire Lincolnshire,23,3,Closed,2020-10-16,0.13043478260869565
+Lake,Libertyville Manor,46,16,Closed,2020-10-16,0.34782608695652173
+Lake,The Solana Deer Park,17,5,Closed,2020-10-16,0.29411764705882354
+Lake,Rolling Hills Place,7,1,Closed,2020-10-16,0.14285714285714285
+Lake,Captain James A Lovell FHCC CLC,37,6,Closed,2020-10-16,0.16216216216216217
+Lake,Autumn Leaves of Gurnee,42,11,Closed,2020-10-16,0.2619047619047619
+Lake,Spring Meadows Libertyville,5,0,Closed,2020-10-16,0.0
+Lake,Auberge at Lake Zurich,28,6,Closed,2020-10-16,0.21428571428571427
+Lake,Prarieview at the Garlands,5,1,Closed,2020-10-16,0.2
+Lake,Arboria of Long Grove,4,0,Closed,2020-10-16,0.0
+Lake,Hillcrest Retirement Village,178,18,Open,2020-10-16,0.10112359550561797
+Lake,Manor Care of Libertyville,39,5,Closed,2020-10-16,0.1282051282051282
+Lake,Sunrise of Buffalo Grove,3,0,Closed,2020-10-16,0.0
+Lake,Sunrise of Barrington,9,3,Closed,2020-10-16,0.3333333333333333
+Lake,Anthology Grayslake,4,0,Closed,2020-10-16,0.0
+Lake,Mount St. Joseph,22,1,Closed,2020-10-16,0.045454545454545456
+Lake,Glenkirk Acorn CILA,7,1,Closed,2020-10-16,0.14285714285714285
+Lake,Auberge at Highland Park,13,0,Closed,2020-10-16,0.0
+Lake,Rolling Hills Manor,4,0,Open,2020-10-16,0.0
+Lake,The Village at Victory Lakes Continuing Care Cente,4,0,Closed,2020-10-16,0.0
+Lake,Seymour Terrace ,2,0,Closed,2020-10-16,0.0
+Lake,Heritage Woods of Gurnee,3,0,Closed,2020-10-16,0.0
+Lake,Lexington of Lake Zurich ,2,0,Closed,2020-10-16,0.0
+Lake,Whitehall North,29,0,Open,2020-10-16,0.0
+Lake,Captain James A Lovell FHCC CLC,4,0,Closed,2020-10-16,0.0
+Lake,Alden of Long Grove Rehab and HCC,2,0,Open,2020-10-16,0.0
+Lake,Manor Care of Libertyville,6,1,Open,2020-10-16,0.16666666666666666
+Lake,Sunrise of Barrington,2,0,Open,2020-10-16,0.0
+Lake,Kiley Development Center,10,0,Open,2020-10-16,0.0
+Lake,APERION CARE HIGHWOOD,2,0,Closed,2020-10-16,0.0
+Lake,Lake Forest Place - Balmoral,4,0,Open,2020-10-16,0.0
+Lake,Gurnee Meadows,7,0,Open,2020-10-16,0.0
+Lake,Lake Barrington Woods,2,0,Open,2020-10-16,0.0
+Lake,The Grove at the Lake,3,0,Open,2020-10-16,0.0
+Lake,Symphony of Buffalo Grove,3,0,Open,2020-10-16,0.0
+Lake,Lambs Farm,9,0,Open,2020-10-16,0.0
+Lake,ELEVATE CARE WAUKEGAN,2,0,Open,2020-10-16,0.0
+Lake,Sunrise of Highland Park,2,0,Open,2020-10-16,0.0
+Lake,Cottages of Fox Lake,2,0,Open,2020-10-16,0.0
+LaSalle,Aperion Care Marseilles,42,10,Closed,2020-10-16,0.23809523809523808
+LaSalle,Ottawa Pavilion,12,0,Closed,2020-10-16,0.0
+LaSalle,Heritage Health Mendota,116,24,Closed,2020-10-16,0.20689655172413793
+LaSalle,Illinois Veterans Home - LaSalle,2,0,Closed,2020-10-16,0.0
+LaSalle,Streator Unlimited Inc.,39,1,Closed,2020-10-16,0.02564102564102564
+LaSalle,LaSalle County Nursing Home,39,7,Closed,2020-10-16,0.1794871794871795
+LaSalle,Parker Nursing and Rehabilitation Center,32,1,Closed,2020-10-16,0.03125
+LaSalle,Hawthorne Inn Assisted Living,3,0,Closed,2020-10-16,0.0
+LaSalle,Heritage Health Peru,8,0,Open,2020-10-16,0.0
+LaSalle,Liberty Village of Peru - Manor Court,30,1,Open,2020-10-16,0.03333333333333333
+Lawrence,Aperion HealthCare,64,4,Open,2020-10-16,0.0625
+Lawrence,United Methodist Village,3,0,Open,2020-10-16,0.0
+Lee,Jack Mabley Developmental Center,84,1,Closed,2020-10-16,0.011904761904761904
+Lee,Jack Mabley Developmental Center,41,0,Closed,2020-10-16,0.0
+Livingston,Evenglow Lodge,6,0,Open,2020-10-16,0.0
+Livingston,Good Samaritan Rehabilitation/Healthcare,20,1,Open,2020-10-16,0.05
+Livingston,Heritage Health - Dwight,3,0,Open,2020-10-16,0.0
+Logan,Christian Nursing Home,3,0,Closed,2020-10-16,0.0
+Logan,Christian Nursing Home,3,0,Closed,2020-10-16,0.0
+Logan,Generations at Lincoln,3,0,Open,2020-10-16,0.0
+Logan,St. Claras Manor,3,0,Open,2020-10-16,0.0
+Macon,Fairhavens Senior Living,95,21,Closed,2020-10-16,0.22105263157894736
+Macon,Villa Clara Post Acute,90,12,Open,2020-10-16,0.13333333333333333
+Macon,Prairie Creek Village,11,0,Open,2020-10-16,0.0
+Macon,Eagle Ridge Assisted Living Center,2,0,Closed,2020-10-16,0.0
+Macon,Prairie Creek Village,5,0,Open,2020-10-16,0.0
+Macon,Primrose Retirement Community of Decatur,2,0,Open,2020-10-16,0.0
+Macon,Imboden Creek,6,0,Open,2020-10-16,0.0
+Macon,Evergreen Senior Living,25,1,Open,2020-10-16,0.04
+Macon,Fairhavens Senior Living Facility,18,0,Open,2020-10-16,0.0
+Macoupin,Heritage Health ,4,0,Closed,2020-10-16,0.0
+Macoupin,Sunset Skilled Nursing & Rehab,10,0,Closed,2020-10-16,0.0
+Macoupin,Carlinville Rehabilitation and Health Care Center,5,0,Open,2020-10-16,0.0
+Macoupin,Gillespie Heritage Health,23,3,Open,2020-10-16,0.13043478260869565
+Macoupin,Sunrise Skilled Nursing Facility,6,0,Open,2020-10-16,0.0
+Macoupin,Carlinville Heritage Health,3,0,Open,2020-10-16,0.0
+Macoupin,Heritage Health - Staunton ,4,0,Open,2020-10-16,0.0
+Madison,Edwardsville Care Center,97,22,Closed,2020-10-16,0.2268041237113402
+Madison,Eden Village Care Center,69,20,Closed,2020-10-16,0.2898550724637681
+Madison,Riverside Rehab and Healthcare,66,17,Closed,2020-10-16,0.25757575757575757
+Madison,Cedarhurst of Bethalto,7,0,Closed,2020-10-16,0.0
+Madison,Cedarhurst of Highland,4,0,Closed,2020-10-16,0.0
+Madison,Cedarhurst of Godfrey,10,0,Closed,2020-10-16,0.0
+Madison,Highland Healthcare,2,0,Closed,2020-10-16,0.0
+Madison,University Care Center,3,0,Closed,2020-10-16,0.0
+Madison,Beverly Farm,22,0,Closed,2020-10-16,0.0
+Madison,Collinsville Rehabilitation and Healthcare,6,2,Closed,2020-10-16,0.3333333333333333
+Madison,Meridian Village,80,5,Open,2020-10-16,0.0625
+Madison,Villas of Holly Brook-Bethalto,6,0,Closed,2020-10-16,0.0
+Madison,Liberty Village of Maryville,10,0,Closed,2020-10-16,0.0
+Madison,Elmwood Nursing and Rehab,13,0,Open,2020-10-16,0.0
+Madison,Cedarhurst of Edwardsville,2,0,Closed,2020-10-16,0.0
+Madison,Stearns Nursing and Rehabilitation Center,111,20,Closed,2020-10-16,0.18018018018018017
+Madison,University Care Center,3,1,Closed,2020-10-16,0.3333333333333333
+Madison,Edwardsville Care Center,8,0,Open,2020-10-16,0.0
+Madison,Alton Memorial Rehab and Therapy,60,10,Open,2020-10-16,0.16666666666666666
+Madison,Care Center at Center Grove,10,0,Open,2020-10-16,0.0
+Madison,Alton Mental Health Center,51,0,Open,2020-10-16,0.0
+Madison,Cedarhurst of Highland,7,0,Closed,2020-10-16,0.0
+Madison,Granite Nursing and Rehabilitation Center,3,1,Open,2020-10-16,0.3333333333333333
+Madison,Integrity of Godfrey,60,8,Closed,2020-10-16,0.13333333333333333
+Madison,Faith Countryside,3,0,Closed,2020-10-16,0.0
+Madison,Riverside Rehab and Healthcare,4,0,Open,2020-10-16,0.0
+Madison,Beverly Farm Foundation,48,1,Open,2020-10-16,0.020833333333333332
+Madison,Eden Village Care Center,11,1,Open,2020-10-16,0.09090909090909091
+Madison,Alhambra Rehab and Healthcare,6,0,Open,2020-10-16,0.0
+Madison,Cedarhurst of Bethalto,4,0,Open,2020-10-16,0.0
+Madison,University Care Center,4,0,Open,2020-10-16,0.0
+Madison,Liberty Village,2,0,Open,2020-10-16,0.0
+Madison,Cambridge House of Maryville,3,0,Open,2020-10-16,0.0
+Madison,Eden Village Retirement Communtiy,2,0,Open,2020-10-16,0.0
+Marion,Doctors Nursing and Rehab Center,6,0,Open,2020-10-16,0.0
+Marion,Centralia Manor,2,0,Open,2020-10-16,0.0
+Marion,Heritage Woods of Centralia,2,0,Open,2020-10-16,0.0
+Marion,Odin Care Center,4,1,Open,2020-10-16,0.25
+Marion,Fireside House of Centralia,2,0,Open,2020-10-16,0.0
+Marion,Bryan Manor,2,0,Open,2020-10-16,0.0
+Mason,Mason City Area Nursing Home ,6,0,Open,2020-10-16,0.0
+McDonough,The Lamoine Assisted Living & Memory Care,12,1,Closed,2020-10-16,0.08333333333333333
+McDonough,Heartland Health Care Center,48,15,Closed,2020-10-16,0.3125
+McDonough,Mosaic,8,0,Closed,2020-10-16,0.0
+McDonough,Courtyard Estates,3,0,Open,2020-10-16,0.0
+McDonough,Countryview Care Center of Macomb,2,0,Open,2020-10-16,0.0
+McHenry,The Fountains at Crystal Lake,46,15,Closed,2020-10-16,0.32608695652173914
+McHenry,Sheltered Village,42,9,Closed,2020-10-16,0.21428571428571427
+McHenry,Alden Terrace of McHenry,89,13,Open,2020-10-16,0.14606741573033707
+McHenry,The Springs at Crystal Lake,38,10,Closed,2020-10-16,0.2631578947368421
+McHenry,Revere Court of Crystal Lake,14,3,Closed,2020-10-16,0.21428571428571427
+McHenry,Cross Roads Care Center,71,13,Closed,2020-10-16,0.18309859154929578
+McHenry,Fair Oaks Health Care Center,15,3,Closed,2020-10-16,0.2
+McHenry,Florence Nursing Home,31,4,Closed,2020-10-16,0.12903225806451613
+McHenry,Three Oaks Assisted Living and Memory Care,2,0,Closed,2020-10-16,0.0
+McHenry,Hearthstone Village,5,0,Closed,2020-10-16,0.0
+McHenry,Crystal Pines Rehabilitation & Hlth Care Facility,86,15,Closed,2020-10-16,0.1744186046511628
+McHenry,Hearthstone Manor ,69,7,Closed,2020-10-16,0.10144927536231885
+McHenry,Florence Nursing Home,2,0,Closed,2020-10-16,0.0
+McHenry,Valley Hi,3,0,Closed,2020-10-16,0.0
+McHenry,The Fountains (2),2,0,Closed,2020-10-16,0.0
+McHenry,Hearthstone Manor  (2),3,0,Closed,2020-10-16,0.0
+McHenry,Sunrise of Crystal Lake Assisted Living and Memory,3,0,Closed,2020-10-16,0.0
+McLean,Luther Oakes,4,0,Closed,2020-10-16,0.0
+McLean,Bloomington Rehabilitation and Healthcare Center,59,11,Closed,2020-10-16,0.1864406779661017
+McLean,McLean County Nursing Home,6,0,Open,2020-10-16,0.0
+McLean,Luther Oakes,13,0,Closed,2020-10-16,0.0
+McLean,The Lofts Rehabilitation and Nursing of Normal,11,1,Open,2020-10-16,0.09090909090909091
+McLean,Westminster Village-Martin Health,6,0,Open,2020-10-16,0.0
+McLean,The Villas of Holly Brook,3,0,Open,2020-10-16,0.0
+McLean,Aperion Care-Bloomington,4,0,Open,2020-10-16,0.0
+McLean,Heritage Health of Normal,16,1,Open,2020-10-16,0.0625
+McLean,The Villas of Holly Brook-Towanda Barnes,17,1,Open,2020-10-16,0.058823529411764705
+McLean,Bickford of BLoomington,36,2,Open,2020-10-16,0.05555555555555555
+McLean,MarcFirst,8,0,Open,2020-10-16,0.0
+Mercer,Brookstone of Aledo,16,4,Open,2020-10-16,0.25
+Monroe,Garden Place Independant & Assisted Living,38,11,Closed,2020-10-16,0.2894736842105263
+Monroe,Oak Hill,87,11,Open,2020-10-16,0.12643678160919541
+Monroe,Cedarhurst Senior Living -Waterloo,6,0,Closed,2020-10-16,0.0
+Monroe,Integrity Healthcare-Columbia Rehab & Care Center,15,0,Open,2020-10-16,0.0
+Montgomery,Montgomery Nursing and Rehab Center,2,0,Closed,2020-10-16,0.0
+Montgomery,Tremont Ridge,13,3,Open,2020-10-16,0.23076923076923078
+Montgomery,Hillsboro Rehab And Healthcare,2,0,Open,2020-10-16,0.0
+Morgan,Aperion Care Jacksonville,65,4,Open,2020-10-16,0.06153846153846154
+Morgan,Jacksonville Skilled Nursing and Rehab Center,81,18,Open,2020-10-16,0.2222222222222222
+Morgan,Heritage Health Jacksonville,3,0,Closed,2020-10-16,0.0
+Morgan,The Pointe,3,0,Closed,2020-10-16,0.0
+Morgan,Cedarhurst of Jacksonville,4,0,Open,2020-10-16,0.0
+Moultrie,Sullivan Rehabilitation and Health Care Center,34,3,Open,2020-10-16,0.08823529411764706
+Moultrie,Mason Point,2,0,Open,2020-10-16,0.0
+Ogle,Rochelle Rehab & Healthcare Center,6,0,Closed,2020-10-16,0.0
+Ogle,Generations At Neighbors,5,0,Open,2020-10-16,0.0
+Ogle,Rochelle Rehab,16,0,Open,2020-10-16,0.0
+Peoria,Bickford Senior Living of Peoria,16,3,Closed,2020-10-16,0.1875
+Peoria,EP!C,21,0,Closed,2020-10-16,0.0
+Peoria,Generations of Peoria,33,5,Closed,2020-10-16,0.15151515151515152
+Peoria,Sharon Healthcare Willows South,4,1,Closed,2020-10-16,0.25
+Peoria,Lutheran Hillside Village,4,0,Closed,2020-10-16,0.0
+Peoria,University Rehab Center,54,16,Closed,2020-10-16,0.2962962962962963
+Peoria,Grand View Alzheimers Special Care Center,17,4,Closed,2020-10-16,0.23529411764705882
+Peoria,Apostolic Christian Skyline,73,7,Open,2020-10-16,0.0958904109589041
+Peoria,University Rehab at Northmoor,5,1,Closed,2020-10-16,0.2
+Peoria,Lutheran Hillside Village,22,0,Closed,2020-10-16,0.0
+Peoria,Sharon Healthcare Elms,8,0,Open,2020-10-16,0.0
+Peoria,Sharon Healthcare Willows,7,0,Open,2020-10-16,0.0
+Peoria,Sharon Healthcare - Woods,6,0,Open,2020-10-16,0.0
+Peoria,Generations at Peoria,20,2,Open,2020-10-16,0.1
+Peoria,Christian Buehler Home,40,0,Open,2020-10-16,0.0
+Peoria,Aperion Care Peoria Heights,5,0,Open,2020-10-16,0.0
+Peoria,Heritage Health,4,1,Open,2020-10-16,0.25
+Peoria,Evergreen Senior Living,3,0,Open,2020-10-16,0.0
+Perry,Pinckneyville Nursing and Rehabilitation,73,11,Open,2020-10-16,0.1506849315068493
+Perry,Manor of Mason Woods,6,1,Closed,2020-10-16,0.16666666666666666
+Pike,Barry Community Care,9,1,Open,2020-10-16,0.1111111111111111
+Pike,Kepley House,18,0,Open,2020-10-16,0.0
+Randolph,Coulterville Rehabilitation & Health Care Center,2,0,Closed,2020-10-16,0.0
+Randolph,Cedarhurst of Sparta,2,0,Closed,2020-10-16,0.0
+Randolph,Cedarhurst of Sparta,8,0,Open,2020-10-16,0.0
+Randolph,Red Bud Regional Care Center,2,0,Open,2020-10-16,0.0
+Randolph,Three Springs Lodge,3,0,Open,2020-10-16,0.0
+Randolph,Coulterville Rehabilitation & Health Care Center,2,0,Open,2020-10-16,0.0
+Randolph,Coulterville Rehabilitation & Health Care Center,2,0,Closed,2020-10-16,0.0
+Richland,Carle Richland Memorial Hospital Long Term Care,8,0,Open,2020-10-16,0.0
+Richland,Richland Nursing and Rehab,99,7,Open,2020-10-16,0.0707070707070707
+Richland,Emerald Glen,4,0,Open,2020-10-16,0.0
+Richland,Helia Healthcare of Olney,3,0,Open,2020-10-16,0.0
+Rock Island,Generations of Rock Island,54,15,Closed,2020-10-16,0.2777777777777778
+Rock Island,Friendship Manor,4,0,Closed,2020-10-16,0.0
+Rock Island,Centennial Care Center,111,16,Open,2020-10-16,0.14414414414414414
+Rock Island,Hope Creek,20,1,Open,2020-10-16,0.05
+Rock Island,Fort Armstrong,20,1,Closed,2020-10-16,0.05
+Rock Island,Illini Restorative Care,12,0,Closed,2020-10-16,0.0
+Rock Island,Park Vista,3,0,Closed,2020-10-16,0.0
+Rock Island,Serenity  (Aperion) Moline,17,2,Closed,2020-10-16,0.11764705882352941
+Rock Island,St. Anthonys Continue Care,89,15,Closed,2020-10-16,0.16853932584269662
+Rock Island,Friendship Manor ,10,0,Closed,2020-10-16,0.0
+Rock Island,Heritage Woods of Moline,3,0,Closed,2020-10-16,0.0
+Rock Island,Heartland Healthcare Center Moline,48,8,Open,2020-10-16,0.16666666666666666
+Rock Island,Aspen Rehab,50,9,Open,2020-10-16,0.18
+Rock Island,Amber Ridge,3,0,Closed,2020-10-16,0.0
+Rock Island,Friendship Manor,9,0,Open,2020-10-16,0.0
+Saline,Saline Care Nursing and Rehab,4,0,Open,2020-10-16,0.0
+Saline,Eldorado Rehab and Healthcare,17,1,Open,2020-10-16,0.058823529411764705
+Sangamon,Villa East,122,26,Closed,2020-10-16,0.21311475409836064
+Sangamon,Centennial Pointe,6,1,Closed,2020-10-16,0.16666666666666666
+Sangamon,Villas of Holly Brook and Reflections Memory Care,4,0,Closed,2020-10-16,0.0
+Sangamon,Heritage Health: Therapy & Senior Care - Springfie,4,0,Closed,2020-10-16,0.0
+Sangamon,Cedarhurst Assisted Living and Memory Care,9,1,Closed,2020-10-16,0.1111111111111111
+Sangamon,Concordia Village Senior ,14,0,Open,2020-10-16,0.0
+Sangamon,Heritage Health Springfield,12,0,Open,2020-10-16,0.0
+Sangamon,Auburn Rehab and Healthcare Center,35,4,Open,2020-10-16,0.11428571428571428
+Sangamon,Lewis Memorial Christian Village,5,0,Open,2020-10-16,0.0
+Sangamon,Brother James Court,68,2,Open,2020-10-16,0.029411764705882353
+Sangamon,Mill Creek Alzheimers Special Care Unit,33,2,Open,2020-10-16,0.06060606060606061
+Sangamon,Aperion Care Capitol,5,0,Closed,2020-10-16,0.0
+Scott,Shelby County Community Servicesi,7,0,Closed,2020-10-16,0.0
+Shelby,Shelbyville Manor,6,0,Closed,2020-10-16,0.0
+Shelby,Shelbyville Rehabilitation and Health Care Center,2,0,Open,2020-10-16,0.0
+Shelby,Villas of Holly Brook-Shelbyville,4,0,Open,2020-10-16,0.0
+Shelby,Shelbyville Manor,74,5,Open,2020-10-16,0.06756756756756757
+Shelby,Moweaqua Rehabilitation and Health Care,14,0,Open,2020-10-16,0.0
+St. Clair,BRIA of Belleville,69,7,Open,2020-10-16,0.10144927536231885
+St. Clair,Memorial Care Center,44,8,Closed,2020-10-16,0.18181818181818182
+St. Clair,Four Fountains,104,31,Closed,2020-10-16,0.2980769230769231
+St. Clair,Colonnade,6,0,Open,2020-10-16,0.0
+St. Clair,Lebanon Care Center ,77,13,Open,2020-10-16,0.16883116883116883
+St. Clair,St. Pauls,54,14,Open,2020-10-16,0.25925925925925924
+St. Clair,Bria of Cahokia,36,3,Closed,2020-10-16,0.08333333333333333
+St. Clair,Swansea Rehabilitation and Health Care Center,44,9,Open,2020-10-16,0.20454545454545456
+St. Clair,Knollwood,9,1,Open,2020-10-16,0.1111111111111111
+St. Clair,New Athens Home for the Aged,57,8,Open,2020-10-16,0.14035087719298245
+St. Clair,Cedarhurst of Shiloh,13,0,Open,2020-10-16,0.0
+St. Clair,Cedar Ridge,79,13,Open,2020-10-16,0.16455696202531644
+St. Clair,CASEYVILLE CARE CENTER,32,1,Open,2020-10-16,0.03125
+St. Clair,The Atrium,2,0,Open,2020-10-16,0.0
+St. Clair,Mercy ,15,1,Open,2020-10-16,0.06666666666666667
+St. Clair,The Esquiline - Dammert Center,3,0,Open,2020-10-16,0.0
+St. Clair,Memorial Convalescent Center,7,0,Open,2020-10-16,0.0
+St. Clair,Autumn Meadows,21,0,Open,2020-10-16,0.0
+St. Clair,Integrity Care of Belleville,11,1,Open,2020-10-16,0.09090909090909091
+St. Clair,Bradford Place,6,0,Open,2020-10-16,0.0
+St. Clair,Freeburg  Care  Center,7,0,Open,2020-10-16,0.0
+St. Clair,Parkway Gardens,9,0,Open,2020-10-16,0.0
+St. Clair,Cambridge House,5,0,Open,2020-10-16,0.0
+St. Clair,Memorial Care Center,8,0,Open,2020-10-16,0.0
+St. Clair,Four Fountains2,15,1,Open,2020-10-16,0.06666666666666667
+St. Clair,Freeburg Terrace,20,0,Open,2020-10-16,0.0
+St. Clair,Integrity Care of Smithton,61,7,Open,2020-10-16,0.11475409836065574
+St. Clair,Aperion Care,5,1,Open,2020-10-16,0.2
+St. Clair,The Assisted Living at Silver Crrek,4,0,Open,2020-10-16,0.0
+St. Clair,Dammert Center/The Esquiline2,43,6,Open,2020-10-16,0.13953488372093023
+St. Clair,Swansea Care & Rehab2,3,0,Open,2020-10-16,0.0
+St. Clair,Cedarhurst of Shiloh2,2,0,Open,2020-10-16,0.0
+St. Clair,Sycamore Village,4,0,Open,2020-10-16,0.0
+St. Clair,Caseyville Care Center2,2,0,Open,2020-10-16,0.0
+St. Clair,Morningside of Shiloh,2,0,Open,2020-10-16,0.0
+Stephenson,Stephenson Nursing Center,2,0,Closed,2020-10-16,0.0
+Stephenson,Stephenson Nursing Center,9,0,Open,2020-10-16,0.0
+Tazewell,Generations at Riverview,6,2,Closed,2020-10-16,0.3333333333333333
+Tazewell,Reflections Memory Care,20,4,Closed,2020-10-16,0.2
+Tazewell,Lakeside Rehab and Healthcare,2,0,Closed,2020-10-16,0.0
+Tazewell,Generations at Riverview,3,0,Closed,2020-10-16,0.0
+Tazewell,Apostolic Christian Restmor,6,0,Open,2020-10-16,0.0
+Tazewell,Villas of Hollybrook,2,0,Closed,2020-10-16,0.0
+Tazewell,Aperion Morton,45,7,Open,2020-10-16,0.15555555555555556
+Tazewell,Villas of Holly Brook & Reflections Pekin,46,9,Open,2020-10-16,0.1956521739130435
+Tazewell,Timbercreek Rehab and Healthcare,52,5,Open,2020-10-16,0.09615384615384616
+Tazewell,Pekin Manor,3,0,Open,2020-10-16,0.0
+Tazewell,Apostolic Christian Timber Ridge,6,0,Open,2020-10-16,0.0
+Tazewell,Generations Riverview SNF,15,0,Open,2020-10-16,0.0
+Union,Integrity of Anna,82,13,Closed,2020-10-16,0.15853658536585366
+Union,Integrity of Cobden,45,7,Closed,2020-10-16,0.15555555555555556
+Union,Illinois Veterans Home Anna,5,0,Closed,2020-10-16,0.0
+Vermilion,Gardenview Manor,4,0,Open,2020-10-16,0.0
+Vermilion,Illiana Va Medical,4,0,Open,2020-10-16,0.0
+Vermilion,Hawthorne Inn,9,0,Open,2020-10-16,0.0
+Vermilion,Arcadia Care of Danville,9,0,Open,2020-10-16,0.0
+Wabash,Oakview Nursing and Rehabilitation,11,0,Open,2020-10-16,0.0
+Wabash,Villas of Holly Brook,20,1,Closed,2020-10-16,0.05
+Warren,Courtyard Estates of Monmouth,2,0,Open,2020-10-16,0.0
+Warren,Monmouth Nursing Home,10,2,Open,2020-10-16,0.2
+Wayne,Aperion Care Fairfield,6,1,Closed,2020-10-16,0.16666666666666666
+Wayne,Cisne Rehab and Health Care Center,2,0,Closed,2020-10-16,0.0
+Wayne,Aperion Care,25,0,Open,2020-10-16,0.0
+Wayne,Fairfield Memorial Hospital,7,0,Open,2020-10-16,0.0
+White,Carmi Manor,3,0,Open,2020-10-16,0.0
+White,Wabash Christian Retirement,19,0,Open,2020-10-16,0.0
+Whiteside,Kreiders ,2,0,Closed,2020-10-16,0.0
+Whiteside,Parkway Center,28,5,Closed,2020-10-16,0.17857142857142858
+Whiteside,Harbor Crest,17,4,Closed,2020-10-16,0.23529411764705882
+Whiteside,Regency Care of Sterling ,20,2,Open,2020-10-16,0.1
+Whiteside,Resthave Care and Rehabilitation ,17,0,Open,2020-10-16,0.0
+Whiteside,Citadel of Sterling ,10,0,Open,2020-10-16,0.0
+Whiteside,Good Sam - Prophets Riverview,11,0,Open,2020-10-16,0.0
+Will,symphony of joliet,130,25,Closed,2020-10-16,0.19230769230769232
+Will,"Charter Senoir Living, The Cottages",11,2,Closed,2020-10-16,0.18181818181818182
+Will,Arbor Terrace,35,5,Closed,2020-10-16,0.14285714285714285
+Will,Willow Falls,8,2,Closed,2020-10-16,0.25
+Will,Senior Star at Weber Place,13,4,Closed,2020-10-16,0.3076923076923077
+Will,The PARC of Joliet,68,17,Closed,2020-10-16,0.25
+Will,St James Manor,79,21,Open,2020-10-16,0.26582278481012656
+Will,Presence Villa Franciscan,68,16,Closed,2020-10-16,0.23529411764705882
+Will,Shady Oaks,30,3,Closed,2020-10-16,0.1
+Will,Meadowbrook Manor of Bolingbrook,188,41,Closed,2020-10-16,0.21808510638297873
+Will,Sunny Hill Nursing Home,48,16,Closed,2020-10-16,0.3333333333333333
+Will,Lakewood Nursing Home,2,0,Closed,2020-10-16,0.0
+Will,Rock Run Place,4,0,Closed,2020-10-16,0.0
+Will,Smith Crossing,10,2,Closed,2020-10-16,0.2
+Will,Joliet Terrace,3,0,Closed,2020-10-16,0.0
+Will,Alden Courts of Shorewood,8,1,Closed,2020-10-16,0.125
+Will,Clarendale of Mokena,37,8,Closed,2020-10-16,0.21621621621621623
+Will,Spring Creek Nursing Home,25,4,Closed,2020-10-16,0.16
+Will,Marley Oaks,6,1,Closed,2020-10-16,0.16666666666666666
+Will,Salem Village NH,76,2,Open,2020-10-16,0.02631578947368421
+Will,Victorian Village,9,1,Closed,2020-10-16,0.1111111111111111
+Will,Lakeshore Rehab & Healthcare,3,0,Closed,2020-10-16,0.0
+Will,Willow House,18,0,Closed,2020-10-16,0.0
+Will,Aperion Wilmington,8,0,Closed,2020-10-16,0.0
+Will,Heritage Woods of Bolingbrook,3,0,Closed,2020-10-16,0.0
+Will,Timbers of Shorewood,2,0,Closed,2020-10-16,0.0
+Will,Alden Estates of Shorewood,29,4,Open,2020-10-16,0.13793103448275862
+Will,Harbor Chase of Plainfield,6,1,Closed,2020-10-16,0.16666666666666666
+Will,Lakewood Nursing Home,2,0,Closed,2020-10-16,0.0
+Will,Willow Falls,13,0,Closed,2020-10-16,0.0
+Will,Sunny Hill Nursing Home,18,0,Open,2020-10-16,0.0
+Will,Joliet Terrace,4,0,Closed,2020-10-16,0.0
+Will,Arbor Terrace of Naperville,4,0,Closed,2020-10-16,0.0
+Will,Victorian Village,23,0,Open,2020-10-16,0.0
+Will,Alden Courts of Shorewood,5,0,Closed,2020-10-16,0.0
+Will,Smith Crossing,9,0,Closed,2020-10-16,0.0
+Will,Aperion Wilmington,3,0,Closed,2020-10-16,0.0
+Will,Revere Court of Bolingbrook,29,3,Closed,2020-10-16,0.10344827586206896
+Will,Senior Star at Weber Place,3,0,Closed,2020-10-16,0.0
+Will,Parc of Joliet,10,1,Open,2020-10-16,0.1
+Will,Heritage Woods of Plainfield,4,1,Closed,2020-10-16,0.25
+Will,Our Lady Of Angels Retirement Home,2,0,Closed,2020-10-16,0.0
+Will,Symphony of Joliet,3,0,Closed,2020-10-16,0.0
+Will,Presence Villa Franciscan,22,0,Open,2020-10-16,0.0
+Will,Timbers of Shorewood,5,1,Closed,2020-10-16,0.2
+Will,Beecher Manor ,97,15,Open,2020-10-16,0.15463917525773196
+Will,Lakewood Nursing Home,47,0,Open,2020-10-16,0.0
+Will,Frankfort Terrace,7,0,Open,2020-10-16,0.0
+Will,WILLOW FALLS ASSISTED LIVING,2,0,Open,2020-10-16,0.0
+Will,Lakeshore Rehab & Healthcare,3,0,Open,2020-10-16,0.0
+Will,Aperion Wilmington,2,0,Open,2020-10-16,0.0
+Will,Clarendale of Mokena,3,0,Open,2020-10-16,0.0
+Will,Village Woods,9,0,Open,2020-10-16,0.0
+Will,Smith Crossing,2,0,Open,2020-10-16,0.0
+Williamson,Fifth Seasons Assisted Living ,2,0,Closed,2020-10-16,0.0
+Williamson,Shawnee Senior Living,121,17,Open,2020-10-16,0.14049586776859505
+Williamson,Parkway Manor,90,20,Open,2020-10-16,0.2222222222222222
+Williamson,The Anchor of the Voyage Senior Living ,2,0,Open,2020-10-16,0.0
+Williamson,Villas of Hollybrook ,2,0,Closed,2020-10-16,0.0
+Williamson,Integrity Healthcare of Herrin,10,2,Open,2020-10-16,0.2
+Williamson,Fifth Seasons,5,0,Closed,2020-10-16,0.0
+Williamson,Villas Of Hollybrook,6,0,Open,2020-10-16,0.0
+Winnebago,Anam Care Facility,24,7,Closed,2020-10-16,0.2916666666666667
+Winnebago,Alden Debes Rehab Inc,79,20,Closed,2020-10-16,0.25316455696202533
+Winnebago,Peterson Meadows,4,1,Closed,2020-10-16,0.25
+Winnebago,Amberwood,72,11,Closed,2020-10-16,0.1527777777777778
+Winnebago,Van Matre Encompas Health,31,4,Closed,2020-10-16,0.12903225806451613
+Winnebago,River Bluff Nursing Home,12,0,Closed,2020-10-16,0.0
+Winnebago,Forest City Rehab and Nursing,83,9,Closed,2020-10-16,0.10843373493975904
+Winnebago,Rock River Health Care,21,2,Closed,2020-10-16,0.09523809523809523
+Winnebago,Stepping Stone of Rockford ,25,1,Closed,2020-10-16,0.04
+Winnebago,Crimson Pointe Senior Living,47,12,Closed,2020-10-16,0.2553191489361702
+Winnebago,Ascension St Anne Center,88,15,Closed,2020-10-16,0.17045454545454544
+Winnebago,Fairhaven Christian Retirement Center,21,0,Open,2020-10-16,0.0
+Winnebago,PA Peterson at theCitadel,16,7,Closed,2020-10-16,0.4375
+Winnebago,Mosaic - Appletree Group Home,3,0,Closed,2020-10-16,0.0
+Winnebago,East Bank Center,3,0,Closed,2020-10-16,0.0
+Winnebago,Alpine Fireside Health Center,2,0,Closed,2020-10-16,0.0
+Winnebago,Morning Star Village,23,3,Open,2020-10-16,0.13043478260869565
+Winnebago,Alpine Fireside Health Center,6,1,Open,2020-10-16,0.16666666666666666
+Winnebago,River Bluff Nursing Home,72,10,Open,2020-10-16,0.1388888888888889
+Winnebago,Amberwood Care Center,2,1,Open,2020-10-16,0.5
+Winnebago,Alden Park Strathmoor,2,0,Open,2020-10-16,0.0
+Winnebago,Walter Lawson Childrens,3,0,Open,2020-10-16,0.0
+Winnebago,TLC Living Community,11,0,Open,2020-10-16,0.0
+Winnebago,Cor Mariae,3,0,Open,2020-10-16,0.0
+Woodford,Snyder Village Assisted Living ,3,0,Open,2020-10-16,0.0
+Woodford,Snyder Village Health Center ,24,2,Open,2020-10-16,0.08333333333333333
+Woodford,Heritage Health El Paso,15,2,Open,2020-10-16,0.13333333333333333

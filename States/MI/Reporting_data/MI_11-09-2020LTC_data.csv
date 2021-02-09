@@ -1,0 +1,1348 @@
+ReportingDate,FACILITY NAME,COUNTY,TYPE,NEW RESIDENT CASES,TOTAL RESIDENT CASES,NEW RESIDENT DEATHS,TOTAL RESIDENT DEATHS,NEW STAFF CASES,TOTAL STAFF CASES,NEW STAFF DEATHS,TOTAL STAFF DEATHS,Reporting
+11-09-2020,The Villa at the Bay,EMMET,SNF,57.0,58.0,4.0,4.0,32.0,39.0,0.0,0.0,Yes
+11-09-2020,Valley View Care Center,KENT,SNF,44.0,77.0,2.0,2.0,27.0,36.0,0.0,0.0,Yes
+11-09-2020,Medilodge Of Cheboygan ,CHEBOYGAN,SNF,34.0,42.0,2.0,2.0,11.0,17.0,0.0,0.0,Yes
+11-09-2020,Aspirus Ontonagon Hospital LTC,ONTONAGON,SNF,29.0,29.0,0.0,0.0,5.0,14.0,0.0,0.0,Yes
+11-09-2020,Alamo Nursing Home,KALAMAZOO,SNF,25.0,84.0,8.0,9.0,14.0,43.0,0.0,0.0,Yes
+11-09-2020,Regency at Chene,WAYNE,SNF,24.0,24.0,0.0,14.0,0.0,22.0,0.0,0.0,Yes
+11-09-2020,Sanctuary at McAuley,MUSKEGON,SNF,15.0,48.0,0.0,3.0,9.0,33.0,0.0,0.0,Yes
+11-09-2020,Faith Haven Senior Care Centre,JACKSON,SNF,14.0,21.0,0.0,0.0,4.0,8.0,0.0,0.0,Yes
+11-09-2020,Thurston Woods Village,SAINT JOSEPH,SNF,14.0,19.0,0.0,0.0,9.0,25.0,0.0,0.0,Yes
+11-09-2020,Regency at Grand Blanc,GENESEE,SNF,13.0,78.0,0.0,13.0,6.0,52.0,1.0,1.0,Yes
+11-09-2020,Spectrum Health Rehab & Nrsg Fuller,KENT,SNF,13.0,19.0,1.0,1.0,6.0,27.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Marshall,CALHOUN,SNF,12.0,43.0,5.0,8.0,2.0,14.0,0.0,0.0,Yes
+11-09-2020,SKLD Whitehall,MUSKEGON,SNF,12.0,31.0,1.0,2.0,16.0,37.0,0.0,0.0,Yes
+11-09-2020,Christian Park HCC,DELTA,SNF,11.0,62.0,3.0,12.0,6.0,44.0,0.0,0.0,Yes
+11-09-2020,Allegra Nursing and Rehab,JACKSON,SNF,11.0,21.0,2.0,2.0,2.0,6.0,0.0,0.0,Yes
+11-09-2020,Bickford of W Lansing,EATON,HFA,10.0,11.0,0.0,0.0,6.0,9.0,0.0,0.0,Yes
+11-09-2020,Argentine Care Center,GENESEE,SNF,10.0,34.0,3.0,3.0,4.0,35.0,0.0,0.0,Yes
+11-09-2020,Oceana Co Md Care Facility,OCEANA,SNF,10.0,15.0,0.0,0.0,6.0,25.0,0.0,1.0,Yes
+11-09-2020,Villa at West Branch,OGEMAW,SNF,10.0,11.0,1.0,2.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Spring Arbor Assisted Living Center,JACKSON,HFA,9.0,31.0,0.0,2.0,19.0,24.0,0.0,0.0,Yes
+11-09-2020,Spectrum Health RNC - United Hospital,MONTCALM,SNF,9.0,9.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,MediLodge at the Shore,OTTAWA,SNF,9.0,39.0,0.0,6.0,3.0,17.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Campus Area,INGHAM,SNF,8.0,53.0,1.0,7.0,2.0,14.0,0.0,0.0,Yes
+11-09-2020,Rest Haven Home,KENT,HFA,7.0,7.0,0.0,0.0,2.0,3.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center - Armada,MACOMB,SNF,7.0,12.0,0.0,1.0,1.0,12.0,0.0,0.0,Yes
+11-09-2020,Oakview Medical Care Facility,MASON,SNF,7.0,16.0,1.0,1.0,2.0,10.0,0.0,0.0,Yes
+11-09-2020,SKLD Zeeland,OTTAWA,SNF,7.0,8.0,0.0,0.0,1.0,9.0,0.0,0.0,Yes
+11-09-2020,Laurels of Coldwater,BRANCH,SNF,6.0,13.0,0.0,0.0,3.0,10.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Richmond,MACOMB,SNF,6.0,21.0,1.0,3.0,5.0,20.0,0.0,0.0,Yes
+11-09-2020,Pomeroy Living Sterling Assisted,MACOMB,HFA,6.0,6.0,0.0,0.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,Sanilac Medical Care Facility,SANILAC,SNF,6.0,15.0,0.0,0.0,5.0,10.0,0.0,0.0,Yes
+11-09-2020,Riveridge Rehab. and Health Center,BERRIEN,SNF,5.0,15.0,0.0,2.0,2.0,17.0,0.0,0.0,Yes
+11-09-2020,Kith Haven,GENESEE,SNF,5.0,72.0,0.0,23.0,5.0,28.0,0.0,0.0,Yes
+11-09-2020,Hillsdale Co Medical Care Faci,HILLSDALE,SNF,5.0,56.0,0.0,20.0,2.0,56.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Rochester Hills,OAKLAND,SNF,5.0,52.0,0.0,20.0,4.0,13.0,0.0,0.0,Yes
+11-09-2020,AHSL Spring Lake Willowbrook,OTTAWA,AFC,5.0,10.0,0.0,3.0,4.0,8.0,0.0,0.0,Yes
+11-09-2020,Waltonwood at Carriage Park II,WAYNE,HFA,5.0,5.0,0.0,0.0,2.0,2.0,0.0,0.0,Yes
+11-09-2020,Schnepp Senior Care & Rehab Center,GRATIOT,SNF,4.0,10.0,0.0,1.0,1.0,14.0,0.0,0.0,Yes
+11-09-2020,Aquinata Hall,KENT,HFA,4.0,8.0,0.0,1.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Emerald Meadows,KENT,HFA,4.0,4.0,1.0,1.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Forest Hills,KENT,SNF,4.0,7.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Cass City,TUSCOLA,SNF,4.0,43.0,1.0,8.0,4.0,20.0,0.0,0.0,Yes
+11-09-2020,Burcham Hills Center for Health & Rehab,INGHAM,SNF,3.0,41.0,0.0,7.0,0.0,67.0,0.0,0.0,Yes
+11-09-2020,Rose Garden,KENT,HFA,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Shelby Crossing Health Campus,MACOMB,SNF,3.0,21.0,1.0,8.0,0.0,21.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Monroe,MONROE,SNF,3.0,9.0,0.0,0.0,5.0,17.0,0.0,0.0,Yes
+11-09-2020,Agape Home At Blueberry Fields,MUSKEGON,AFC,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,South Lyon Senior Care and Rehab,OAKLAND,SNF,3.0,15.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,AHSL Spring Lake Timberbrook,OTTAWA,AFC,3.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Meadow Woods Nursing & Rehab,VAN BUREN,SNF,3.0,4.0,0.0,0.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,Aerius Health Center ,WAYNE,SNF,3.0,22.0,0.0,6.0,2.0,13.0,0.0,0.0,Yes
+11-09-2020,Rivergate Health Care Center,WAYNE,SNF,3.0,87.0,1.0,21.0,9.0,67.0,0.0,0.0,Yes
+11-09-2020,The Rivers Hlth & Rehab Ctr of Grosse Pt,WAYNE,SNF,3.0,6.0,0.0,0.0,4.0,16.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Clare,CLARE,SNF,2.0,8.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Wellbridge of Grand Blanc ,GENESEE,SNF,2.0,5.0,0.0,0.0,2.0,6.0,0.0,0.0,Yes
+11-09-2020,Gogebic Medical Care Facility ,GOGEBIC,SNF,2.0,2.0,0.0,0.0,3.0,9.0,0.0,0.0,Yes
+11-09-2020,SKLD Ionia,IONIA,SNF,2.0,2.0,0.0,0.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,Maple Ridge Manor Of Lowell,KENT,HFA,2.0,2.0,0.0,0.0,4.0,4.0,0.0,0.0,Yes
+11-09-2020,IHM Senior Living Community,MONROE,SNF,2.0,2.0,0.0,0.0,5.0,15.0,0.0,0.0,Yes
+11-09-2020,Marvin & Betty Danto Family Health Care ,OAKLAND,SNF,2.0,28.0,0.0,4.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,Westlake Health Campus,OAKLAND,SNF,2.0,5.0,0.0,0.0,2.0,4.0,0.0,0.0,Yes
+11-09-2020,Tuscola Count Medical Care Community ,TUSCOLA,SNF,2.0,25.0,0.0,14.0,3.0,14.0,0.0,0.0,Yes
+11-09-2020,Cherry Hill for Nursing and Rehab,WAYNE,SNF,2.0,30.0,0.0,8.0,3.0,18.0,0.0,0.0,Yes
+11-09-2020,Ely Manor Nursing & Rehab,ALLEGAN,SNF,1.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0,Yes
+11-09-2020,West Woods of Bridgman,BERRIEN,SNF,1.0,41.0,7.0,11.0,5.0,17.0,0.0,0.0,Yes
+11-09-2020,Heartland HCC - Battle Creek,CALHOUN,SNF,1.0,2.0,0.0,0.0,3.0,3.0,0.0,0.0,Yes
+11-09-2020,The Oaks at Northpointe Woods,CALHOUN,SNF,1.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,The Timbers of Cass County,CASS,SNF,1.0,1.0,0.0,0.0,3.0,15.0,0.0,0.0,Yes
+11-09-2020,Medilodge Of Sault Ste Marie,CHIPPEWA,SNF,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Bishop Noa Home for Senior Citizens,DELTA,SNF,1.0,3.0,0.0,0.0,1.0,7.0,0.0,0.0,Yes
+11-09-2020,Leighton House Inn Linden,GENESEE,AFC,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Montrose,GENESEE,SNF,1.0,5.0,0.0,0.0,4.0,6.0,0.0,0.0,Yes
+11-09-2020,Westgate Nursing & Rehab Community,GOGEBIC,SNF,1.0,55.0,5.0,9.0,0.0,26.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Okemos,INGHAM,SNF,1.0,24.0,0.0,1.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Arbor Manor Care Center,JACKSON,SNF,1.0,4.0,0.0,1.0,0.0,13.0,0.0,0.0,Yes
+11-09-2020,Clark Retirement Community,KENT,SNF,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Oxford Manor West,KENT,AFC,1.0,15.0,0.0,10.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,SKLD Beltline,KENT,SNF,1.0,22.0,0.0,10.0,1.0,21.0,0.0,0.0,Yes
+11-09-2020,St Anns Home,KENT,SNF,1.0,25.0,1.0,4.0,4.0,12.0,0.0,0.0,Yes
+11-09-2020,Brookdale Utica MC,MACOMB,HFA,1.0,3.0,0.0,0.0,2.0,2.0,0.0,0.0,Yes
+11-09-2020,Shelby Nursing Center,MACOMB,SNF,1.0,83.0,0.0,13.0,0.0,26.0,0.0,0.0,Yes
+11-09-2020,Heartland Health Care Center - Canton,WAYNE,SNF,1.0,33.0,0.0,15.0,0.0,25.0,0.0,0.0,Yes
+11-09-2020,Dj Jacobetti Home For Veterans,MARQUETTE,SNF,1.0,7.0,0.0,0.0,1.0,9.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Midland,MIDLAND,SNF,1.0,1.0,0.0,0.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Hathaway Hills Assisted Living,MONTCALM,HFA,1.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0,Yes
+11-09-2020,Christian Care Assisted Living,MUSKEGON,HFA,1.0,30.0,0.0,5.0,1.0,9.0,0.0,0.0,Yes
+11-09-2020,Cambridge East Healthcare Center,OAKLAND,SNF,1.0,41.0,0.0,19.0,0.0,19.0,0.0,0.0,Yes
+11-09-2020,Laurels of Kent (The),KENT,SNF,1.0,29.0,0.0,8.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Heartland Health Care Center - Oakland,OAKLAND,SNF,1.0,20.0,0.0,4.0,1.0,15.0,0.0,0.0,Yes
+11-09-2020,"Lakeland Center, The",OAKLAND,SNF,1.0,37.0,0.0,5.0,0.0,54.0,0.0,0.0,Yes
+11-09-2020,WellBridge of Rochester Hills,OAKLAND,SNF,1.0,6.0,0.0,1.0,1.0,10.0,0.0,0.0,Yes
+11-09-2020,West Bloomfield Nursing Center,OAKLAND,SNF,1.0,68.0,0.0,19.0,0.0,26.0,0.0,0.0,Yes
+11-09-2020,Villa at Rose City ,OGEMAW,SNF,1.0,2.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,North Ottawa Care Center,OTTAWA,SNF,1.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Bronson Commons,VAN BUREN,SNF,1.0,5.0,0.0,0.0,3.0,18.0,0.0,0.0,Yes
+11-09-2020,Evangelical Home - Saline,WASHTENAW,SNF,1.0,1.0,0.0,0.0,2.0,12.0,0.0,0.0,Yes
+11-09-2020,The Manor at Glacier Hills Home for the Aged,WASHTENAW,HFA,1.0,2.0,0.0,0.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center Harper Woods,WAYNE,SNF,1.0,73.0,0.0,23.0,0.0,13.0,0.0,1.0,Yes
+11-09-2020,Advantage Living Center Wayne,WAYNE,SNF,1.0,69.0,0.0,24.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,Beaumont Rehab & Continuing Care - DBN,WAYNE,SNF,1.0,89.0,0.0,29.0,0.0,26.0,0.0,0.0,Yes
+11-09-2020,Regency at Shelby Township,MACOMB,SNF,1.0,62.0,0.0,14.0,0.0,28.0,0.0,0.0,Yes
+11-09-2020,Royalton Manor,BERRIEN,SNF,1.0,3.0,0.0,1.0,1.0,13.0,0.0,0.0,Yes
+11-09-2020,Sheffield Manor Nursing & Rehab Center,WAYNE,SNF,1.0,57.0,0.0,12.0,1.0,32.0,0.0,1.0,Yes
+11-09-2020,Willowbrook Manor,GENESEE,SNF,1.0,56.0,0.0,20.0,1.0,12.0,0.0,0.0,Yes
+11-09-2020,Jamieson Nursing Home,ALCONA,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Lincoln Haven Nursing & Rehab. Community,ALCONA,SNF,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Munising,ALGER,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Allegan County Medical Care Community,ALLEGAN,SNF,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Briarwood Assisted Living,ALLEGAN,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Grace of Douglas,ALLEGAN,SNF,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Harbors Health Facility,ALLEGAN,HFA,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,LakeSide Vista Amsterdam Haus,ALLEGAN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,LakeSide Vista Delph Haus,ALLEGAN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,LakeSide Vista Friesland Haus,ALLEGAN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,LakeSide Vista Rotterdam Haus,ALLEGAN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,LakeSide Vista Zeeland Haus,ALLEGAN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Autumnwood of Deckerville,SANILAC,SNF,0.0,0.0,0.0,0.0,1.0,9.0,0.0,0.0,Yes
+11-09-2020,Life Care Center of Plainwell ,ALLEGAN,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Resthaven Care Center,ALLEGAN,SNF,0.0,0.0,0.0,0.0,1.0,10.0,0.0,0.0,Yes
+11-09-2020,Medilodge Alpena,ALPENA,SNF,0.0,61.0,0.0,9.0,0.0,31.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Greenview,ALPENA,SNF,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Meadow Brook MCF,ANTRIM,SNF,0.0,0.0,0.0,0.0,4.0,6.0,0.0,0.0,Yes
+11-09-2020,Ascension Standish Hospital & SNF,ARENAC,SNF,0.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Sterling,ARENAC,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Bayside Village,BARAGA,SNF,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,Hastings Rehab and Healthcare Center,BARRY,SNF,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Thornapple Manor,BARRY,SNF,0.0,9.0,0.0,1.0,4.0,22.0,0.0,0.0,Yes
+11-09-2020,Woodlawn Meadows Specialized Care,BARRY,AFC,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Woodlawn Meadows Supportive Care,BARRY,AFC,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,"Bay City Comfort Care, LLC",BAY,HFA,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Bay County Medical Care Facility,BAY,SNF,0.0,3.0,1.0,3.0,5.0,27.0,0.0,0.0,Yes
+11-09-2020,Bay Shores Nursing Care Center,BAY,SNF,0.0,20.0,0.0,2.0,4.0,24.0,0.0,0.0,Yes
+11-09-2020,Bayfield Assisted Living,BAY,HFA,0.0,0.0,0.0,9.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,Brookdale Bay City AL (MI),BAY,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Brookdale Bay City MC (MI),BAY,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Caretel Inns of Tricities,BAY,SNF,0.0,19.0,0.0,4.0,0.0,17.0,0.0,0.0,Yes
+11-09-2020,Heartland HCC - Hampton,BAY,SNF,0.0,20.0,0.0,5.0,1.0,14.0,0.0,0.0,Yes
+11-09-2020,Huron Woods Nursing Center,BAY,SNF,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,The Carriage House of Bay City,BAY,SNF,0.0,7.0,0.0,0.0,1.0,8.0,0.0,0.0,Yes
+11-09-2020,Maples Benzie Co Medical Care,BENZIE,SNF,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Paul Oliver Memorial Hospital LTCU,BENZIE,SNF,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Brentwood at Niles,BERRIEN,HFA,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Caretel Inns Of Royalton  - Dover,BERRIEN,AFC,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Caretel Inns Of Royalton - Bristol,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Caretel Inns Of Royalton Arlington,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Caretel Inns of Royalton Eaton,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Chalet of Niles-Nursing and Rehab Center,BERRIEN,SNF,0.0,17.0,0.0,2.0,0.0,18.0,0.0,0.0,Yes
+11-09-2020,Coventry House Inn,BERRIEN,SNF,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Fullerton House,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Hallmark Living--Benton Harbor,BERRIEN,SNF,0.0,40.0,0.0,18.0,0.0,16.0,0.0,0.0,Yes
+11-09-2020,Pine Ridge - A Rehab & Nursing Center,BERRIEN,SNF,0.0,23.0,1.0,12.0,1.0,26.0,0.0,0.0,Yes
+11-09-2020,Autumnwood Of Mcbain,MISSAUKEE,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,West Woods of Niles,BERRIEN,SNF,0.0,81.0,0.0,20.0,1.0,42.0,0.0,0.0,Yes
+11-09-2020,Woodland Terrace  - Lilac Court,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Woodland Terrace - Dogwood Court,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Woodland Terrace - Magnolia Court,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Woodland Terrace at Longmeadow,BERRIEN,HFA,0.0,3.0,0.0,1.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Woodland Terrace of Paw Paw Lake,BERRIEN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Maple Lawn Medical Care Facility,BRANCH,SNF,0.0,2.0,0.0,0.0,3.0,16.0,0.0,0.0,Yes
+11-09-2020,Masonville Place,BRANCH,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Westbrook Home,BRANCH,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center - Battle Creek,CALHOUN,SNF,0.0,20.0,0.0,5.0,1.0,14.0,0.0,0.0,Yes
+11-09-2020,Calhoun County Medical Care Facility,CALHOUN,SNF,0.0,45.0,0.0,9.0,1.0,43.0,0.0,0.0,Yes
+11-09-2020,Evergreen Senior Care & Rehab Center,CALHOUN,SNF,0.0,2.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Lakeview Assisted Living HFA,CALHOUN,HFA,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Laurels of Bedford,CALHOUN,SNF,0.0,18.0,0.0,5.0,1.0,11.0,0.0,0.0,Yes
+11-09-2020,Marshall Nursing & Rehab Community,CALHOUN,SNF,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,NorthPointe Woods Assisted Living,CALHOUN,HFA,0.0,2.0,0.0,1.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,The Heritage Assisted Living Community,CALHOUN,HFA,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,The Reflections,CALHOUN,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Cass County Medical Care Facility,CASS,SNF,0.0,40.0,0.0,11.0,0.0,30.0,0.0,0.0,Yes
+11-09-2020,Forest Glen Assisted Living,CASS,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Boulder Park Terrace,CHARLEVOIX,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Grandvue Medical Care Facility,CHARLEVOIX,SNF,0.0,0.0,0.0,0.0,2.0,15.0,0.0,0.0,Yes
+11-09-2020,Chippewa County War Mem Hosp LTCU,CHIPPEWA,SNF,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Hearthside Assisted Living,CHIPPEWA,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Meridian Heights,CHIPPEWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,North Woods Nursing Center,CLARE,SNF,0.0,40.0,3.0,8.0,3.0,28.0,0.0,0.0,Yes
+11-09-2020,Hazel I. Findlay Country Manor,CLINTON,SNF,0.0,2.0,0.0,0.0,0.0,19.0,0.0,0.0,Yes
+11-09-2020,Bellbrook - Rochester Hills,OAKLAND,SNF,0.0,17.0,0.0,6.0,0.0,27.0,0.0,0.0,Yes
+11-09-2020,The Willows at East Lansing,CLINTON,SNF,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Grayling Nursing & Rehab Community,CRAWFORD,SNF,0.0,18.0,0.0,2.0,0.0,31.0,0.0,0.0,Yes
+11-09-2020,Munson Health Crawford Continuing Care ,CRAWFORD,SNF,0.0,18.0,0.0,2.0,0.0,17.0,0.0,0.0,Yes
+11-09-2020,Bishop Noa Home for Senior Citizens HFA,DELTA,HFA,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Bloomfield Orchard Villa,OAKLAND,SNF,0.0,27.0,0.0,16.0,0.0,10.0,0.0,0.0,Yes
+11-09-2020,Christian Park Village,DELTA,SNF,0.0,52.0,0.0,11.0,3.0,39.0,0.0,0.0,Yes
+11-09-2020,Freeman Nursing & Rehab,DICKINSON,SNF,0.0,3.0,0.0,0.0,1.0,7.0,0.0,0.0,Yes
+11-09-2020,Manorcare Nursing and Rehab Center,DICKINSON,SNF,0.0,58.0,0.0,9.0,2.0,38.0,0.0,0.0,Yes
+11-09-2020,Brookdale Delta AL,EATON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Brookdale Delta MC (MI),EATON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Dimondale Nursing Care Center,EATON,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Eaton County Health and Rehabilitation ,EATON,SNF,0.0,3.0,0.0,0.0,19.0,37.0,0.0,0.0,Yes
+11-09-2020,Island City Assisted Living,EATON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Medilodge Of Lansing,EATON,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,"Boulevard Temple Care Center, LLC",WAYNE,SNF,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,Yes
+11-09-2020,Story Point of Grand Ledge,EATON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Bay Bluffs - Emmet Co. Medical Care,EMMET,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Pineview Cottage,EMMET,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Brookdale Grand Blanc MC,GENESEE,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Caretel Inns of Linden,GENESEE,SNF,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Degas House Inn Linden,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Brittany Manor,MIDLAND,SNF,0.0,4.0,0.0,1.0,1.0,7.0,0.0,0.0,Yes
+11-09-2020,Genesys Short Term Rehabilitation Center,GENESEE,SNF,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,Heartland HCC Briarwood,GENESEE,SNF,0.0,21.0,0.0,5.0,0.0,12.0,0.0,0.0,Yes
+11-09-2020,Heartland HCC Fostrian,GENESEE,SNF,0.0,1.0,0.0,0.0,2.0,10.0,0.0,0.0,Yes
+11-09-2020,Heritage Manor Healthcare Center,GENESEE,SNF,0.0,45.0,0.0,0.0,0.0,30.0,0.0,1.0,Yes
+11-09-2020,Homer House Inn,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Hyde Park AL I,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Hyde Park AL II,GENESEE,AFC,0.0,4.0,0.0,6.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Living Joy AL,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Maple Woods Manor,GENESEE,SNF,0.0,67.0,0.0,31.0,0.0,94.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Grand Blanc,GENESEE,SNF,0.0,10.0,0.0,2.0,2.0,21.0,0.0,0.0,Yes
+11-09-2020,Monet House Inn Linden,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Springvale Assisted Living,GENESEE,HFA,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,The Cottage of Davison,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Oaks at Woodfield,GENESEE,SNF,0.0,1.0,0.0,0.0,1.0,9.0,0.0,0.0,Yes
+11-09-2020,Van Gogh House Inn Linden,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Vicinia Gardens Assisted Living of Fenton LLC,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Vicinia Gardens Memory of Fenton,GENESEE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Vicinia Gardens Transition,GENESEE,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Wellbridge of Fenton,GENESEE,SNF,0.0,15.0,0.0,7.0,0.0,15.0,0.0,0.0,Yes
+11-09-2020,Cambridge South Healthcare Center,OAKLAND,SNF,0.0,18.0,0.0,8.0,0.0,10.0,0.0,0.0,Yes
+11-09-2020,Gladwin Nursing & Rehab. Community,GLADWIN,SNF,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Gladwin Pines Nursing Home,GLADWIN,SNF,0.0,3.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Heavenly Homestead Adult Foster Care-South,GLADWIN,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Grand Traverse Pavilions,GRAND TRAVERSE,SNF,0.0,9.0,0.0,0.0,2.0,22.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Grand Traverse County,GRAND TRAVERSE,SNF,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Traverse City,GRAND TRAVERSE,SNF,0.0,3.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,The Villa at Traverse Point,GRAND TRAVERSE,SNF,0.0,0.0,0.0,0.0,3.0,7.0,0.0,0.0,Yes
+11-09-2020,Arbor Grove Assisted Living,GRATIOT,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Ashley Care Center,GRATIOT,SNF,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Cedarbrook of Bloomfield Hills,OAKLAND,SNF,0.0,4.0,0.0,3.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Masonic Health Care Center,GRATIOT,SNF,0.0,20.0,0.0,7.0,1.0,18.0,0.0,0.0,Yes
+11-09-2020,Michigan Masonic Home,GRATIOT,HFA,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Riverside Healthcare Center,GRATIOT,SNF,0.0,16.0,0.0,4.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Warwick Living Center,GRATIOT,SNF,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Hillsdale Hosp McGuire & MacRitchie LTCU,HILLSDALE,SNF,0.0,0.0,0.0,0.0,9.0,16.0,0.0,0.0,Yes
+11-09-2020,Canal View-Houghton,HOUGHTON,SNF,0.0,1.0,0.0,0.0,1.0,7.0,0.0,0.0,Yes
+11-09-2020,GreenTree at Hubbell,HOUGHTON,SNF,0.0,0.0,0.0,0.0,1.0,14.0,0.0,0.0,Yes
+11-09-2020,Portagepointe,HOUGHTON,SNF,0.0,5.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,The Lighthouse at Hancock,HOUGHTON,SNF,0.0,0.0,0.0,0.0,4.0,9.0,0.0,0.0,Yes
+11-09-2020,Huron County Medical Care Facility,HURON,SNF,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Lakeview Extended Care And Rehab,HURON,SNF,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Meadow Lane Assisted Living,HURON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Scheurer Long Term Care Unit,HURON,SNF,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Aria Nursing and Rehab,INGHAM,SNF,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Brookdale Meridian AL,INGHAM,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Brookdale Meridian MC,INGHAM,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Burcham Hills Retirement Center II,INGHAM,HFA,0.0,8.0,0.0,4.0,1.0,11.0,0.0,1.0,Yes
+11-09-2020,Holt Senior Care and Rehab Center,INGHAM,SNF,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Homecrest Manor,INGHAM,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Ingham County Medical Care Facility ,INGHAM,SNF,0.0,46.0,0.0,9.0,7.0,40.0,0.0,0.0,Yes
+11-09-2020,Lansing Bickford Cottage,INGHAM,HFA,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,MediLodge of Capital Area,INGHAM,SNF,0.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,MediLodge of East Lansing,INGHAM,SNF,0.0,15.0,0.0,0.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Moore Living Connections 1,INGHAM,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Moore Living Connections 2,INGHAM,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Origami AFC,INGHAM,AFC,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Riverwind Adult Foster Care,INGHAM,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Robinwood Landing Alzheim,INGHAM,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Willows at Okemos,INGHAM,SNF,0.0,2.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Belding,IONIA,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Iosco County Medical Care Facility ,IOSCO,SNF,0.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Lakeview Manor Healthcare Center,IOSCO,SNF,0.0,35.0,0.0,4.0,0.0,28.0,0.0,0.0,Yes
+11-09-2020,MediLodge of Tawas City,IOSCO,SNF,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Iron Co Medical Care Facility,IRON,SNF,0.0,57.0,0.0,16.0,5.0,56.0,0.0,0.0,Yes
+11-09-2020,Iron River Care Center,IRON,SNF,0.0,41.0,0.0,5.0,0.0,15.0,0.0,0.0,Yes
+11-09-2020,Crestwood Village Assisted,ISABELLA,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Isabella Co Medical Care Facility,ISABELLA,SNF,0.0,24.0,0.0,4.0,3.0,20.0,0.0,0.0,Yes
+11-09-2020,Laurels of Mt. Pleasant (The),ISABELLA,SNF,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,McVey St Home,ISABELLA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Medilodge Of Mt Pleasant,ISABELLA,SNF,0.0,3.0,0.0,1.0,2.0,4.0,0.0,0.0,Yes
+11-09-2020,Countryside Care Center,JACKSON,SNF,0.0,49.0,0.0,16.0,0.0,48.0,0.0,0.0,Yes
+11-09-2020,Highland Home for the Aged,JACKSON,HFA,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Hope House I,JACKSON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Hope House II/Fowler House,JACKSON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Jackson County Medical Care Facility ,JACKSON,SNF,0.0,0.0,0.0,0.0,1.0,7.0,0.0,0.0,Yes
+11-09-2020,Rice Manor,JACKSON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Ridgecrest Health Campus,JACKSON,SNF,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,RidgeCrest Health Campus HFA,JACKSON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Summit Park Assisted Living Center,JACKSON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Jackson Friendly Home,JACKSON,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Vista Grande Villa,JACKSON,SNF,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Beacon Pointe Memory Care,KALAMAZOO,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Borgess Gardens,KALAMAZOO,SNF,0.0,0.0,0.0,0.0,2.0,15.0,0.0,0.0,Yes
+11-09-2020,Brookdale Portage AL,KALAMAZOO,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Friendship Village,KALAMAZOO,SNF,0.0,0.0,0.0,0.0,1.0,8.0,0.0,0.0,Yes
+11-09-2020,Harold & Grace Upjohn Community Care Ctr,KALAMAZOO,SNF,0.0,5.0,0.0,1.0,2.0,9.0,0.0,0.0,Yes
+11-09-2020,"Hudson's Country Manor, Inc.",KALAMAZOO,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Laurels of Galesburg,KALAMAZOO,SNF,0.0,1.0,0.0,0.0,10.0,14.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Kalamazoo,KALAMAZOO,SNF,0.0,63.0,0.0,23.0,0.0,23.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Portage,KALAMAZOO,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Westwood,KALAMAZOO,SNF,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,North Woods Village At Kalamazoo,KALAMAZOO,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Plainwell Pines Nursing & Rehab.,KALAMAZOO,SNF,0.0,7.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Portage Bickford Cottage,KALAMAZOO,HFA,0.0,10.0,0.0,3.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Sojourner Place,KALAMAZOO,HFA,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,StoryPoint of Portage,KALAMAZOO,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Springs at the Fountains,KALAMAZOO,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Vineyard Assisted Living,KALAMAZOO,HFA,0.0,4.0,0.0,2.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Kalkaska Memorial Health Center LTC,KALKASKA,SNF,0.0,0.0,0.0,0.0,2.0,10.0,0.0,0.0,Yes
+11-09-2020,AHSL Kentwood Cobblestone,KENT,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Kentwood Fieldstone,KENT,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,AHSL Kentwood Riverstone,KENT,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Alpine Grove,KENT,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,American House Wyoming,KENT,HFA,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Beacon Hill At Eastgate,KENT,SNF,0.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Boulder Creek Assisted Living,KENT,HFA,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Brookcrest,KENT,SNF,0.0,2.0,0.0,0.0,2.0,6.0,0.0,0.0,Yes
+11-09-2020,Clark Retirement Home,KENT,HFA,0.0,12.0,0.0,0.0,2.0,4.0,0.0,0.0,Yes
+11-09-2020,Covenant Village of the Great Lakes,KENT,SNF,0.0,2.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Edison Christian Assisted Living,KENT,HFA,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Edison Christian Health Center,KENT,SNF,0.0,3.0,0.0,0.0,2.0,11.0,0.0,0.0,Yes
+11-09-2020,Grand Village Assisted Living LLC,KENT,HFA,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Healthbridge Post-Acute Rehabilitation,KENT,SNF,0.0,26.0,0.0,4.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Holland Home - Raybrook Manor,KENT,SNF,0.0,21.0,0.0,5.0,3.0,16.0,0.0,0.0,Yes
+11-09-2020,Holland Home Breton Extended Care - Building B,KENT,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Holland Home Breton Rehab & Living Ctr,KENT,SNF,0.0,3.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Holland Home-Breton Extended Care,KENT,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,InterActions Residential Treatment,KENT,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Courtney Manor,HURON,SNF,0.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Mary Free Bed Sub-Acute Rehabilitation,KENT,SNF,0.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Meadowlark Retirement Village A,KENT,AFC,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Meadowlark Retirement Village B,KENT,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Meadows,KENT,AFC,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,MediLodge of Wyoming,KENT,SNF,0.0,3.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Cedar Springs,KENT,SNF,0.0,37.0,0.0,10.0,1.0,11.0,0.0,0.0,Yes
+11-09-2020,Oxford Manor East,KENT,AFC,0.0,6.0,0.0,6.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Pilgrim Manor,KENT,SNF,0.0,2.0,0.0,1.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Pivot,KENT,AFC,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Porter Hills Health Center,KENT,SNF,0.0,6.0,0.0,0.0,3.0,18.0,0.0,0.0,Yes
+11-09-2020,Porter Hills Presbyterian Village,KENT,HFA,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Rivervalley 1,KENT,AFC,0.0,4.0,0.0,1.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Rivervalley 2,KENT,AFC,0.0,8.0,0.0,1.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Samaritas Lodge (SNF),KENT,SNF,0.0,79.0,1.0,36.0,1.0,29.0,0.0,0.0,Yes
+11-09-2020,SKLD Leonard,KENT,SNF,0.0,0.0,0.0,0.0,3.0,9.0,0.0,0.0,Yes
+11-09-2020,SKLD Wyoming,KENT,SNF,0.0,1.0,0.0,0.0,2.0,5.0,0.0,0.0,Yes
+11-09-2020,Spectrum Health Rehab and Nursing Center,KENT,SNF,0.0,4.0,0.0,0.0,2.0,25.0,0.0,0.0,Yes
+11-09-2020,Sunrise of Cascade,KENT,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Lodge Walker,KENT,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Oaks at Byron Center,KENT,SNF,0.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,The Ridge,KENT,AFC,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,Yes
+11-09-2020,Valley Health Center,KENT,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Wildwood Residential Services,KENT,AFC,0.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Windsor Manor North,KENT,AFC,0.0,9.0,0.0,6.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Windsor Manor South,KENT,AFC,0.0,12.0,0.0,3.0,1.0,7.0,0.0,0.0,Yes
+11-09-2020,Grand Oaks Nursing Center,LAKE,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Devonshire Retirement Village,LAPEER,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Devonshire Retirement Village Specialized Care,LAPEER,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Lapeer County Medical Care Facility,LAPEER,SNF,0.0,5.0,0.0,2.0,2.0,11.0,0.0,0.0,Yes
+11-09-2020,McLaren Lapeer Region Extended Care,LAPEER,SNF,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Stonegate Health Campus,LAPEER,SNF,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,The Villages of Lapeer Nursing & Rehab,LAPEER,SNF,0.0,47.0,0.0,19.0,2.0,20.0,0.0,0.0,Yes
+11-09-2020,Maple Valley Nursing Home,LEELANAU,SNF,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Leelanau,LEELANAU,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Orchard Creek Skilled Nursing,LEELANAU,SNF,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Orchard Creek Supportive Care,LEELANAU,AFC,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Cambrian Assisted Living,LENAWEE,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Cambrian Memory Care of Tecumseh,LENAWEE,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Lenawee Medical Care Facility ,LENAWEE,SNF,0.0,10.0,0.0,2.0,1.0,14.0,0.0,0.0,Yes
+11-09-2020,Lynwood Manor Healthcare Center,LENAWEE,SNF,0.0,10.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Provincial House of Adrian,LENAWEE,SNF,0.0,1.0,0.0,1.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,The Oasis at Adrian Rehabilitation ,LENAWEE,SNF,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Caretel Inns of Brighton,LIVINGSTON,SNF,0.0,90.0,0.0,10.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Constable House Inn,LIVINGSTON,AFC,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,Yes
+11-09-2020,Degas House Inn Brighton,LIVINGSTON,AFC,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,Yes
+11-09-2020,Leighton House Inn Brighton,LIVINGSTON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,MediLodge of Howell,LIVINGSTON,SNF,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Livingston,LIVINGSTON,SNF,0.0,40.0,0.0,10.0,1.0,15.0,0.0,0.0,Yes
+11-09-2020,Patti Lewis Care Home,LIVINGSTON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Sanctuary at Woodland #1,LIVINGSTON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Sanctuary at Woodland #2,LIVINGSTON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Lodge Brighton,LIVINGSTON,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,The Willows at Howell ,LIVINGSTON,SNF,0.0,2.0,0.0,1.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Wellbridge of Brighton,LIVINGSTON,SNF,0.0,20.0,0.0,6.0,0.0,18.0,0.0,0.0,Yes
+11-09-2020,Wellbridge of Pinckney ,LIVINGSTON,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Helen Newberry Joy Hospital LTCU,LUCE,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Mackinac Straits Long Term Care Unit,MACKINAC,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center - Roseville,MACOMB,SNF,0.0,73.0,0.0,21.0,1.0,12.0,0.0,1.0,Yes
+11-09-2020,Advantage Living Center - Warren,MACOMB,SNF,0.0,64.0,0.0,38.0,0.0,24.0,0.0,0.0,Yes
+11-09-2020,Arden Courts of Sterling Heights,MACOMB,HFA,0.0,9.0,0.0,6.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,Autumn Woods Residential Health,MACOMB,SNF,0.0,83.0,0.0,35.0,0.0,39.0,0.0,0.0,Yes
+11-09-2020,Bickford of Shelby,MACOMB,HFA,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Church of Christ Assisted Living,MACOMB,HFA,0.0,17.0,0.0,6.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Church of Christ Care Center,MACOMB,SNF,0.0,92.0,0.0,23.0,0.0,55.0,0.0,0.0,Yes
+11-09-2020,Cleave,MACOMB,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Clinton Aire Healthcare Center,MACOMB,SNF,0.0,19.0,0.0,2.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Father Murray Nursing Center,MACOMB,SNF,0.0,107.0,0.0,23.0,0.0,57.0,0.0,1.0,Yes
+11-09-2020,Fenton HealthCare,GENESEE,SNF,0.0,49.0,1.0,6.0,0.0,19.0,0.0,0.0,Yes
+11-09-2020,"Lakepointe Senior Care & Rehab Ctr, LLC",MACOMB,SNF,0.0,91.0,0.0,27.0,0.0,33.0,0.0,0.0,Yes
+11-09-2020,Lakeshore Senior Living,MACOMB,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Lakeside Manor Nursing & Rehab Center,MACOMB,SNF,0.0,1.0,0.0,2.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Martha T Berry MCF,MACOMB,SNF,0.0,55.0,0.0,24.0,1.0,55.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Shoreline,MACOMB,SNF,0.0,29.0,0.0,9.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Sterling Heights,MACOMB,SNF,0.0,75.0,0.0,16.0,1.0,34.0,0.0,0.0,Yes
+11-09-2020,Orchard Grove Health Campus,MACOMB,SNF,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Pomeroy Sterling Skilled Rehab,MACOMB,SNF,0.0,59.0,0.0,29.0,0.0,40.0,0.0,1.0,Yes
+11-09-2020,Hartford Nursing & Rehab Center,WAYNE,SNF,0.0,42.0,0.0,14.0,0.0,21.0,0.0,0.0,Yes
+11-09-2020,Regency at St Clair Shores,MACOMB,SNF,0.0,31.0,0.0,5.0,0.0,12.0,0.0,0.0,Yes
+11-09-2020,Regency Manor Nursing & Rehab Center,MACOMB,SNF,0.0,13.0,0.0,3.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Ridgeway,MACOMB,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Rose Senior Living - Clinton Township,MACOMB,HFA,0.0,16.0,0.0,7.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Sanctuary at Fraser Villa,MACOMB,SNF,0.0,44.0,0.0,9.0,0.0,36.0,0.0,0.0,Yes
+11-09-2020,Sanctuary at Fraser Villa HFA,MACOMB,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Shorepoint Nursing Center,MACOMB,SNF,0.0,63.0,1.0,19.0,0.0,30.0,0.0,1.0,Yes
+11-09-2020,Heartland HCC - Grosse Pointe Woods,WAYNE,SNF,0.0,17.0,0.0,5.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,The Village of East Harbor,MACOMB,SNF,0.0,39.0,0.0,7.0,0.0,19.0,0.0,0.0,Yes
+11-09-2020,The Village of East Harbor HFA,MACOMB,HFA,0.0,13.0,0.0,18.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Vista Springs Washington Place - Spring Cove,MACOMB,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Vista Springs Washington Place - Spring Harbor,MACOMB,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Waltonwood at Lakeside,MACOMB,HFA,0.0,17.0,0.0,4.0,0.0,15.0,0.0,0.0,Yes
+11-09-2020,Warren Woods Health and Rehab Center,MACOMB,SNF,0.0,49.0,0.0,24.0,0.0,21.0,0.0,1.0,Yes
+11-09-2020,WellBridge of Romeo,MACOMB,SNF,0.0,2.0,0.0,2.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Windemere Park Assisted Living I,MACOMB,HFA,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Windemere Park Health and Rehab Center,MACOMB,SNF,0.0,18.0,0.0,1.0,2.0,15.0,0.0,0.0,Yes
+11-09-2020,Manistee County Medical Care Facility,MANISTEE,SNF,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Eastwood Nursing Center,MARQUETTE,SNF,0.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Marquette County Medical Care Facility,MARQUETTE,SNF,0.0,1.0,0.0,0.0,6.0,13.0,0.0,0.0,Yes
+11-09-2020,Mill Creek Memory Care Community,MARQUETTE,HFA,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Norlite Nursing Center,MARQUETTE,SNF,0.0,26.0,0.0,8.0,1.0,11.0,0.0,0.0,Yes
+11-09-2020,The Lighthouse Ishpeming,MARQUETTE,SNF,0.0,0.0,0.0,0.0,5.0,7.0,0.0,0.0,Yes
+11-09-2020,Ludington Woods Supportive Care,MASON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Ludington,MASON,SNF,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Altercare of Big Rapids,MECOSTA,SNF,0.0,2.0,0.0,1.0,2.0,4.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Big Rapids,MECOSTA,SNF,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Menominee Health Services,MENOMINEE,SNF,0.0,6.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Pinecrest Medical Care Facility,MENOMINEE,SNF,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Roubal Care & Rehab. Center,MENOMINEE,SNF,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Heartland Health Care Center - Dearborn ,WAYNE,SNF,0.0,77.0,0.0,15.0,1.0,33.0,0.0,0.0,Yes
+11-09-2020,Brookdale Midland AL,MIDLAND,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Brookdale Midland MC,MIDLAND,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Candlestone Assisted Living,MIDLAND,HFA,0.0,0.0,0.0,0.0,43.0,45.0,0.0,0.0,Yes
+11-09-2020,Midland King's Daughters Home,MIDLAND,SNF,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Stratford Pines ,MIDLAND,SNF,0.0,1.0,0.0,0.0,4.0,10.0,0.0,0.0,Yes
+11-09-2020,Heartland Health Care Center Allen Park,WAYNE,SNF,0.0,55.0,0.0,11.0,0.0,17.0,0.0,0.0,Yes
+11-09-2020,Brookdale Monroe AL (MI),MONROE,AFC,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Brookdale Monroe MC (MI),MONROE,AFC,0.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Fountain View of Monroe,MONROE,SNF,0.0,3.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Hickory Ridge of Temperance,MONROE,SNF,0.0,1.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Jackman Lodge,MONROE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,McGivney Way,MONROE,HFA,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Promedica Monroe Skilled Nursing & Rehab,MONROE,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Oasis at Monroe Rehabilitation & Nur,MONROE,SNF,0.0,1.0,0.0,0.0,2.0,7.0,0.0,0.0,Yes
+11-09-2020,Vibrant Life Senior Living Sterns Lodge,MONROE,HFA,0.0,13.0,0.0,5.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Wellspring Lutheran Services Monroe,MONROE,SNF,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Heartland Healthcare - Sterling Heights,MACOMB,SNF,0.0,49.0,0.0,13.0,0.0,17.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Greenville,MONTCALM,SNF,0.0,27.0,0.0,3.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Spectrum Health RNC - Kelsey Hospital,MONTCALM,SNF,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Hillman's Haven,MONTMORENCY,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,MediLodge of Hillman,MONTMORENCY,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Christian Care,MUSKEGON,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Christian Care Nursing Center,MUSKEGON,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Dayspring Assisted Living Residence,MUSKEGON,HFA,0.0,9.0,0.0,3.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Hillcrest Nursing & Rehab Community,MUSKEGON,SNF,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Hume Home of Muskegon,MUSKEGON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Lake Woods Nursing and Rehabilitation,MUSKEGON,SNF,0.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Northcrest Assisted Living Community,MUSKEGON,HFA,0.0,19.0,0.0,5.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Roosevelt Park Nursing Centre,MUSKEGON,SNF,0.0,23.0,0.0,6.0,0.0,18.0,0.0,1.0,Yes
+11-09-2020,Sanctuary at the Oaks #1,MUSKEGON,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Sanctuary at the Oaks #2,MUSKEGON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Seminole Shores Assisted Living Center,MUSKEGON,HFA,0.0,11.0,0.0,6.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,SKLD Muskegon,MUSKEGON,SNF,0.0,50.0,0.0,16.0,4.0,32.0,0.0,0.0,Yes
+11-09-2020,The Agape Home,MUSKEGON,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,White Lake Assisted Living,MUSKEGON,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Newaygo Co Medical Care Facility,NEWAYGO,SNF,0.0,1.0,0.0,0.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Transitional Health Services of Fremont,NEWAYGO,SNF,0.0,8.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Anthology of Rochester Hills,OAKLAND,HFA,0.0,7.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Beaumont Rehab & Continuing Care Farming,OAKLAND,SNF,0.0,48.0,0.0,12.0,0.0,13.0,0.0,0.0,Yes
+11-09-2020,"Henry Ford Village, Inc. ",WAYNE,SNF,0.0,22.0,0.0,14.0,0.0,22.0,0.0,0.0,Yes
+11-09-2020,Laurels of Carson City,MONTCALM,SNF,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Brookdale Farmington Hills North I,OAKLAND,HFA,0.0,4.0,0.0,4.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Brookdale Farmington Hills North II,OAKLAND,HFA,0.0,6.0,0.0,5.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Brookdale of Troy MC,OAKLAND,HFA,0.0,6.0,0.0,4.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Brookdale Troy AL,OAKLAND,HFA,0.0,8.0,0.0,5.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Cambrian Senior Living,OAKLAND,HFA,0.0,25.0,0.0,8.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Cambridge North Healthcare Center ,OAKLAND,SNF,0.0,33.0,0.0,17.0,0.0,22.0,0.0,0.0,Yes
+11-09-2020,"Laurels of Fulton, The",GRATIOT,SNF,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,Yes
+11-09-2020,Canterbury on the Lake,OAKLAND,SNF,0.0,33.0,0.0,7.0,4.0,48.0,0.0,0.0,Yes
+11-09-2020,Clarkston Specialty Healthcare Center,OAKLAND,SNF,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Clausen Manor,OAKLAND,AFC,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,CLC House 2,OAKLAND,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,CLC Mary Wagner House,OAKLAND,AFC,0.0,6.0,0.0,3.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor Farmington Hills I,OAKLAND,AFC,0.0,7.0,0.0,3.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor Farmington Hills II,OAKLAND,AFC,0.0,7.0,0.0,2.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor Farmington Hills III,OAKLAND,AFC,0.0,5.0,0.0,1.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor Farmington Hills IV,OAKLAND,AFC,0.0,7.0,0.0,3.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor of Wixom I,OAKLAND,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor of Wixom II,OAKLAND,AFC,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor of Wixom III,OAKLAND,AFC,0.0,5.0,0.0,1.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Courtyard Manor of Wixom IV,OAKLAND,AFC,0.0,15.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Evergreen Health & Living Center,OAKLAND,SNF,0.0,101.0,0.0,7.0,0.0,18.0,0.0,1.0,Yes
+11-09-2020,Farmington Hills Inn,OAKLAND,HFA,0.0,31.0,0.0,9.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Fleischman Residence,OAKLAND,HFA,0.0,24.0,11.0,22.0,0.0,28.0,0.0,0.0,Yes
+11-09-2020,Fox Run Village,OAKLAND,SNF,0.0,2.0,0.0,3.0,1.0,15.0,0.0,0.0,Yes
+11-09-2020,Grace Senior Living,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Greenfield Rehab & Nursing Center,OAKLAND,SNF,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Kelly Community Center,OAKLAND,AFC,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Lahser Hills Care Centre,OAKLAND,SNF,0.0,43.0,0.0,5.0,0.0,44.0,0.0,1.0,Yes
+11-09-2020,Lake Orion Nursing Center,OAKLAND,SNF,0.0,28.0,0.0,6.0,0.0,21.0,0.0,0.0,Yes
+11-09-2020,Lourdes Rehabilitation and Healthcare ,OAKLAND,SNF,0.0,10.0,0.0,2.0,2.0,23.0,0.0,0.0,Yes
+11-09-2020,Maple Manor Rehab Center of Novi,OAKLAND,SNF,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Farmington,OAKLAND,SNF,0.0,31.0,0.0,11.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Milford,OAKLAND,SNF,0.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Southfield,OAKLAND,SNF,0.0,52.0,0.0,21.0,0.0,16.0,0.0,0.0,Yes
+11-09-2020,Mercy Bellbrook/Frances Warde,OAKLAND,AFC,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Mercy Bellbrook/McAuley,OAKLAND,AFC,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Holly,OAKLAND,SNF,0.0,17.0,0.0,7.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,North Meadow,OAKLAND,AFC,0.0,7.0,1.0,2.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Laurels of Sandy Creek,ALLEGAN,SNF,0.0,0.0,0.0,0.0,2.0,7.0,0.0,0.0,Yes
+11-09-2020,Novi Lakes Health Campus,OAKLAND,SNF,0.0,2.0,0.0,0.0,1.0,11.0,0.0,0.0,Yes
+11-09-2020,Oakland Manor Nursing Rehab Center,OAKLAND,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Oakland Nursing Center,OAKLAND,SNF,0.0,2.0,0.0,0.0,2.0,11.0,0.0,0.0,Yes
+11-09-2020,Oakridge Manor Nursing and Rehab Center,OAKLAND,SNF,0.0,18.0,0.0,8.0,2.0,13.0,0.0,0.0,Yes
+11-09-2020,Pomeroy Living - Rochester Skilled,OAKLAND,SNF,0.0,76.0,0.0,0.0,1.0,25.0,0.0,0.0,Yes
+11-09-2020,Pomeroy Living Orion Assisted & Memory Care,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Pomeroy Living Rochester Assisted,OAKLAND,HFA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Notting Hill of West Bloomfield,OAKLAND,SNF,0.0,47.0,0.0,12.0,0.0,18.0,0.0,0.0,Yes
+11-09-2020,Rose Senior Living at Providence Park,OAKLAND,HFA,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Royal Oak House,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Sanctuary at Bellbrook,OAKLAND,HFA,0.0,12.0,0.0,6.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,SKLD - Bloomfield Hills,OAKLAND,SNF,0.0,133.0,0.0,14.0,1.0,19.0,0.0,0.0,Yes
+11-09-2020,SKLD - West Bloomfield,OAKLAND,SNF,0.0,209.0,0.0,14.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,South Stone,OAKLAND,AFC,0.0,7.0,2.0,4.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Southfield Center,OAKLAND,AFC,0.0,7.0,1.0,2.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,St. Anne's Mead Nursing Facility ,OAKLAND,SNF,0.0,15.0,0.0,11.0,0.0,23.0,0.0,0.0,Yes
+11-09-2020,St. Anne's Mead Retirement Home,OAKLAND,HFA,0.0,19.0,0.0,9.0,0.0,18.0,0.0,0.0,Yes
+11-09-2020,St. Elizabeth Briarbank Home for the Aged,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Sunrise of North Farmington Hills,OAKLAND,HFA,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Sunrise of Rochester,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,The Manor of Farmington Hills,OAKLAND,SNF,0.0,63.0,0.0,14.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,Ovid Healthcare Center,CLINTON,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,The Meadows at Canterbury-on-the-Lake,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Mendelson Home,OAKLAND,HFA,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,The Neighborhoods at White Lake,OAKLAND,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,The Neighborhoods of White Lake,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,The Villa at Green Lake Estates,OAKLAND,SNF,0.0,35.0,0.0,7.0,0.0,36.0,0.0,0.0,Yes
+11-09-2020,Townehall Place of West Bloomfield,OAKLAND,HFA,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Villa at Silverbell Estate,OAKLAND,SNF,0.0,47.0,0.0,11.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,Waltonwood at Main,OAKLAND,HFA,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Yes
+11-09-2020,Waltonwood at Royal Oak,OAKLAND,HFA,0.0,19.0,0.0,6.0,0.0,17.0,0.0,0.0,Yes
+11-09-2020,Waltonwood at Twelve Oaks II,OAKLAND,HFA,0.0,5.0,0.0,2.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Waltonwood at University II,OAKLAND,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,"Waterford Oaks Senior Care, Inc.",OAKLAND,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,"Waterford Oaks Senior Care, Inc. West",OAKLAND,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,WellBridge of Clarkston,OAKLAND,SNF,0.0,2.0,0.0,0.0,0.0,12.0,0.0,0.0,Yes
+11-09-2020,WellBridge of Novi,OAKLAND,SNF,0.0,12.0,0.0,5.0,2.0,18.0,0.0,0.0,Yes
+11-09-2020,West Hickory Haven,OAKLAND,SNF,0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Woodward Hills Nursing Center,OAKLAND,SNF,0.0,58.0,0.0,4.0,0.0,19.0,0.0,0.0,Yes
+11-09-2020,Cherry Blossom Manor Inc.,OCEANA,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Spectrum Health Reed City Hospital RNC,OSCEOLA,SNF,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,Yes
+11-09-2020,Wellspring Lutheran Services Fairview,OSCODA,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Gaylord,OTSEGO,SNF,0.0,33.0,0.0,7.0,0.0,24.0,0.0,0.0,Yes
+11-09-2020,Munson Healthcare Otsego Mem Hosp - LTC,OTSEGO,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Porches Of Gaylord,OTSEGO,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Holland Bay Pointe,OTTAWA,AFC,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,AHSL Holland Beachside,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Holland Boardwalk,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Holland Driftwood,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Holland Lakeshore,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Holland Lighthouse,OTTAWA,AFC,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Jenison Beechwood,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Jenison Cherrywood,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Jenison Cottonwood,OTTAWA,AFC,0.0,5.0,0.0,2.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,AHSL Jenison Maplewood,OTTAWA,AFC,0.0,4.0,0.0,1.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,AHSL Jenison Sandalwood,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Jenison Willowood,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,AHSL Spring Lake Pebblebrook,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,AHSL Spring Lake Stoneybrook,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Allendale Nursing & Rehab. Community,OTTAWA,SNF,0.0,2.0,0.0,0.0,0.0,19.0,0.0,0.0,Yes
+11-09-2020,Appledorn ALC North,OTTAWA,HFA,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,Christian Haven Home,OTTAWA,HFA,0.0,32.0,0.0,10.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Freedom Village Holland Assisted Living,OTTAWA,HFA,0.0,1.0,0.0,1.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Grand Pines Assisted Living Center,OTTAWA,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Hallmark Living Holland,OTTAWA,SNF,0.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,Yes
+11-09-2020,Harbor Point Intensive East Unit,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Harbor Point Intensive West Unit,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Heritage Nursing & Rehab. Community,OTTAWA,SNF,0.0,2.0,0.0,0.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,"Inn at Freedom Village, The",OTTAWA,SNF,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Laurels of Hudsonville (The),OTTAWA,SNF,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Maple Woods Cottage,OTTAWA,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Holland,OTTAWA,SNF,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Lamont,OTTAWA,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Pine Ridge Assisted Living Fac,OTTAWA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Resthaven Maple Woods,OTTAWA,HFA,0.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,Yes
+11-09-2020,Riverside Nursing Centre,OTTAWA,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Robbinswood Assisted Living Community,OTTAWA,HFA,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Sheldon Meadows Assisted Living Center,OTTAWA,HFA,0.0,12.0,0.0,9.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Sunset Manor,OTTAWA,HFA,0.0,3.0,0.0,0.0,0.0,10.0,0.0,0.0,Yes
+11-09-2020,The Inn at Freedom Village,OTTAWA,HFA,0.0,8.0,0.0,3.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Waterford Place Assisted Living,OTTAWA,HFA,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Rogers City,PRESQUE ISLE,SNF,0.0,1.0,0.0,0.0,2.0,5.0,0.0,0.0,Yes
+11-09-2020,King Nursing and Rehab Community,ROSCOMMON,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,The Lighthouse At Roscommon,ROSCOMMON,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Avista Nursing and Rehab,SAGINAW,SNF,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Chesaning Nursing & Rehab Center,SAGINAW,SNF,0.0,0.0,0.0,4.0,1.0,10.0,0.0,0.0,Yes
+11-09-2020,Community Village,SAGINAW,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Covenant Healthcare System,SAGINAW,SNF,0.0,8.0,0.0,0.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Great Lakes Rehab Center,SAGINAW,SNF,0.0,37.0,0.0,8.0,1.0,22.0,0.0,0.0,Yes
+11-09-2020,"HealthSource Saginaw, Inc",SAGINAW,SNF,0.0,34.0,0.0,1.0,4.0,71.0,0.0,0.0,Yes
+11-09-2020,Hoyt Nursing & Rehab. Centre,SAGINAW,SNF,0.0,14.0,0.0,8.0,1.0,19.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Frankenmuth,SAGINAW,SNF,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,New Hope Valley,SAGINAW,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,NHIL Operations,SAGINAW,HFA,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Saginaw Senior Care,SAGINAW,SNF,0.0,0.0,0.0,0.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,Samaritas  Senior Living Saginaw,SAGINAW,SNF,0.0,31.0,0.0,12.0,1.0,19.0,0.0,1.0,Yes
+11-09-2020,Shields Comfort Care,SAGINAW,HFA,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,St. Francis Home,SAGINAW,SNF,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,Yes
+11-09-2020,Wellspring Lutheran Frankenmuth,SAGINAW,SNF,0.0,62.0,0.0,28.0,2.0,32.0,0.0,0.0,Yes
+11-09-2020,Marwood Manor Nursing Home,SAINT CLAIR,SNF,0.0,4.0,0.0,0.0,4.0,11.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Port Huron ,SAINT CLAIR,SNF,0.0,28.0,0.0,3.0,0.0,13.0,0.0,0.0,Yes
+11-09-2020,Medilodge of St. Clair,SAINT CLAIR,SNF,0.0,94.0,0.0,23.0,0.0,30.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Yale,SAINT CLAIR,SNF,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,Regency On the Lake - Ft. Gratiot,SAINT CLAIR,SNF,0.0,4.0,0.0,0.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,River Bend #1,SAINT CLAIR,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,River Bend #2,SAINT CLAIR,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,"Sage Creek Senior Living, LLC",SAINT CLAIR,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Sanborn Gratiot Memorial Home,SAINT CLAIR,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Bowman Place,SAINT JOSEPH,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Fairview Living Center,SAINT JOSEPH,SNF,0.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Grace Healthcare of Three Rivers,SAINT JOSEPH,SNF,0.0,39.0,5.0,11.0,2.0,16.0,0.0,0.0,Yes
+11-09-2020,Heartland Health Care Center - Three Riv,SAINT JOSEPH,SNF,0.0,5.0,0.0,2.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,The Villa,SAINT JOSEPH,HFA,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Qualicare Nursing Home,WAYNE,SNF,0.0,58.0,0.0,14.0,0.0,25.0,0.0,0.0,Yes
+11-09-2020,Marlette Community Hospital LTCU,SANILAC,SNF,0.0,1.0,0.0,0.0,6.0,13.0,0.0,0.0,Yes
+11-09-2020,"Stonegate Village Assisted Living, LLC",SANILAC,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Schoolcraft County Medical Care Facility,SCHOOLCRAFT,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Durand Senior Care and Rehab Center,SHIAWASSEE,SNF,0.0,58.0,0.0,14.0,0.0,42.0,0.0,0.0,Yes
+11-09-2020,Memorial Healthcare Center,SHIAWASSEE,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Olive Branch I,SHIAWASSEE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Olive Branch II,SHIAWASSEE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Pleasant View Shiawassee County MCF,SHIAWASSEE,SNF,0.0,17.0,0.0,0.0,0.0,15.0,0.0,0.0,Yes
+11-09-2020,The Meadows,SHIAWASSEE,HFA,0.0,6.0,0.0,3.0,1.0,6.0,0.0,0.0,Yes
+11-09-2020,Fisher Senior Care and Rehabilitation,TUSCOLA,SNF,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Heritage Hill Assisted Living,TUSCOLA,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Northwood Meadows,TUSCOLA,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Graceway at Countryside,VAN BUREN,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,South Haven Nursing & Rehab,VAN BUREN,SNF,0.0,2.0,0.0,0.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Brookdale Ann Arbor,WASHTENAW,HFA,0.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Brookdale W. Eisenhower Pkwy,WASHTENAW,HFA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Care and Rehab Center at Glacier Hills,WASHTENAW,SNF,0.0,16.0,0.0,2.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Chelsea Retirement Community,WASHTENAW,SNF,0.0,41.0,0.0,14.0,1.0,38.0,0.0,0.0,Yes
+11-09-2020,Chelsea Retirement Community HFA,WASHTENAW,HFA,0.0,4.0,0.0,3.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Gilbert Residence,WASHTENAW,SNF,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Heartland HCC - Ann Arbor,WASHTENAW,SNF,0.0,17.0,0.0,2.0,4.0,24.0,0.0,0.0,Yes
+11-09-2020,Hillside Terrace,WASHTENAW,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Linden Square Assisted Living,WASHTENAW,HFA,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Yes
+11-09-2020,Regency At Bluffs Park,WASHTENAW,SNF,0.0,5.0,0.0,4.0,1.0,9.0,0.0,0.0,Yes
+11-09-2020,Renaissance House,WASHTENAW,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,St. Joseph's Village  #1,WASHTENAW,AFC,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,St. Joseph's Village #2,WASHTENAW,AFC,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Superior Woods Healthcare,WASHTENAW,SNF,0.0,44.0,0.0,13.0,0.0,13.0,0.0,0.0,Yes
+11-09-2020,The Gilbert Residence,WASHTENAW,HFA,0.0,19.0,0.0,4.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,The Villa at Parkridge,WASHTENAW,SNF,0.0,32.0,0.0,25.0,0.0,26.0,0.0,1.0,Yes
+11-09-2020,Aberdeen Rehab and Skilled Nursing Ctr,WAYNE,SNF,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Addington Place,WAYNE,HFA,0.0,10.0,0.0,6.0,1.0,7.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center - Samaritan,WAYNE,SNF,0.0,52.0,0.0,20.0,0.0,21.0,0.0,1.0,Yes
+11-09-2020,Advantage Living Center Northwest,WAYNE,SNF,0.0,66.0,0.0,20.0,0.0,27.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center Redford,WAYNE,SNF,0.0,29.0,0.0,4.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center Southgate,WAYNE,SNF,0.0,40.0,0.0,6.0,1.0,8.0,0.0,0.0,Yes
+11-09-2020,Advantage Living Center-Redford Village,WAYNE,HFA,0.0,10.0,0.0,0.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,"Ambassador, A Villa Center",WAYNE,SNF,0.0,76.0,0.0,28.0,0.0,62.0,0.0,0.0,Yes
+11-09-2020,"Applewood Nursing Center, Inc.",WAYNE,SNF,0.0,68.0,0.0,9.0,1.0,36.0,0.0,0.0,Yes
+11-09-2020,Arden Courts of Livonia,WAYNE,HFA,0.0,15.0,0.0,11.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Beaconshire Nursing Center,WAYNE,SNF,0.0,47.0,0.0,7.0,0.0,19.0,0.0,1.0,Yes
+11-09-2020,Belle Fountain Nursing & Rehab Center,WAYNE,SNF,0.0,34.0,0.0,6.0,0.0,29.0,0.0,0.0,Yes
+11-09-2020,"Boulevard Manor, LLC",WAYNE,SNF,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Regency at Lansing West,EATON,SNF,0.0,10.0,0.0,2.0,2.0,12.0,0.0,0.0,Yes
+11-09-2020,Brookdale Northville,WAYNE,HFA,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Fairlane Senior Care and Rehab Center,WAYNE,SNF,0.0,102.0,0.0,24.0,0.0,60.0,0.0,0.0,Yes
+11-09-2020,Fountain Bleu Health & Rehabilitation ,WAYNE,SNF,0.0,37.0,0.0,5.0,0.0,12.0,0.0,0.0,Yes
+11-09-2020,Four Chaplains Nursing Care Center,WAYNE,SNF,0.0,43.0,0.0,6.0,0.0,35.0,0.0,1.0,Yes
+11-09-2020,Four Seasons Nursing Center of Westland,WAYNE,SNF,0.0,8.0,0.0,5.0,0.0,23.0,0.0,0.0,Yes
+11-09-2020,Glen Abbey Assisted Living,WAYNE,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Hamilton Nursing Home,WAYNE,SNF,0.0,30.0,0.0,7.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Hancock Residential Center,WAYNE,AFC,0.0,5.0,0.0,2.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Harbor Point Dearborn Heights,WAYNE,AFC,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Regency at Waterford,OAKLAND,SNF,0.0,2.0,0.0,1.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Regency At Whitmore Lake,WASHTENAW,SNF,0.0,24.0,0.0,0.0,1.0,4.0,0.0,0.0,Yes
+11-09-2020,Regency Heights Nursing Center Detroit,WAYNE,SNF,0.0,90.0,0.0,32.0,0.0,45.0,0.0,0.0,Yes
+11-09-2020,Riverview Health and Rehab Ctr,WAYNE,SNF,0.0,57.0,0.0,18.0,1.0,38.0,0.0,0.0,Yes
+11-09-2020,Heartland Health Care Center-Livonia,WAYNE,SNF,0.0,61.0,0.0,8.0,0.0,11.0,0.0,0.0,Yes
+11-09-2020,Heritage Manor Nursing and Rehab Center,WAYNE,SNF,0.0,19.0,0.0,3.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,"Imperial, A Villa Center",WAYNE,SNF,0.0,105.0,0.0,19.0,1.0,14.0,0.0,0.0,Yes
+11-09-2020,Ivy Cottage,WAYNE,AFC,0.0,12.0,0.0,4.0,0.0,13.0,0.0,0.0,Yes
+11-09-2020,Lewis Manor Central,WAYNE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Lewis Manor East,WAYNE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Lewis Manor NW,WAYNE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Lewis Manor West,WAYNE,AFC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Livonia Woods Nursing and Rehabilitation,WAYNE,SNF,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Yes
+11-09-2020,Maple Manor Rehab Center,WAYNE,SNF,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,Yes
+11-09-2020,Marycrest Manor,WAYNE,SNF,0.0,12.0,0.0,3.0,0.0,21.0,0.0,0.0,Yes
+11-09-2020,Marywood Nursing Care Center,WAYNE,SNF,0.0,25.0,0.0,2.0,1.0,18.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Plymouth ,WAYNE,SNF,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,Yes
+11-09-2020,Medilodge of Taylor,WAYNE,SNF,0.0,38.0,0.0,13.0,2.0,31.0,0.0,0.0,Yes
+11-09-2020,Michigan House Senior Living,WAYNE,HFA,0.0,5.0,0.0,2.0,0.0,6.0,0.0,0.0,Yes
+11-09-2020,Mission Point of Detroit Nursing & Rehab,WAYNE,SNF,0.0,21.0,0.0,7.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,NeuroCare Center South,WAYNE,AFC,0.0,3.0,0.0,1.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Newburgh Manor,WAYNE,HFA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Oakpointe Senior Care and Rehab Center,WAYNE,SNF,0.0,56.0,0.0,15.0,0.0,8.0,0.0,0.0,Yes
+11-09-2020,Omni Continuing Care,WAYNE,SNF,0.0,27.0,0.0,10.0,1.0,22.0,0.0,2.0,Yes
+11-09-2020,Pine Creek Manor Skilled Nursing & Rehab,WAYNE,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Pomeroy Living Northville Assisted & Memory Care,WAYNE,HFA,0.0,15.0,0.0,8.0,0.0,10.0,0.0,1.0,Yes
+11-09-2020,Special Tree Neurocare Center,WAYNE,SNF,0.0,6.0,0.0,2.0,0.0,14.0,0.0,0.0,Yes
+11-09-2020,Regency A Villa Center ,WAYNE,SNF,0.0,223.0,1.0,17.0,2.0,26.0,1.0,1.0,Yes
+11-09-2020,Regency At Canton,WAYNE,SNF,0.0,50.0,0.0,10.0,0.0,12.0,0.0,0.0,Yes
+11-09-2020,St. Anthony Nursing Healthcare,MACOMB,SNF,0.0,87.0,0.0,19.0,0.0,18.0,0.0,0.0,Yes
+11-09-2020,Regency At Livonia,WAYNE,SNF,0.0,47.0,0.0,20.0,1.0,26.0,0.0,1.0,Yes
+11-09-2020,Regency at Westland,WAYNE,SNF,0.0,42.0,0.0,7.0,1.0,14.0,0.0,0.0,Yes
+11-09-2020,The Manor of Novi,OAKLAND,SNF,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,Rivergate Terrace,WAYNE,SNF,0.0,72.0,0.0,37.0,1.0,37.0,0.0,1.0,Yes
+11-09-2020,The Villa At City Center,MACOMB,SNF,0.0,59.0,0.0,17.0,0.0,27.0,0.0,0.0,Yes
+11-09-2020,Riverview Health and Rehab Ctr North,WAYNE,SNF,0.0,91.0,0.0,29.0,0.0,28.0,0.0,0.0,Yes
+11-09-2020,Rose Cottage,WAYNE,AFC,0.0,10.0,0.0,3.0,0.0,13.0,0.0,0.0,Yes
+11-09-2020,SKLD Livonia ,WAYNE,SNF,0.0,45.0,0.0,13.0,0.0,13.0,0.0,0.0,Yes
+11-09-2020,SKLD Plymouth,WAYNE,SNF,0.0,53.0,0.0,7.0,0.0,17.0,0.0,0.0,Yes
+11-09-2020,St. James Nursing Center,WAYNE,SNF,0.0,64.0,0.0,13.0,0.0,23.0,0.0,0.0,Yes
+11-09-2020,"St. Joseph's, A Villa Center",WAYNE,SNF,0.0,39.0,0.0,3.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Star Manor of Northville,WAYNE,SNF,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Sunrise of Grosse Pointe Woods,WAYNE,HFA,0.0,5.0,0.0,3.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,Sunrise on Vernier,WAYNE,HFA,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Yes
+11-09-2020,The Bay at Cranbrook Health and Rehab,WAYNE,SNF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yes
+11-09-2020,The Bay at Elmwood Health and Rehab,WAYNE,SNF,0.0,35.0,0.0,23.0,0.0,10.0,0.0,1.0,Yes
+11-09-2020,The Bay at Woodward Health and Rehab,WAYNE,SNF,0.0,35.0,0.0,14.0,0.0,24.0,0.0,0.0,Yes
+11-09-2020,The Lodge at Taylor,WAYNE,SNF,0.0,71.0,0.0,12.0,3.0,13.0,0.0,0.0,Yes
+11-09-2020,The Villa at Great Lakes Crossing,WAYNE,SNF,0.0,61.0,0.0,17.0,1.0,26.0,0.0,0.0,Yes
+11-09-2020,The Villa at the Park,WAYNE,SNF,0.0,47.0,0.0,3.0,0.0,19.0,0.0,0.0,Yes
+11-09-2020,West Oaks Senior Care and Rehab,WAYNE,SNF,0.0,52.0,0.0,0.0,0.0,20.0,0.0,0.0,Yes
+11-09-2020,"Westland, A Villa Center",WAYNE,SNF,0.0,162.0,2.0,35.0,1.0,26.0,0.0,0.0,Yes
+11-09-2020,Westwood Nursing Center,WAYNE,SNF,0.0,35.0,0.0,3.0,0.0,7.0,0.0,0.0,Yes
+11-09-2020,Woodhaven Retirement Community,WAYNE,HFA,0.0,12.0,0.0,6.0,0.0,3.0,0.0,0.0,Yes
+11-09-2020,Woodhaven Retirement Community ,WAYNE,SNF,0.0,20.0,0.0,1.0,0.0,18.0,0.0,0.0,Yes
+11-09-2020,Samaritas Senior Living Cadillac,WEXFORD,SNF,0.0,3.0,0.0,0.0,0.0,4.0,0.0,0.0,Yes
+11-09-2020,Beacon Home at The Oaks,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country Liv - Inn Inc,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Golden Orchards I,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Golden Orchards II,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Wayland,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Wayland II,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Maplewood of Sandy Creek,ALLEGAN,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Serenity Homes East,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Serenity Homes West,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stanford Lodge,ALLEGAN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vicinia Gardens of Otsego,ALLEGAN,HFA,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,William Crispe Community House,ALLEGAN,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Besser Senior Living Community,ALPENA,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sally's Care Home I,ALPENA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Turning Brook,ALPENA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Turning Brook II,ALPENA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Turning Brook III,ALPENA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eastport Village Care Home,ANTRIM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Augres Care Center,ARENAC,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eden Fields  Memory Care,ARENAC,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eden Fields Assisted Living,ARENAC,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Horizon Senior Living IV,ARENAC,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,AC Flower House LLC,BARRY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Carveth Village of Middleville,BARRY,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stoneridge AFC,BARRY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Auburn Fields Assisted Living II, LLC",BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Auburn Heights Senior Care, Inc.",BAY,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Bay Valley AFC Inc.,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Charter Senior Living at Bay City 1,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Charter Senior Living at Bay City 2,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Close To Home Assisted Living Hampton,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Close To Home Assisted Living Riegel,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Close To Home Assisted Living Riegel II,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country Square AFC,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Leighton House Inn Bay City,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Monet House Inn Bay City,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Hope Bay West,BAY,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"New Hope Bay, LLC",BAY,HFA,,0.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Plainview Assisted Living,BAY,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Rachel Sovereign Memorial Home,BAY,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sheffield Bay,BAY,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Crystal View AFC,BENZIE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Beacon Home at Beacon Springs East,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Beacon Home at Beacon Springs West,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Blessed Home AFC,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bridgman Retirement Home #2,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Buchanan Meadows Living Center #1,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Buchanan Meadows Living Center #2,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Forest Beach Home Inc,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Golden Age Manor,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Golden Shore,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Harvest Home,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Serenity Shore Assisted Living Facility,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Willows Assisted Living #1,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Willows Assisted Living #2,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Willows Assisted Living #3,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Willows Assisted Living #4,BERRIEN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Drews Place Of Coldwater,BRANCH,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Drews Place of Coldwater II,BRANCH,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grand Vista,BRANCH,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Battle Creek Bickford Cottage,CALHOUN,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Battle Creek AL (MI),CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Battle Creek MC (MI),CALHOUN,AFC,,1.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Care Community,CALHOUN,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grand Vista Of Marshall,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grand Vista Of Marshall 2,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Haven AFC,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Infinity AFC,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Kambly Living Center East,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Kambly Living Center West,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Parkview Residence,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pennfield Premier Living North,CALHOUN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Legacy at the Oaks,CALHOUN,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Horizon Senior Living II,CLARE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,McBride Main Street Living,CLARE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pioneer Golden Estates Assisted Living,CLARE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pioneer Golden Estates C,CLARE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pioneer Golden Estates Memory Care,CLARE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Prestige Place I,CLARE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Prestige Place II,CLARE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Addie's Acres, LLC",CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place of DeWitt Ste 3,CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place of DeWitt Ste 2,CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grace Haven Assisted Living-Specialized Care,CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grace Haven Assisted Living-Supportive Care,CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Gunnisonville Meadows,CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Woodlands Of DeWitt,CLINTON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Vista Springs Timber Ridge, LLC 1",CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Vista Springs Timber Ridge, LLC 2",CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Vista Springs Timber Ridge, LLC 3",CLINTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Northern Pines Assisted Living,CRAWFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bridgewood Central,DELTA,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Cedar Hill Assisted Living & Senior Housing,DELTA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Lakeview Assisted Living AFC,DELTA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Lakeview Assisted Living II,DELTA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Lakeview Assisted Living IV, LLC",DELTA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Murrays Country View,DELTA,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,St. Jude's AFC Home,DELTA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Belgium Pointe,DICKINSON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fairview AFC,EATON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fairview Grand,EATON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hope Landing,EATON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Life Assisted Living Center Lansing 1,EATON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Life Assisted Living Center Lansing 2,EATON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"River Inn AFC, Inc.",EATON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sensations,EATON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Mallard Cove Assisted Living,EMMET,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Mallard Cove East,EMMET,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place of Grand Blanc 1,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place of Grand Blanc II,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Americana Seniors 1,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Americana Seniors 2,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bella Vita of Grand Blanc,GENESEE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bentley Manor #8,GENESEE,AFC,,3.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Grand Blanc AL,GENESEE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Courtyard Manor of Fenton,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Courtyard Manor of Swartz Creek,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cranberry Park III,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cranberry Park Memory Of Clio,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cranberry Park Of Clio,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Flatrock Manor of Burton,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Flatrock Manor of Burton East,GENESEE,AFC,,3.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Flatrock Manor of Fenton,GENESEE,AFC,,1.0,,0.0,,5.0,,0.0,Yes
+11-09-2020,Fostrian Court Assisted Living,GENESEE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grand Blanc Fields Assisted Living,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Gross AFC,GENESEE,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Gross Assisted Living,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Group Living Facility Inc,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hampton Manor Davison 1,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hampton Manor Davison 2,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hampton Manor Of Davison III,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Harmony Manor,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,JJS AFC LLC,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Landings of Genesee Valley,GENESEE,HFA,,2.0,,2.0,,1.0,,0.0,Yes
+11-09-2020,Maple Place,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Marie Manor,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,McFarlan Home,GENESEE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Paragon NPHC,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pearl Manor,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sugarbush Manor,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Swank Home Assisted Living,GENESEE,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,The Oaks at Woodfield HFA,GENESEE,HFA,,1.0,,0.0,,7.0,,0.0,Yes
+11-09-2020,The Pines Of Burton,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Pines Of Burton - Memory,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Pines Of Burton Memory - South,GENESEE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Pines Of Goodrich,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Pines Of Goodrich Memory,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Riverglens,GENESEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Horizon Senior Living V,GLADWIN,AFC,,1.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Horizon Senior Living VI,GLADWIN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Keen Agers Inc Afc,GOGEBIC,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Westgate Living Center,GOGEBIC,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bay Ridge Assisted Living,GRAND TRAVERSE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Boardman Lake Glens:  Brigadoon,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Boardman Lake Glens:  Inverness,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cherry Hill Haven,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cherry Hill Haven III,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Culver Meadows Adult Foster Care,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Culver Meadows Senior Living,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Joy Givers, Inc.",GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meadow Hill AFC,GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"West Shore AFC Home, LLC",GRAND TRAVERSE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country Friends Assisted Living,GRATIOT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Ithaca AFC,GRATIOT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Rosewood I,GRATIOT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Wallace St Assisted Living Center,GRATIOT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country Living Of Hillsdale  LLC,HILLSDALE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Country Living of Hillsdale, LLC",HILLSDALE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Drews Place at Village Green,HILLSDALE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Drews Place at Village Green II,HILLSDALE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Drews Place Of Hillsdale Inc,HILLSDALE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Maple Ridge Farms Assisted Living,HILLSDALE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Haven,HILLSDALE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Gardenview,HOUGHTON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country Gardens,HURON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Karen's Place,HURON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Medallion Village AFC,HURON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Osantoski Inc,HURON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bridges Crisis Unit (AFC),INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cedarwood Residential Services,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Crafts Care Homes,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Divine Nest Assisted Living, LLC",INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,East Oak Residents Home,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Elder Ridge Manor II, LLC",INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grandhaven Living Center,INGHAM,AFC,,0.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,Grandhaven Living Center 1,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grandhaven Living Center 2,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grandhaven Living Center 3,INGHAM,AFC,,0.0,,0.0,,4.0,,0.0,Yes
+11-09-2020,Grandhaven Living Center 4,INGHAM,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Green Acres Mason,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres Retirement Living Mason,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Haven Of Rest,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,M.A.C. House,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Life Assisted Living Center Haslett 1,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Life Assisted Living Center Haslett 2,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Prestige Way #1,INGHAM,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Prestige Way #2,INGHAM,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Safe Haven Assisted Living Of Haslett,INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Legacy at The Willows,INGHAM,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Willows at East Lansing HFA,INGHAM,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Willows at Okemos HFA,INGHAM,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Walnut Ridge Country Estate, LLC",INGHAM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Gibbs Adult Care Hubbardston,IONIA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Ionia,IONIA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Harrison House AFC,IONIA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Portland Assisted Living & Memory Center,IONIA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hale Creek Manor,IOSCO,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Oscoda Assisted Living, LLC",IOSCO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country Place Senior Care Center,ISABELLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres Mt. Pleasant I,ISABELLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Mt. Pleasant III,ISABELLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Margarets Meadows,ISABELLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Prestige Centre I,ISABELLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Prestige Centre II,ISABELLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stone Lodge Supportive Senior Living,ISABELLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Arbor Woods Assisted Lvg,JACKSON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brightside Assisted Living & Memory Care,JACKSON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country Living AFC,JACKSON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,John George Home,JACKSON,HFA,,20.0,,0.0,,9.0,,0.0,Yes
+11-09-2020,Legacy Assisted Living,JACKSON,HFA,,0.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,Turner Powers AFC Home,JACKSON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Amber Way,KALAMAZOO,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Birch Cottage I,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Birch Cottage II,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Portage MC,KALAMAZOO,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Directors Hall,KALAMAZOO,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fountain View Ret Vil 0f Port #2,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fountain View Ret Vil of Port #1,KALAMAZOO,AFC,,17.0,,12.0,,12.0,,0.0,Yes
+11-09-2020,Nazareth Center,KALAMAZOO,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Friends Dementia Community 1,KALAMAZOO,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,New Friends Dementia Community 2,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Friends Dementia Community 3,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Park Place Living Center #E,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Park Place Living Centre #A,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Park Place Living Centre #B,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Park Place Living Centre #C,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Park Place Living Centre #D,KALAMAZOO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Park Village Pines,KALAMAZOO,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Wyndham West,KALAMAZOO,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Kalkaska Memorial Assisted Living,KALKASKA,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meadow View AFC,KALKASKA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place at East Paris #3,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place at East Paris #5,KENT,AFC,,0.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Addington Place at East Paris #6,KENT,AFC,,0.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Addington Place at East Paris #7,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place at East Paris #8,KENT,AFC,,3.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Addington Place of Grand Rapids Bay Pointe,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place of Grand Rapids Nantucket,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place of Grand Rapids Peace Harbor,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Addington Place of Grand Rapids Seaside,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Alger Heights - North,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Azpira Place Of Breton,KENT,HFA,,0.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Bishop Hills Elder Care,KENT,HFA,,1.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Byron Center Manor II,KENT,AFC,,17.0,,1.0,,6.0,,0.0,Yes
+11-09-2020,Byron Center Manor III,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Byron Center Manor IV,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Byron Center Manor V,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cascade Trails Senior Living,KENT,HFA,,0.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Covenant Village of the Great Lakes HFA,KENT,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fountain View of Lowell North,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fountain View of Lowell South,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Gladiola Home,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grand Brook Memory Care,KENT,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres Lowell,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Cedar Springs,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Lowell III,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Holland Home Raybrook Manor,KENT,HFA,,20.0,,1.0,,14.0,,0.0,Yes
+11-09-2020,Legacies Assisted Living B1,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Living Well-Adult Living Facility,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Michigan Christian Home Beacon Hill at Eastgate,KENT,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,North Crossing AFC,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pilgrim Manor HFA,KENT,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Provision Living at Forest Hills,KENT,HFA,,0.0,,0.0,,3.0,,1.0,Yes
+11-09-2020,Railside Assisted Living Center,KENT,HFA,,0.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,Ramsdell AFC,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Rivertown Ridge,KENT,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Samaritas Senior Living Grand Rapids Woods,KENT,HFA,,34.0,,2.0,,16.0,,0.0,Yes
+11-09-2020,Sojourners Transitional Living,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,St. Ann's Home,KENT,HFA,,18.0,,3.0,,10.0,,0.0,Yes
+11-09-2020,Stonebridge Manor - North,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stonebridge Manor - South,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,StoryPoint of Rockford,KENT,HFA,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Thresholds Benson Home,KENT,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Thresholds Eastern Group Home,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Villa East Group Home,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vista Springs Ctr/Memory Care & Rediscovery,KENT,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vista Springs Riverside Gardens,KENT,HFA,,27.0,,5.0,,17.0,,0.0,Yes
+11-09-2020,Vista Springs Terrace Cove,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vista Springs Terrace Harbor,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vista Springs The Lodge,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vista Springs Wyoming,KENT,HFA,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Willow Creek - East,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Willow Grove,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Yorkshire Manor - East,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Yorkshire Manor - West,KENT,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Angela's House Assisted Living,LAPEER,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Angela's House Assisted Living II,LAPEER,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bolton Brook Manor,LAPEER,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Metacare Inc.,LAPEER,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stonegate Health Campus HFA,LAPEER,HFA,,0.0,,0.0,,5.0,,0.0,Yes
+11-09-2020,The Pines Of Lapeer,LAPEER,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Pines Of Lapeer- Memory Care,LAPEER,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Whispering Pines Afc,LAPEER,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Northport Highlands,LEELANAU,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Blissfield Place,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Adrian,LENAWEE,HFA,,4.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Citizens for Quality Care Morenc,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Coleman Foundation Unit A,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Coleman Foundation Unit B,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Country House Care,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Gaslight Village Assisted,LENAWEE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Montgomery Manor,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,ProMedica Charlotte Stephenson Manor,LENAWEE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Tecumseh Place I,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Tecumseh Place II,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Fieldstone at Tecumseh,LENAWEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Ashley Court -Bldg # 2,LIVINGSTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Ashley Court -Bldg # 3,LIVINGSTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Ashley Court -Bldg # 4,LIVINGSTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bella Vita of Hartland,LIVINGSTON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brighton Manor,LIVINGSTON,HFA,,1.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Quality Care Of Howell 2,LIVINGSTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Quality Care of Howell I,LIVINGSTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Willows at Howell,LIVINGSTON,HFA,,0.0,,0.0,,8.0,,0.0,Yes
+11-09-2020,Van Gogh House Inn Brighton,LIVINGSTON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Castle Rock Retirement Center,MACKINAC,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cedar Cove Manor,MACKINAC,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,American House Roseville,MACOMB,HFA,,10.0,,8.0,,4.0,,0.0,Yes
+11-09-2020,Angelica's Place,MACOMB,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Beechwood Manor Inc.,MACOMB,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Utica AL,MACOMB,HFA,,7.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Clinton Creek Assisted Living & Memory Care,MACOMB,HFA,,3.0,,2.0,,3.0,,0.0,Yes
+11-09-2020,Dawns Center for Seniors,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Grace Premier Assisted Living,MACOMB,HFA,,2.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,Hampton Manor of Shelby,MACOMB,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Haven Adult Foster Care Home,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Legacy at Orchard Grove,MACOMB,HFA,,0.0,,0.0,,4.0,,0.0,Yes
+11-09-2020,Leisure Manor Residence For Srs,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Marys Senior Center,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meadow Ridge Assisted Living,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meadows Assisted Living I,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meadows Assisted Living II,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Moore AFC Home,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,My Doctors Inn,MACOMB,HFA,,8.0,,8.0,,11.0,,8.0,Yes
+11-09-2020,Oakleigh of Macomb,MACOMB,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Orchard Grove Health Campus HFA,MACOMB,HFA,,0.0,,0.0,,4.0,,0.0,Yes
+11-09-2020,Pine View Assisted Living,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Prestige Commons I,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Prestige Commons II,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence Of Sterling Heights I,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence Of Sterling Heights II,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence of Sterling Heights III,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence Of Sterling Heights IV,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Serenity Village II,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Serenity Village III,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Shelby Crossing Health Campus HFA,MACOMB,HFA,,11.0,,5.0,,18.0,,0.0,Yes
+11-09-2020,Sunrise Assisted Living of Shelby Twp.,MACOMB,HFA,,0.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,The Arbor Inn,MACOMB,HFA,,14.0,,4.0,,3.0,,0.0,Yes
+11-09-2020,The Legacy at Shelby Crossing,MACOMB,HFA,,16.0,,6.0,,18.0,,0.0,Yes
+11-09-2020,The Villages Community,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Young Home,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Torrey Pines House of Bread,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Town Village Sterling Hgts - The Gem Memory Care,MACOMB,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Woodward's Assisted Living,MACOMB,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres Retirement Living Manistee,MANISTEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookridge Heights Assist,MARQUETTE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sundara West Nphc,MARQUETTE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Teal Lake Senior Living Community, Inc",MARQUETTE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Ludington Woods Specialized Care,MASON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Willowbrook Care Home,MASON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Evergreen Terrace Assisted Living,MECOSTA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Applewood Assisted Living,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cascade Senior Living II,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cascades Senior Living III,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Coleman Fields Assisted Living,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Kindy Care Home,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meridian Acres #1,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meridian Acres #2,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Midland Bickford Cottage,MIDLAND,HFA,,1.0,,1.0,,0.0,,0.0,Yes
+11-09-2020,Midland King's Daughters Home HFA,MIDLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Nottingham Place,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Olson Manor,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pinecrest Farms,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Primrose of Midland,MIDLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Rhoda's House,MIDLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,StoryPoint of Midland,MIDLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Magnolia Care AFC West,MISSAUKEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Maple Ridge Living Center,MISSAUKEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Ranch Wellness Center,MISSAUKEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Alice Lorraine Care Center,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Alice Lorraine Care Center - 2,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Aspen Grove Assisted Living,MONROE,HFA,,40.0,,4.0,,16.0,,0.0,Yes
+11-09-2020,Elm House,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fairview County Infirmary,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hampton Manor of Dundee 1,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hampton Manor of Dundee 2,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hampton Manor of Dundee 3,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hampton Manor of Dundee 4,MONROE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Golden Life AFC #3,MONTCALM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Greenville,MONTCALM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres-Supportive Care,MONTCALM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Greenville Acres Adult Care,MONTCALM,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Lakeview Terrace Assisted,MONTCALM,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Chestnut Fields Retirement Community,MUSKEGON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hallstrom Castle Assisted Living,MUSKEGON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Cove at Lake Woods,MUSKEGON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Walker House AFC,MUSKEGON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fountain View Retirement Village Grant,NEWAYGO,HFA,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Fountainview Ret Vil Fremont I,NEWAYGO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Fremont,NEWAYGO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres Of Fremont II,NEWAYGO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,American House Rochester Hills,OAKLAND,HFA,,5.0,,2.0,,5.0,,0.0,Yes
+11-09-2020,Anthology of Troy,OAKLAND,HFA,,22.0,,12.0,,10.0,,0.0,Yes
+11-09-2020,Arden Courts of Bingham Farms,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Autumn Ridge of Clarkston 1,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Autumn Ridge of Clarkston 2,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Autumn Ridge of Clarkston HFA,OAKLAND,HFA,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Beehive Homes of Oxford,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Belmar Oakland,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Blossom Ridge,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Campbell Personal Care Hm #4,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Caremore Assisted Living,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cedarbrook Of Bloomfield Hills HFA,OAKLAND,HFA,,0.0,,2.0,,13.0,,0.0,Yes
+11-09-2020,Cedarbrook Of Rochester,OAKLAND,HFA,,2.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Chamberlain House,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cranberry Park Of Milford,OAKLAND,HFA,,3.0,,0.0,,5.0,,0.0,Yes
+11-09-2020,First & Main of Auburn Hills,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,First & Main of Bloomfield Township,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,First & Main of Commerce Township,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Freedom Haven,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Heather Pines,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Irvine Neuro Rehabilitation Center,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Jewish Apt. & Ser. - Coville I,OAKLAND,AFC,,4.0,,0.0,,14.0,,0.0,Yes
+11-09-2020,Jewish Apt. & Ser. Coville III,OAKLAND,AFC,,4.0,,1.0,,14.0,,0.0,Yes
+11-09-2020,Jewish Apt. & Services- Coville II,OAKLAND,AFC,,3.0,,1.0,,14.0,,0.0,Yes
+11-09-2020,Lakeside Manor Inc,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Natures Way AFC Home,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Novi Lakes Health Campus HFA,OAKLAND,HFA,,2.0,,0.0,,11.0,,0.0,Yes
+11-09-2020,Pine Tree Place,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Polk House,OAKLAND,AFC,,1.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Provision Living at West Bloomfield,OAKLAND,HFA,,0.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,Quality AFC #1,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Quality AFC #2,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence Of Auburn Hills I,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence of Auburn Hills II,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence of Auburn Hills III,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Randall Residence of Auburn Hills IV,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Renaissance Gardens at Fox Run,OAKLAND,HFA,,18.0,,10.0,,8.0,,0.0,Yes
+11-09-2020,Resource & Crisis Center,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sandyside Senior Living,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stratford Place,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stratford Place Of Rochester Hills Memory Care,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sun Valley Senior Living,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sunrise Assisted Living of Bloomfield,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sunrise Assisted Living Of Bloomfield Hills,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sunrise Assisted Living of Troy,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sunrise Of West Bloomfield,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Haworth Center,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Legacy at Westlake,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Pines of Clarkston,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Pines Of Clarkston Memory Care,OAKLAND,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Sheridan at Birmingham,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vista Springs Trillium Village,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Westlake Health Campus HFA,OAKLAND,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The River,OCEANA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Horizon Senior Living III,OGEMAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Reed City Fields Assisted Living II,OSCEOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Reed City Fields Assisted Living III,OSCEOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Aspen Ridge Retirement Village 1,OTSEGO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Aspen Ridge Retirement Village 2,OTSEGO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,AUGUST HAUS ASSISTED LIVING LLC,OTSEGO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Woodland Acres LLC,OTSEGO,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Appledorn Assisted Living Center,OTTAWA,HFA,,0.0,,0.0,,5.0,,0.0,Yes
+11-09-2020,Cambridge Manor - North,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cambridge Manor - South,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,FV Ret Vill Of Coopersville #1,OTTAWA,AFC,,3.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,FV Ret Vill Of Coopersville #2,OTTAWA,AFC,,1.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,FV Ret Vill Of Coopersville #3,OTTAWA,AFC,,3.0,,0.0,,4.0,,0.0,Yes
+11-09-2020,Georgetown Manor - East,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Georgetown Manor - West,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Allendale,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Standale,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres of Standale II,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Harbor House Beacon Place,OTTAWA,AFC,,0.0,,0.0,,4.0,,0.0,Yes
+11-09-2020,Serenity Homes - North,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Seville,OTTAWA,AFC,,0.0,,0.0,,3.0,,0.0,Yes
+11-09-2020,Simarron AFC Home,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,St. James's Gate,OTTAWA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vista Springs Holland Meadows,OTTAWA,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Golden Beach Manor,PRESQUE ISLE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Mapleview AFC Home,ROSCOMMON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Horizon Senior Living,ROSCOMMON,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Barton Woods Assisted Living,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Barton Woods Assisted Living East,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bavarian Comfort Care,SAGINAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Birch Run Fields Assisted Living,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Saginaw AL,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brookdale Saginaw MC,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Chesaning Comfort Care,SAGINAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Close to Home Assisted Living Saginaw Side 1,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Close to Home Assisted Living Saginaw Side 2,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Close to Home Assisted Living Saginaw Side 3,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Covenant Glen Memory Care,SAGINAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Covenant Glen of Frankenmuth,SAGINAW,HFA,,3.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Edgewood Assisted Living Center,SAGINAW,HFA,,6.0,,4.0,,14.0,,0.0,Yes
+11-09-2020,Lous Adult Foster Care Home,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meadow View North,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meadow View South,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Meiser AFC Home,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Merrill Fields Assisted Living,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Pine Haven Assisted Living LLC, AFC",SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Saginaw Bickford Cottage,SAGINAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Serenity Springs,SAGINAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stone Crest Senior Living-Wing A,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stone Crest Senior Living-Wing B,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Roosevelt House,SAGINAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Union Court Assisted Living,SAGINAW,HFA,,1.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,Union Court Assisted Living of Chesaning,SAGINAW,HFA,,3.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Lakeshore Woods,SAINT CLAIR,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Lakeshore Woods II,SAINT CLAIR,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Mercy Village #1,SAINT CLAIR,AFC,,1.0,,1.0,,0.0,,0.0,Yes
+11-09-2020,Mercy Village #2,SAINT CLAIR,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Wadhams Creek,SAINT CLAIR,AFC,,8.0,,4.0,,3.0,,0.0,Yes
+11-09-2020,"Birch Meadows AFC, Inc.",SAINT JOSEPH,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Martinez Manor,SANILAC,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Lodge of Durand MC North,SHIAWASSEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Lodge of Durand MC South,SHIAWASSEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Oliver Woods #4,SHIAWASSEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Oliver Woods 1,SHIAWASSEE,AFC,,2.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Oliver Woods 2,SHIAWASSEE,AFC,,2.0,,0.0,,4.0,,0.0,Yes
+11-09-2020,Oliver Woods 3,SHIAWASSEE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Carey's Young at Heart,TUSCOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hilltop House,TUSCOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Satchell's Christian Retirement Home,TUSCOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vadavilla AFC Home,TUSCOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vassar Fields Assisted Living II,TUSCOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Vassar Fields Assisted Living III,TUSCOLA,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Beacon Home at Wave Crest,VAN BUREN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Maple Lake Assisted Living,VAN BUREN,HFA,,1.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,River Ridge Retirement Village,VAN BUREN,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,River Ridge Retirement Village Specialized Care,VAN BUREN,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,White Oaks Assisted Living - I,VAN BUREN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,White Oaks Assisted Living - II,VAN BUREN,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Atria Park of Ann Arbor,WASHTENAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Balfour Ann Arbor,WASHTENAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eisenhower Center  - East Hall,WASHTENAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eisenhower Center  - South Main,WASHTENAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eisenhower Center North Hall,WASHTENAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eva's House at Glacier Hills,WASHTENAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Fr Guanella Hall,WASHTENAW,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,K C Hall,WASHTENAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Moriah Hall,WASHTENAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Saint Joseph Hall,WASHTENAW,AFC,,0.0,,0.0,,2.0,,0.0,Yes
+11-09-2020,StoryPoint of Ann Arbor,WASHTENAW,HFA,,2.0,,1.0,,2.0,,0.0,Yes
+11-09-2020,Superior Woods Healthcare Center,WASHTENAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Meadows at Silver Maples,WASHTENAW,HFA,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,University Living,WASHTENAW,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"Vibrant Life Senior Living, Superior #1",WASHTENAW,AFC,,7.0,,2.0,,5.0,,0.0,Yes
+11-09-2020,"Vibrant Life Senior Living, Superior #3",WASHTENAW,AFC,,5.0,,3.0,,5.0,,0.0,Yes
+11-09-2020,"Vibrant Life Senior Living, Superior #4",WASHTENAW,AFC,,6.0,,3.0,,5.0,,0.0,Yes
+11-09-2020,Vibrant Life Sr. Living Superior #2,WASHTENAW,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,American House Grosse Pointe Cottage,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Anthology of Northville,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Bickford of Canton,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brighter Haven,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Brighton Gardens of Northville,WAYNE,HFA,,19.0,,9.0,,8.0,,0.0,Yes
+11-09-2020,Brownstown Forest View Assisted Living,WAYNE,HFA,,2.0,,1.0,,4.0,,0.0,Yes
+11-09-2020,Brush Street Residence,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Cedar Woods Assisted Living,WAYNE,HFA,,45.0,,16.0,,33.0,,0.0,Yes
+11-09-2020,Cedarbrook of Northville,WAYNE,HFA,,19.0,,6.0,,15.0,,0.0,Yes
+11-09-2020,Crystal Creek Assisted Living 2,WAYNE,AFC,,1.0,,1.0,,1.0,,0.0,Yes
+11-09-2020,Crystal Creek Assisted Living 3,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Crystal Creek Assisted Living 4,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Crystal Creek Assisted Living I,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,"E M Colemans Afc, Inc.",WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Elmcroft of Downriver,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Eubanks Community Living,WAYNE,AFC,,0.0,,1.0,,0.0,,0.0,Yes
+11-09-2020,Garden City Opportunity Manor,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Henry Ford Village Assisted Living Facility,WAYNE,HFA,,30.0,,15.0,,15.0,,0.0,Yes
+11-09-2020,Hillcrest Residence,WAYNE,AFC,,2.0,,1.0,,0.0,,0.0,Yes
+11-09-2020,Hitt AFC,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Hudson Home I Inc,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Kellys AFC,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Kings Special Care Homes Inc,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Livonia Opportunity House,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Mack Adult Foster Care Home,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Manoogian Manor,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Marquette House,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,New Center Inn Company,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Noble Home II,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Passion and Caring Home for the Elderly,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Plymouth Inn,WAYNE,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Plymouth Opportunity House,WAYNE,AFC,,0.0,,0.0,,1.0,,0.0,Yes
+11-09-2020,Reginas Home,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Rockwood Home,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stallworth AFC 1,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stallworth AFC 2,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Stallworth AFC 3,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sunrise Assisted Living of Northville,WAYNE,HFA,,14.0,,9.0,,5.0,,0.0,Yes
+11-09-2020,The Rivers Assisted Living,WAYNE,HFA,,2.0,,1.0,,1.0,,0.0,Yes
+11-09-2020,TheHarry&JeanetteWeinbergGreenHouses at,WAYNE,HFA,,6.0,,3.0,,4.0,,0.0,Yes
+11-09-2020,W C Turner I,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Waltonwood at Cherry Hill II,WAYNE,HFA,,34.0,,15.0,,19.0,,0.0,Yes
+11-09-2020,Williams Community Living,WAYNE,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Curry House,WEXFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Curry House II,WEXFORD,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Green Acres Retirement Living Cadillac,WEXFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Maple Ridge Living Center Cadillac,WEXFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pleasant Lake Lodge North,WEXFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Pleasant Lake Lodge South,WEXFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Serenity Adult Foster Care,WEXFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,Sunnyside Senior Living,WEXFORD,AFC,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Legacy at Howell,LIVINGSTON,HFA,,0.0,,0.0,,0.0,,0.0,Yes
+11-09-2020,The Oaks at Byron Center HFA,KENT,HFA,,0.0,,0.0,,0.0,,0.0,Yes

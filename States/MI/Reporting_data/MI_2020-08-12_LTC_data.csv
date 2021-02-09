@@ -1,0 +1,445 @@
+County,Facility Name,Resident Cumulative Confirmed Cases,Resident Cumulative COVID-19 Deaths,Staff Cumulative Confirmed Cases,Staff Cumulative COVID-19 Deaths
+OAKLAND,~SKLD - West Bloomfield~,200.0,11.0,6.0,0.0
+WAYNE,Regency A Villa Center ,189.0,14.0,19.0,0.0
+WAYNE,"Westland, A Villa Center",133.0,21.0,17.0,0.0
+OAKLAND,SKLD - Bloomfield Hills,132.0,14.0,16.0,0.0
+WAYNE,"Imperial, A Villa Center",103.0,19.0,10.0,0.0
+WAYNE,Fairlane Senior Care and Rehab Center,102.0,24.0,59.0,0.0
+MACOMB,Father Murray Nursing Center,98.0,23.0,55.0,1.0
+SAINT CLAIR,Medilodge of St. Clair,94.0,23.0,27.0,0.0
+OAKLAND,~Evergreen Health & Living Center~,94.0,7.0,16.0,1.0
+LIVINGSTON,Caretel Inns of Brighton,90.0,10.0,4.0,0.0
+MACOMB,"Lakepointe Senior Care & Rehab Ctr, LLC",90.0,27.0,32.0,0.0
+WAYNE,Regency Heights Nursing Center Detroit,89.0,32.0,41.0,0.0
+WAYNE,Beaumont Rehab & Continuing Care - DBN,88.0,29.0,25.0,0.0
+MACOMB,Church of Christ Care Center,85.0,24.0,53.0,0.0
+MACOMB,Autumn Woods Residential Health,82.0,35.0,39.0,0.0
+MACOMB,~St. Anthony Nursing Healthcare~,82.0,19.0,17.0,0.0
+KENT,Samaritas Lodge (SNF),78.0,33.0,27.0,0.0
+MACOMB,Shelby Nursing Center,77.0,13.0,20.0,0.0
+WAYNE,"Ambassador, A Villa Center",76.0,28.0,51.0,0.0
+BERRIEN,West Woods of Niles,76.0,20.0,39.0,0.0
+WAYNE,Rivergate Health Care Center,74.0,20.0,52.0,0.0
+WAYNE,Heartland Health Care Center - Dearborn ,74.0,15.0,29.0,0.0
+MACOMB,Medilodge of Sterling Heights,73.0,16.0,33.0,0.0
+MACOMB,Advantage Living Center - Roseville,72.0,20.0,9.0,1.0
+WAYNE,Rivergate Terrace,72.0,37.0,36.0,1.0
+MACOMB,The Villa At City Center,72.0,17.0,27.0,0.0
+WAYNE,~The Lodge at Taylor~,71.0,12.0,7.0,0.0
+WAYNE,Advantage Living Center Harper Woods,70.0,23.0,13.0,1.0
+OAKLAND,Pomeroy Living - Rochester Skilled,70.0,20.0,20.0,0.0
+WAYNE,~Advantage Living Center Wayne~,68.0,24.0,12.0,0.0
+WAYNE,"Applewood Nursing Center, Inc.",68.0,9.0,31.0,0.0
+GENESEE,Kith Haven,67.0,23.0,20.0,0.0
+OAKLAND,West Bloomfield Nursing Center,66.0,19.0,23.0,0.0
+WAYNE,~Advantage Living Center Northwest~,66.0,20.0,27.0,0.0
+GENESEE,Maple Woods Manor,65.0,31.0,90.0,0.0
+WAYNE,St. James Nursing Center,64.0,13.0,21.0,0.0
+KALAMAZOO,Medilodge of Kalamazoo,63.0,23.0,22.0,0.0
+OAKLAND,The Manor of Farmington Hills,62.0,14.0,12.0,0.0
+SAGINAW,Wellspring Lutheran Frankenmuth,62.0,28.0,28.0,0.0
+WAYNE,The Villa at Great Lakes Crossing,61.0,17.0,20.0,0.0
+ALPENA,Medilodge Alpena,61.0,9.0,31.0,0.0
+OAKLAND,The Manor of Novi,60.0,41.0,16.0,0.0
+MACOMB,~Regency at Shelby Township~,59.0,14.0,26.0,0.0
+MACOMB,Pomeroy Sterling Skilled Rehab,58.0,28.0,33.0,1.0
+SHIAWASSEE,Durand Senior Care and Rehab Center,58.0,14.0,41.0,0.0
+MACOMB,~Shorepoint Nursing Center~,57.0,16.0,30.0,1.0
+WAYNE,Qualicare Nursing Home,57.0,14.0,23.0,0.0
+WAYNE,Riverview Health and Rehab Ctr,57.0,18.0,33.0,0.0
+WAYNE,Heartland Health Care Center-Livonia,57.0,8.0,11.0,0.0
+GENESEE,~Willowbrook Manor~,55.0,20.0,10.0,0.0
+WAYNE,Heartland Health Care Center Allen Park,55.0,11.0,13.0,0.0
+OAKLAND,Woodward Hills Nursing Center,55.0,4.0,18.0,0.0
+WAYNE,Sheffield Manor Nursing & Rehab Center,54.0,12.0,31.0,1.0
+MACOMB,Martha T Berry MCF,53.0,22.0,50.0,0.0
+WAYNE,Oakpointe Senior Care and Rehab Center,53.0,15.0,6.0,0.0
+WAYNE,~SKLD Plymouth~,53.0,7.0,17.0,0.0
+WAYNE,~Advantage Living Center - Samaritan~,52.0,20.0,21.0,1.0
+WAYNE,West Oaks Senior Care and Rehab,52.0,0.0,20.0,0.0
+HILLSDALE,Hillsdale Co Medical Care Faci,51.0,20.0,50.0,0.0
+OAKLAND,Medilodge of Southfield,51.0,21.0,16.0,0.0
+WAYNE,Regency At Canton,50.0,10.0,12.0,0.0
+MACOMB,Advantage Living Center - Warren,50.0,38.0,23.0,0.0
+MACOMB,Warren Woods Health and Rehab Center,49.0,24.0,19.0,1.0
+WAYNE,Riverview Health and Rehab Ctr North,49.0,30.0,25.0,0.0
+OAKLAND,Beaumont Rehab & Continuing Care Farming,48.0,12.0,11.0,0.0
+GENESEE,Fenton HealthCare,47.0,5.0,16.0,0.0
+OAKLAND,Villa at Silverbell Estate,47.0,11.0,12.0,0.0
+WAYNE,Regency At Livonia,47.0,20.0,25.0,1.0
+OAKLAND,Medilodge of Rochester Hills,47.0,20.0,8.0,0.0
+MUSKEGON,~SKLD Muskegon~,47.0,8.0,27.0,0.0
+WAYNE,Beaconshire Nursing Center,47.0,7.0,18.0,1.0
+LAPEER,The Villages of Lapeer Nursing & Rehab,47.0,19.0,16.0,0.0
+WAYNE,The Villa at the Park,47.0,3.0,19.0,0.0
+OAKLAND,Notting Hill of West Bloomfield,46.0,12.0,15.0,0.0
+CALHOUN,Calhoun County Medical Care Facility,45.0,9.0,36.0,0.0
+MACOMB,Sanctuary at Fraser Villa,44.0,9.0,36.0,0.0
+WASHTENAW,Superior Woods Healthcare,44.0,13.0,8.0,0.0
+OAKLAND,Lahser Hills Care Centre,43.0,5.0,42.0,1.0
+WAYNE,Regency at Westland,42.0,7.0,12.0,0.0
+WAYNE,Four Chaplains Nursing Care Center,42.0,6.0,27.0,1.0
+WAYNE,Hartford Nursing & Rehab Center,42.0,14.0,20.0,0.0
+GENESEE,Heritage Manor Healthcare Center,42.0,0.0,29.0,1.0
+MACOMB,Heartland Healthcare - Sterling Heights,42.0,0.0,11.0,0.0
+INGHAM,Ingham County Medical Care Facility ,40.0,7.0,21.0,0.0
+WAYNE,Advantage Living Center Southgate,40.0,6.0,7.0,0.0
+BERRIEN,Hallmark Living--Benton Harbor,40.0,18.0,16.0,0.0
+WAYNE,"St. Joseph's, A Villa Center",39.0,3.0,7.0,0.0
+WASHTENAW,Chelsea Retirement Community,38.0,14.0,36.0,0.0
+WAYNE,Fountain Bleu Health & Rehabilitation ,37.0,5.0,12.0,0.0
+WAYNE,SKLD Livonia ,37.0,13.0,12.0,0.0
+SAGINAW,Great Lakes Rehab Center,36.0,8.0,15.0,0.0
+KENT,Mission Point of Cedar Springs,36.0,11.0,10.0,0.0
+WAYNE,"Boulevard Manor, LLC",36.0,9.0,8.0,0.0
+WAYNE,The Bay at Elmwood Health and Rehab,35.0,12.0,10.0,1.0
+OAKLAND,Cambridge East Healthcare Center,35.0,17.0,18.0,0.0
+TUSCOLA,Medilodge of Cass City,34.0,7.0,12.0,0.0
+OAKLAND,The Villa at Green Lake Estates,34.0,7.0,34.0,0.0
+WAYNE,Belle Fountain Nursing & Rehab Center,34.0,6.0,29.0,0.0
+OTSEGO,Medilodge of Gaylord,33.0,7.0,23.0,0.0
+WAYNE,Medilodge of Taylor,33.0,12.0,19.0,0.0
+WAYNE,The Bay at Woodward Health and Rehab,33.0,14.0,24.0,0.0
+OAKLAND,Cambridge North Healthcare Center ,33.0,17.0,22.0,0.0
+OAKLAND,Canterbury on the Lake,32.0,7.0,31.0,0.0
+WAYNE,Westwood Nursing Center,32.0,3.0,6.0,0.0
+GENESEE,Regency at Grand Blanc,31.0,13.0,16.0,0.0
+MACOMB,~Regency at St Clair Shores~,31.0,4.0,12.0,0.0
+OAKLAND,"Lakeland Center, The",31.0,5.0,47.0,0.0
+CASS,Cass County Medical Care Facility,30.0,8.0,24.0,0.0
+SAGINAW,Samaritas  Senior Living Saginaw,30.0,12.0,16.0,1.0
+WAYNE,Heartland Health Care Center - Canton,30.0,15.0,19.0,0.0
+MACOMB,Medilodge of Shoreline,29.0,9.0,6.0,0.0
+WAYNE,~Advantage Living Center Redford~,29.0,4.0,14.0,0.0
+OTTAWA,MediLodge at the Shore,28.0,6.0,8.0,0.0
+KENT,Laurels of Kent (The),28.0,8.0,7.0,0.0
+OAKLAND,Bloomfield Orchard Villa,27.0,1.0,9.0,0.0
+IOSCO,Lakeview Manor Healthcare Center,27.0,4.0,21.0,0.0
+WAYNE,Hamilton Nursing Home,27.0,7.0,6.0,0.0
+MACOMB,The Village of East Harbor,27.0,7.0,13.0,0.0
+OAKLAND,Lake Orion Nursing Center,26.0,6.0,20.0,0.0
+WAYNE,Omni Continuing Care,26.0,10.0,17.0,2.0
+MARQUETTE,Norlite Nursing Center,26.0,8.0,9.0,0.0
+KENT,Healthbridge Post-Acute Rehabilitation,26.0,4.0,7.0,0.0
+SAINT CLAIR,Medilodge of Port Huron ,25.0,3.0,6.0,0.0
+MONTCALM,Mission Point of Greenville,25.0,3.0,5.0,0.0
+WASHTENAW,Regency At Whitmore Lake,24.0,0.0,1.0,0.0
+ISABELLA,Isabella Co Medical Care Facility,23.0,4.0,13.0,0.0
+WAYNE,Marywood Nursing Care Center,23.0,2.0,16.0,0.0
+INGHAM,Medilodge of Okemos,23.0,1.0,4.0,0.0
+TUSCOLA,Tuscola Count Medical Care Community ,23.0,13.0,11.0,0.0
+OAKLAND,Marvin & Betty Danto Family Health Care ,23.0,4.0,10.0,0.0
+MUSKEGON,Roosevelt Park Nursing Centre,23.0,6.0,18.0,1.0
+WAYNE,"Henry Ford Village, Inc. ",22.0,14.0,22.0,0.0
+OAKLAND,Medilodge of Farmington,22.0,10.0,1.0,0.0
+WAYNE,Mission Point of Detroit Nursing & Rehab,21.0,7.0,14.0,0.0
+GENESEE,Heartland HCC Briarwood,21.0,5.0,12.0,0.0
+KENT,Holland Home - Raybrook Manor,20.0,1.0,9.0,0.0
+BAY,Heartland HCC - Hampton,20.0,5.0,13.0,0.0
+KENT,~SKLD Beltline~,20.0,10.0,17.0,0.0
+GRATIOT,Masonic Health Care Center,20.0,7.0,15.0,0.0
+LIVINGSTON,Wellbridge of Brighton,20.0,6.0,17.0,0.0
+BERRIEN,Pine Ridge - A Rehab & Nursing Center,20.0,3.0,15.0,0.0
+MACOMB,Clinton Aire Healthcare Center,19.0,2.0,2.0,0.0
+WAYNE,Heritage Manor Nursing and Rehab Center,19.0,3.0,14.0,0.0
+CRAWFORD,Munson Health Crawford Continuing Care ,18.0,2.0,15.0,0.0
+OAKLAND,Oakridge Manor Nursing and Rehab Center,18.0,8.0,11.0,0.0
+CRAWFORD,Grayling Nursing & Rehab Community,18.0,2.0,31.0,0.0
+OAKLAND,~Cambridge South Healthcare Center~,18.0,8.0,10.0,0.0
+OAKLAND,Heartland Health Care Center - Oakland,18.0,4.0,10.0,0.0
+CALHOUN,Laurels of Bedford,18.0,5.0,9.0,0.0
+BAY,Caretel Inns of Tricities,18.0,4.0,16.0,0.0
+WAYNE,Aerius Health Center ,18.0,6.0,10.0,0.0
+BERRIEN,Chalet of Niles-Nursing and Rehab Center,17.0,2.0,17.0,0.0
+SHIAWASSEE,Pleasant View Shiawassee County MCF,17.0,0.0,13.0,0.0
+OAKLAND,Bellbrook - Rochester Hills,17.0,6.0,26.0,0.0
+WAYNE,Cherry Hill for Nursing and Rehab,17.0,7.0,14.0,0.0
+OAKLAND,Mission Point of Holly,17.0,7.0,8.0,0.0
+CALHOUN,Advantage Living Center - Battle Creek,16.0,5.0,12.0,0.0
+WAYNE,Heartland HCC - Grosse Pointe Woods,16.0,5.0,6.0,0.0
+GRATIOT,Riverside Healthcare Center,16.0,4.0,5.0,0.0
+MACOMB,Shelby Crossing Health Campus,16.0,7.0,14.0,0.0
+INGHAM,MediLodge of East Lansing,15.0,0.0,8.0,0.0
+OAKLAND,St. Anne's Mead Nursing Facility ,15.0,11.0,22.0,0.0
+WAYNE,Woodhaven Retirement Community ,15.0,1.0,17.0,0.0
+GENESEE,Wellbridge of Fenton,14.0,7.0,10.0,0.0
+WASHTENAW,Care and Rehab Center at Glacier Hills,14.0,2.0,7.0,0.0
+SAGINAW,Hoyt Nursing & Rehab. Centre,14.0,6.0,9.0,0.0
+MACOMB,Regency Manor Nursing & Rehab Center,13.0,3.0,4.0,0.0
+BAY,Bay County Medical Care Facility,13.0,1.0,17.0,0.0
+WASHTENAW,Heartland HCC - Ann Arbor,12.0,2.0,10.0,0.0
+GENESEE,~Medilodge of Grand Blanc~,10.0,2.0,13.0,0.0
+KENT,St Anns Home,10.0,2.0,4.0,0.0
+LENAWEE,Lenawee Medical Care Facility ,10.0,2.0,7.0,0.0
+WAYNE,Marycrest Manor,10.0,3.0,16.0,0.0
+BERRIEN,Riveridge Rehab. and Health Center,9.0,2.0,13.0,0.0
+OAKLAND,Lourdes Rehabilitation and Healthcare ,9.0,2.0,17.0,0.0
+OAKLAND,WellBridge of Novi,9.0,4.0,15.0,0.0
+SAGINAW,"HealthSource Saginaw, Inc",9.0,1.0,19.0,0.0
+INGHAM,Burcham Hills Center for Health & Rehab,8.0,2.0,31.0,0.0
+WAYNE,Four Seasons Nursing Center of Westland,8.0,5.0,20.0,0.0
+SAGINAW,Covenant Healthcare System,8.0,0.0,4.0,0.0
+NEWAYGO,Transitional Health Services of Fremont,8.0,0.0,5.0,0.0
+MUSKEGON,Sanctuary at McAuley,7.0,0.0,6.0,0.0
+BAY,The Carriage House of Bay City,7.0,0.0,7.0,0.0
+SAINT JOSEPH,Fairview Living Center,6.0,0.0,1.0,0.0
+GRAND TRAVERSE,Grand Traverse Pavilions,6.0,0.0,8.0,0.0
+KALAMAZOO,Plainwell Pines Nursing & Rehab.,6.0,0.0,4.0,0.0
+GOGEBIC,Westgate Nursing & Rehab Community,6.0,0.0,15.0,0.0
+WAYNE,Special Tree Neurocare Center,6.0,3.0,11.0,0.0
+WASHTENAW,Regency At Bluffs Park,5.0,4.0,7.0,0.0
+LAPEER,Lapeer County Medical Care Facility,5.0,2.0,2.0,0.0
+BAY,Bay Shores Nursing Care Center,5.0,2.0,8.0,0.0
+SAINT JOSEPH,Heartland Health Care Center - Three Riv,4.0,0.0,5.0,0.0
+WAYNE,The Bay at Cranbrook Health and Rehab,4.0,3.0,0.0,0.0
+EATON,Regency at Lansing West,4.0,2.0,4.0,0.0
+KALAMAZOO,Harold & Grace Upjohn Community Care Ctr,4.0,1.0,5.0,0.0
+OAKLAND,Cedarbrook of Bloomfield Hills,4.0,3.0,2.0,0.0
+MIDLAND,Brittany Manor,4.0,0.0,5.0,0.0
+MACOMB,Medilodge of Richmond,4.0,1.0,7.0,0.0
+KENT,Porter Hills Health Center,4.0,0.0,11.0,0.0
+MONROE,Medilodge of Monroe,4.0,0.0,1.0,0.0
+DICKINSON,Freeman Nursing & Rehab,3.0,0.0,3.0,0.0
+KENT,MediLodge of Wyoming,3.0,0.0,5.0,0.0
+HURON,Courtney Manor,3.0,0.0,0.0,0.0
+ISABELLA,MediLodge of Mt Pleasant,3.0,1.0,1.0,0.0
+LENAWEE,Lynwood Manor Healthcare Center,3.0,0.0,2.0,0.0
+OAKLAND,WellBridge of Rochester Hills,3.0,0.0,4.0,0.0
+SAINT CLAIR,Regency On the Lake - Ft. Gratiot,3.0,0.0,1.0,0.0
+EATON,Eaton County Health and Rehabilitation ,3.0,0.0,8.0,0.0
+ARENAC,Ascension Standish Hospital & SNF,3.0,0.0,3.0,0.0
+KENT,Edison Christian Health Center,3.0,0.0,4.0,0.0
+OTTAWA,Allendale Nursing & Rehab. Community,2.0,0.0,19.0,0.0
+MONROE,Fountain View of Monroe,2.0,0.0,3.0,0.0
+OAKLAND,Oakland Nursing Center,2.0,0.0,5.0,0.0
+OAKLAND,Regency at Waterford,2.0,1.0,5.0,0.0
+OCEANA,Oceana Co Md Care Facility,2.0,0.0,13.0,1.0
+MUSKEGON,Sanctuary at the Park,2.0,0.0,8.0,0.0
+OTTAWA,Heritage Nursing & Rehab. Community,2.0,0.0,5.0,0.0
+WEXFORD,Samaritas Senior Living Cadillac,2.0,0.0,1.0,0.0
+KENT,Covenant Village of the Great Lakes,2.0,0.0,4.0,0.0
+VAN BUREN,Bronson Commons,2.0,0.0,6.0,0.0
+ALLEGAN,Grace of Douglas,2.0,0.0,2.0,0.0
+WAYNE,The Rivers Hlth & Rehab Ctr of Grosse Pt,2.0,0.0,10.0,0.0
+BERRIEN,Royalton Manor,2.0,1.0,8.0,0.0
+CLINTON,Hazel I. Findlay Country Manor,2.0,0.0,3.0,0.0
+GLADWIN,Gladwin Pines Nursing Home,2.0,0.0,1.0,0.0
+JACKSON,Arbor Manor Care Center,2.0,1.0,7.0,0.0
+MACOMB,WellBridge of Romeo,2.0,1.0,5.0,0.0
+KENT,Mission Point of Forest Hills,2.0,0.0,1.0,0.0
+KENT,Pilgrim Manor,2.0,1.0,1.0,0.0
+KENT,Holland Home Breton Rehab & Living Ctr,2.0,0.0,5.0,0.0
+SAINT JOSEPH,Grace Healthcare of Three Rivers,1.0,0.0,1.0,0.0
+VAN BUREN,Meadow Woods Nursing & Rehab,1.0,0.0,4.0,0.0
+KENT,SKLD Wyoming,1.0,0.0,1.0,0.0
+LIVINGSTON,The Willows at Howell ,1.0,1.0,6.0,0.0
+MECOSTA,Mission Point of Big Rapids,1.0,0.0,1.0,0.0
+NEWAYGO,Newaygo Co Medical Care Facility,1.0,0.0,2.0,0.0
+KENT,Mary Free Bed Sub-Acute Rehabilitation,1.0,1.0,2.0,0.0
+OAKLAND,Westlake Health Campus,1.0,0.0,2.0,0.0
+KENT,Brookcrest,1.0,0.0,3.0,0.0
+KENT,Beacon Hill At Eastgate,1.0,0.0,6.0,0.0
+OTTAWA,Hallmark Living Holland,1.0,0.0,1.0,0.0
+MUSKEGON,Lake Woods Nursing and Rehabilitation,1.0,0.0,5.0,0.0
+LENAWEE,The Oasis at Adrian Rehabilitation ,1.0,1.0,0.0,0.0
+KALAMAZOO,Laurels of Galesburg,1.0,0.0,0.0,0.0
+GENESEE,The Oaks at Woodfield,1.0,0.0,6.0,0.0
+SAINT CLAIR,Medilodge of Yale,1.0,0.0,1.0,0.0
+JACKSON,Ridgecrest Health Campus,1.0,0.0,0.0,0.0
+JACKSON,Countryside Care Center,1.0,0.0,2.0,0.0
+MASON,Medilodge of Ludington,1.0,0.0,1.0,0.0
+OAKLAND,Medilodge of Milford,1.0,1.0,3.0,0.0
+INGHAM,MediLodge of Capital Area,1.0,0.0,6.0,0.0
+KENT,Spectrum Health Rehab and Nursing Center,1.0,0.0,11.0,0.0
+MONROE,The Oasis at Monroe Rehabilitation & Nur,1.0,0.0,4.0,0.0
+CLARE,North Woods Nursing Center,1.0,0.0,2.0,0.0
+MARQUETTE,Dj Jacobetti Home For Veterans,1.0,0.0,1.0,0.0
+BAY,Huron Woods Nursing Center,1.0,0.0,2.0,0.0
+MARQUETTE,Marquette County Medical Care Facility,1.0,0.0,3.0,0.0
+CALHOUN,Medilodge of Marshall,1.0,0.0,4.0,0.0
+PRESQUE ISLE,Medilodge of Rogers City,1.0,0.0,1.0,0.0
+CALHOUN,The Oaks at Northpointe Woods,1.0,0.0,1.0,0.0
+WAYNE,Medilodge of Plymouth ,1.0,0.0,1.0,0.0
+HURON,Huron County Medical Care Facility,1.0,0.0,1.0,0.0
+OGEMAW,Villa at West Branch,1.0,0.0,1.0,0.0
+MACOMB,Advantage Living Center - Armada,1.0,1.0,2.0,0.0
+OTTAWA,Medilodge of Holland,1.0,0.0,1.0,0.0
+DELTA,Christian Park HCC,1.0,0.0,2.0,0.0
+DICKINSON,Manorcare Nursing and Rehab Center,1.0,0.0,0.0,0.0
+WAYNE,Livonia Woods Nursing and Rehabilitation,0.0,0.0,4.0,0.0
+OSCEOLA,Spectrum Health Reed City Hospital RNC,0.0,0.0,0.0,0.0
+WAYNE,~Regency at Chene~,0.0,14.0,18.0,0.0
+ONTONAGON,Aspirus Ontonagon Hospital LTC,0.0,0.0,0.0,0.0
+OGEMAW,Villa at Rose City ,0.0,0.0,0.0,0.0
+WAYNE,Pine Creek Manor Skilled Nursing & Rehab,0.0,0.0,0.0,0.0
+WAYNE,"Boulevard Temple Care Center, LLC",0.0,0.0,0.0,0.0
+WAYNE,Star Manor of Northville,0.0,0.0,0.0,0.0
+SAGINAW,St. Francis Home,0.0,0.0,2.0,0.0
+WAYNE,Maple Manor Rehab Center,0.0,0.0,9.0,0.0
+VAN BUREN,South Haven Nursing & Rehab,0.0,0.0,7.0,0.0
+OSCODA,Wellspring Lutheran Services Fairview,0.0,0.0,0.0,0.0
+SCHOOLCRAFT,Schoolcraft County Medical Care Facility,0.0,0.0,1.0,0.0
+SAINT JOSEPH,Thurston Woods Village,0.0,0.0,5.0,0.0
+SANILAC,Autumnwood of Deckerville,0.0,0.0,1.0,0.0
+SAGINAW,Chesaning Nursing & Rehab Center,0.0,4.0,8.0,0.0
+SAGINAW,Avista Nursing and Rehab,0.0,0.0,4.0,0.0
+ROSCOMMON,The Lighthouse At Roscommon,0.0,0.0,0.0,0.0
+SANILAC,Marlette Community Hospital LTCU,0.0,0.0,1.0,0.0
+ROSCOMMON,King Nursing and Rehab Community,0.0,0.0,0.0,0.0
+SANILAC,Sanilac Medical Care Facility,0.0,0.0,0.0,0.0
+OTTAWA,SKLD Zeeland,0.0,0.0,4.0,0.0
+OTTAWA,Riverside Nursing Centre,0.0,0.0,3.0,0.0
+OTTAWA,North Ottawa Care Center,0.0,0.0,0.0,0.0
+OTTAWA,Mission Point of Lamont,0.0,0.0,0.0,0.0
+WAYNE,Aberdeen Rehab and Skilled Nursing Ctr,0.0,0.0,0.0,0.0
+SHIAWASSEE,Memorial Healthcare Center,0.0,0.0,0.0,0.0
+OTTAWA,Laurels of Hudsonville (The),0.0,0.0,0.0,0.0
+OTTAWA,"Inn at Freedom Village, The",0.0,0.0,3.0,0.0
+TUSCOLA,Fisher Senior Care and Rehabilitation,0.0,0.0,0.0,0.0
+SAGINAW,~Medilodge of Frankenmuth~,0.0,0.0,1.0,0.0
+SAGINAW,Saginaw Senior Care,0.0,0.0,4.0,0.0
+VAN BUREN,Graceway at Countryside,0.0,0.0,1.0,0.0
+WASHTENAW,Evangelical Home - Saline,0.0,0.0,6.0,0.0
+OTSEGO,Munson Healthcare Otsego Mem Hosp - LTC,0.0,0.0,0.0,0.0
+WASHTENAW,Gilbert Residence,0.0,0.0,1.0,0.0
+WASHTENAW,The Villa at Parkridge,0.0,23.0,12.0,0.0
+SAINT CLAIR,Marwood Manor Nursing Home,0.0,0.0,0.0,0.0
+ALCONA,Jamieson Nursing Home,0.0,0.0,0.0,0.0
+OAKLAND,West Hickory Haven,0.0,0.0,1.0,0.0
+GENESEE,Wellbridge of Grand Blanc ,0.0,0.0,4.0,0.0
+GRATIOT,Ashley Care Center,0.0,0.0,0.0,0.0
+GRAND TRAVERSE,The Villa at Traverse Point,0.0,0.0,0.0,0.0
+GRAND TRAVERSE,Medilodge of Traverse City,0.0,0.0,0.0,0.0
+GRAND TRAVERSE,~Medilodge of Grand Traverse County~,0.0,0.0,2.0,0.0
+GOGEBIC,Gogebic Medical Care Facility ,0.0,0.0,3.0,0.0
+GLADWIN,Gladwin Nursing & Rehab. Community,0.0,0.0,0.0,0.0
+GENESEE,Medilodge of Montrose,0.0,0.0,1.0,0.0
+OAKLAND,WellBridge of Clarkston,0.0,0.0,5.0,0.0
+GENESEE,Heartland HCC Fostrian,0.0,0.0,4.0,0.0
+GENESEE,Genesys Short Term Rehabilitation Center,0.0,0.0,1.0,0.0
+GENESEE,Caretel Inns of Linden,0.0,0.0,4.0,0.0
+GENESEE,Argentine Care Center,0.0,0.0,2.0,0.0
+EMMET,The Villa at the Bay,0.0,0.0,0.0,0.0
+EMMET,Bay Bluffs - Emmet Co. Medical Care,0.0,0.0,1.0,0.0
+GRATIOT,"Laurels of Fulton, The",0.0,0.0,1.0,0.0
+GRATIOT,Schnepp Senior Care & Rehab Center,0.0,0.0,2.0,0.0
+GRATIOT,Warwick Living Center,0.0,0.0,1.0,0.0
+HILLSDALE,Hillsdale Hosp McGuire & MacRitchie LTCU,0.0,0.0,0.0,0.0
+HOUGHTON,Canal View-Houghton,0.0,0.0,1.0,0.0
+HOUGHTON,GreenTree at Hubbell,0.0,0.0,0.0,0.0
+HOUGHTON,Portagepointe,0.0,0.0,0.0,0.0
+HOUGHTON,The Lighthouse at Hancock,0.0,0.0,0.0,0.0
+HURON,Lakeview Extended Care And Rehab,0.0,0.0,2.0,0.0
+HURON,Scheurer Long Term Care Unit,0.0,0.0,2.0,0.0
+INGHAM,Aria Nursing and Rehab,0.0,0.0,1.0,0.0
+INGHAM,Holt Senior Care and Rehab Center,0.0,0.0,0.0,0.0
+INGHAM,Medilodge of Campus Area,0.0,0.0,1.0,0.0
+INGHAM,The Willows at Okemos,0.0,0.0,4.0,0.0
+IONIA,Mission Point of Belding,0.0,0.0,1.0,0.0
+IONIA,SKLD Ionia,0.0,0.0,1.0,0.0
+IOSCO,Iosco County Medical Care Facility ,0.0,0.0,3.0,0.0
+EATON,Medilodge Of Lansing,0.0,0.0,0.0,0.0
+EATON,Dimondale Nursing Care Center,0.0,0.0,1.0,0.0
+DELTA,Christian Park Village,0.0,0.0,2.0,0.0
+BERRIEN,Coventry House Inn,0.0,0.0,0.0,0.0
+ALGER,Medilodge of Munising,0.0,0.0,0.0,0.0
+ALLEGAN,Allegan County Medical Care Community,0.0,0.0,2.0,0.0
+ALLEGAN,Ely Manor Nursing & Rehab,0.0,0.0,0.0,0.0
+ALLEGAN,Laurels of Sandy Creek,0.0,0.0,3.0,0.0
+ALLEGAN,Life Care Center of Plainwell ,0.0,0.0,0.0,0.0
+ALLEGAN,Resthaven Care Center,0.0,0.0,2.0,0.0
+ALPENA,Medilodge of Greenview,0.0,0.0,0.0,0.0
+ANTRIM,Meadow Brook MCF,0.0,0.0,0.0,0.0
+ARENAC,Medilodge of Sterling,0.0,0.0,1.0,0.0
+BARAGA,Bayside Village,0.0,0.0,3.0,0.0
+BARRY,Hastings Rehab and Healthcare Center,0.0,0.0,0.0,0.0
+BARRY,Thornapple Manor,0.0,0.0,0.0,0.0
+BENZIE,Maples Benzie Co Medical Care,0.0,0.0,1.0,0.0
+BENZIE,Paul Oliver Memorial Hospital LTCU,0.0,0.0,0.0,0.0
+BERRIEN,West Woods of Bridgman,0.0,0.0,4.0,0.0
+DELTA,Bishop Noa Home for Senior Citizens,0.0,0.0,0.0,0.0
+BRANCH,Laurels of Coldwater,0.0,0.0,1.0,0.0
+BRANCH,Maple Lawn Medical Care Facility,0.0,0.0,2.0,0.0
+CALHOUN,Evergreen Senior Care & Rehab Center,0.0,0.0,0.0,0.0
+CALHOUN,Heartland HCC - Battle Creek,0.0,0.0,0.0,0.0
+CALHOUN,Marshall Nursing & Rehab Community,0.0,0.0,2.0,0.0
+CASS,The Timbers of Cass County,0.0,0.0,4.0,0.0
+CHARLEVOIX,Boulder Park Terrace,0.0,0.0,1.0,0.0
+CHARLEVOIX,Grandvue Medical Care Facility,0.0,0.0,8.0,0.0
+CHEBOYGAN,Medilodge of Cheboygan ,0.0,0.0,0.0,0.0
+CHIPPEWA,Chippewa County War Mem Hosp LTCU,0.0,0.0,0.0,0.0
+CHIPPEWA,Medilodge of Sault Ste Marie,0.0,0.0,0.0,0.0
+CLARE,Medilodge of Clare,0.0,0.0,0.0,0.0
+CLINTON,Ovid Healthcare Center,0.0,0.0,0.0,0.0
+CLINTON,The Willows at East Lansing,0.0,0.0,1.0,0.0
+IOSCO,MediLodge of Tawas City,0.0,1.0,3.0,0.0
+IRON,Iron Co Medical Care Facility,0.0,0.0,2.0,0.0
+IRON,Iron River Care Center,0.0,0.0,0.0,0.0
+MONTCALM,Laurels of Carson City,0.0,0.0,0.0,0.0
+MARQUETTE,The Lighthouse Ishpeming,0.0,0.0,0.0,0.0
+MASON,Oakview Medical Care Facility,0.0,0.0,1.0,0.0
+MECOSTA,Altercare of Big Rapids,0.0,0.0,0.0,0.0
+MENOMINEE,Menominee Health Services,0.0,0.0,1.0,0.0
+MENOMINEE,Pinecrest Medical Care Facility,0.0,0.0,0.0,0.0
+MENOMINEE,Roubal Care & Rehab. Center,0.0,0.0,0.0,0.0
+MIDLAND,Medilodge of Midland,0.0,0.0,2.0,0.0
+MIDLAND,Midland King's Daughters Home,0.0,0.0,1.0,0.0
+MIDLAND,Stratford Pines ,0.0,0.0,0.0,0.0
+MISSAUKEE,Autumnwood of McBain,0.0,0.0,0.0,0.0
+MONROE,Hickory Ridge of Temperance,0.0,0.0,2.0,0.0
+MONROE,IHM Senior Living Community,0.0,0.0,5.0,0.0
+MONROE,Promedica Monroe Skilled Nursing & Rehab,0.0,0.0,1.0,0.0
+MONROE,Wellspring Lutheran Services Monroe,0.0,0.0,1.0,0.0
+MONTCALM,Spectrum Health RNC - Kelsey Hospital,0.0,0.0,0.0,0.0
+MANISTEE,Manistee County Medical Care Facility,0.0,0.0,0.0,0.0
+MONTCALM,Spectrum Health RNC - United Hospital,0.0,0.0,1.0,0.0
+MONTMORENCY,MediLodge of Hillman,0.0,0.0,0.0,0.0
+MUSKEGON,Christian Care Nursing Center,0.0,0.0,0.0,0.0
+MUSKEGON,Hillcrest Nursing & Rehab Community,0.0,0.0,1.0,0.0
+MUSKEGON,SKLD Whitehall,0.0,0.0,3.0,0.0
+OAKLAND,Catherine's Place,0.0,0.0,2.0,0.0
+OAKLAND,Clarkston Specialty Healthcare Center,0.0,0.0,2.0,0.0
+OAKLAND,Fox Run Village,0.0,3.0,13.0,0.0
+OAKLAND,Greenfield Rehab & Nursing Center,0.0,0.0,8.0,0.0
+OAKLAND,Maple Manor Rehab Center of Novi,0.0,0.0,4.0,0.0
+OAKLAND,Novi Lakes Health Campus,0.0,0.0,7.0,0.0
+OAKLAND,Oakland Manor Nursing Rehab Center,0.0,0.0,0.0,0.0
+OAKLAND,South Lyon Senior Care and Rehab,0.0,0.0,2.0,0.0
+OAKLAND,The Neighborhoods at White Lake,0.0,0.0,0.0,0.0
+ALCONA,Lincoln Haven Nursing & Rehab. Community,0.0,0.0,1.0,0.0
+MACOMB,Windemere Park Health and Rehab Center,0.0,0.0,7.0,0.0
+ISABELLA,Laurels of Mt. Pleasant (The),0.0,0.0,1.0,0.0
+KENT,The Oaks at Byron Center,0.0,0.0,4.0,0.0
+JACKSON,Allegra Nursing and Rehab,0.0,0.0,2.0,0.0
+JACKSON,Faith Haven Senior Care Centre,0.0,0.0,1.0,0.0
+JACKSON,Jackson County Medical Care Facility ,0.0,0.0,2.0,0.0
+JACKSON,Vista Grande Villa,0.0,0.0,2.0,0.0
+KALAMAZOO,Alamo Nursing Home,0.0,0.0,5.0,0.0
+KALAMAZOO,Borgess Gardens,0.0,0.0,3.0,0.0
+KALAMAZOO,Friendship Village,0.0,0.0,4.0,0.0
+KALAMAZOO,Medilodge of Portage,0.0,0.0,1.0,0.0
+KALAMAZOO,Medilodge of Westwood,0.0,0.0,1.0,0.0
+KALAMAZOO,The Springs at the Fountains,0.0,0.0,1.0,0.0
+KALKASKA,Kalkaska Memorial Health Center LTC,0.0,0.0,1.0,0.0
+KENT,Clark Retirement Community,0.0,0.0,2.0,0.0
+KENT,SKLD Leonard,0.0,0.0,1.0,0.0
+KENT,Spectrum Health Rehab & Nrsg Fuller,0.0,0.0,7.0,0.0
+KENT,Valley Health Center,0.0,0.0,0.0,0.0
+MACOMB,Orchard Grove Health Campus,0.0,0.0,4.0,0.0
+KENT,Valley View Care Center,0.0,0.0,1.0,0.0
+LAKE,Grand Oaks Nursing Center,0.0,0.0,2.0,0.0
+LAPEER,McLaren Lapeer Region Extended Care,0.0,0.0,2.0,0.0
+LAPEER,Stonegate Health Campus,0.0,0.0,4.0,0.0
+LEELANAU,Maple Valley Nursing Home,0.0,0.0,0.0,0.0
+LEELANAU,Medilodge of Leelanau,0.0,0.0,0.0,0.0
+LEELANAU,Orchard Creek Skilled Nursing,0.0,0.0,4.0,0.0
+LENAWEE,Provincial House of Adrian,0.0,0.0,3.0,0.0
+LIVINGSTON,MediLodge of Howell,0.0,0.0,1.0,0.0
+LIVINGSTON,~Medilodge of Livingston~,0.0,0.0,0.0,0.0
+LIVINGSTON,Wellbridge of Pinckney ,0.0,0.0,2.0,0.0
+LUCE,Helen Newberry Joy Hospital LTCU,0.0,0.0,0.0,0.0
+MACKINAC,Mackinac Straits Long Term Care Unit,0.0,0.0,1.0,0.0
+MACOMB,Lakeside Manor Nursing & Rehab Center,0.0,2.0,1.0,0.0
+MARQUETTE,Eastwood Nursing Center,0.0,0.0,3.0,0.0
+EMMET,Hiland Cottage,,,,
+KENT,Trilogy Healthcare Of Belmont,,,,
